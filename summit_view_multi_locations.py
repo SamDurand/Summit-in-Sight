@@ -4,7 +4,7 @@ from summit_lib import *
 top_left_corner, bottom_right_corner, location_summit = [47 , 5], [45 , 8], [45.832542 , 6.864717]
 offset_view = 2
 offset_summit = -100
-res = 50
+res = 0.5
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
