@@ -117,7 +117,7 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
 
     return data, view_possible
 
-def summit_is_visible_fast_online(location_point, location_summit, offset_view = 10, offset_summit = -100, samples = False):
+def summit_is_visible_fast_online(location_point, location_summit, offset_view = 10, offset_summit = -100, samples=False):
     """Return if a summit is visible or not.
     Method: api.opentopodata.org
     Dataset: srtm90m
@@ -147,7 +147,7 @@ def summit_is_visible_fast_online(location_point, location_summit, offset_view =
 
     url = "https://api.opentopodata.org/v1/srtm90m"
     json = {"locations": "".join([str(latitude[i]) + "," + str(longitude[i]) + '|' for i in range(samples)]).removesuffix("|"),
-            "interpolation": "cubic",}
+            "interpolation": "bilear",}
     response = requests.post(url, json)
     data = response.json()
     
@@ -205,7 +205,8 @@ def summit_is_visible_fast_offline(location_point, location_summit, offset_view 
 
     url = "http://localhost:5000/v1/srtm90m"
     json = {"locations": "".join([str(latitude[i]) + "," + str(longitude[i]) + '|' for i in range(samples)]).removesuffix("|"),
-            "interpolation": "nearest",}
+            "interpolation": "bilinear",
+            "nodata_value": -9999}
     response = requests.post(url, json)
     data = response.json()
 
@@ -233,6 +234,22 @@ def summit_is_visible_fast_offline(location_point, location_summit, offset_view 
     
     return view_possible
 
+def summit_is_visible_multi_locations(grid_locations, location_summit, offset_view, offset_summit):
+
+    locations = [[grid_locations["lat_grid"][i], grid_locations["lon_grid"][i]] for i in grid_locations.index]
+
+    view_possible = []
+    for i in tqdm(grid_locations.index):
+        try:
+            view_possible.append(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit))
+        except:
+            view_possible.append("error")
+
+    grid_locations_processed = grid_locations
+    grid_locations_processed["view_possible"] = view_possible
+
+    return grid_locations_processed
+    
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 def generate_locations_grid(top_left_corner, bottom_right_corner, res = 10): #resolution in km
     """Generate a grid of multiples locations
@@ -272,25 +289,3 @@ def plot_locations_map(grid_locations, color=False):
         fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     
     fig.show()
-
-def summit_is_visible_multi_locations(grid_locations, location_summit, offset_view, offset_summit, samples=False):
-    view_possible_grid = []
-    for i in tqdm(range(len(grid_locations["lat_grid"]))):
-        try:
-            location_1 = [grid_locations["lat_grid"][i], grid_locations["lon_grid"][i]]
-            view_possible = summit_is_visible_fast_offline(location_point=location_1, location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit, samples=samples)
-            view_possible_grid.append(view_possible)
-        except:
-            view_possible = "error"
-            view_possible_grid.append(view_possible)
-        
-        # save each 1000 iters
-        if i % 1000 == 0: 
-            with open("data.txt", "w") as f:
-                text = str(view_possible_grid)
-                f.write(text)
-            
-
-    grid_locations["view_possible"] = view_possible_grid
-    
-    return grid_locations
