@@ -235,19 +235,26 @@ def summit_is_visible_fast_offline(location_point, location_summit, offset_view 
     return view_possible
 
 def summit_is_visible_multi_locations(grid_locations, location_summit, offset_view, offset_summit):
-
+   
     locations = [[grid_locations["lat_grid"][i], grid_locations["lon_grid"][i]] for i in grid_locations.index]
 
-    view_possible = []
+    with open("data.txt", "w") as f:
+        f.write("view_possible \n")
+    f.close()
+    
     for i in tqdm(grid_locations.index):
         try:
-            view_possible.append(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit))
+            with open("data.txt", "a") as f:
+                f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + " \n")
+            f.close()
         except:
-            view_possible.append("error")
+            with open("data.txt", "a") as f:
+                f.write("error \n")
+            f.close()
 
     grid_locations_processed = grid_locations
-    grid_locations_processed["view_possible"] = view_possible
-
+    grid_locations_processed["view_possible"] = pd.read_csv("data.txt")
+    
     return grid_locations_processed
     
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
