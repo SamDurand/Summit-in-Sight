@@ -6,6 +6,8 @@ import pandas as pd
 from scipy.signal import find_peaks
 from plotly.express import scatter_mapbox
 from tqdm import tqdm
+from geopy.geocoders import Nominatim
+
 
 def trigo_to_complex(modulus, arg_z):
     """Compute a complex number from its trigonometric notation (from argument and modulus)
@@ -84,6 +86,25 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
     data = pd.DataFrame(columns=["latitude", "longitude", "elevation", "elevation_from_earth_center", "angle_from_origin", "Z", "real_Z", "imag_Z", "view_possible"],
                         data=np.column_stack([lat, long, elevation_profile, elevation_from_earth_center, angle_from_origin, Z, real_Z, imag_Z, view_possible_list]))
     
+    # Get locations names
+    # calling the nominatim tool
+    geoLoc = Nominatim(user_agent="GetLoc")
+
+    # passing the coordinates
+    locname_point = geoLoc.reverse((location_point[0], location_point[1]))
+    locname_summit = geoLoc.reverse((location_summit[0], location_summit[1]))
+
+    locname_point =  (locname_point.address)
+    locname_summit = (locname_summit.address)
+
+    print("Location point: " + locname_point)
+    print("Location summit: " + locname_summit)
+
+    if view_possible:
+        print("Summit in Sight!")
+    else:
+        print("Summit not in Sight...")
+
     if plot == True:
         # Create a plotting when the line of vision is below the relief level
         masked_view = np.array([np.nan if line_of_vision[i] > imag_Z[i] else line_of_vision[i] for i in range(samples)])
