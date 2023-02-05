@@ -44,7 +44,7 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
     offset_view, offset_summit, geodesic_distance, geodesic_earth_perimeter = offset_view/1000,  offset_summit/1000, GeodesicDistance(location_point, location_summit).km, (2*np.pi*earth_radius)
 
     if not samples:
-        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 else 100)
+        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 and round(geodesic_distance) >= 20 else 100)
 
     # Compute angle between the 2 locations and create a vector with sampling split of the total angle 
     angle_total_rad = np.deg2rad((geodesic_distance/geodesic_earth_perimeter)*360) 
@@ -136,7 +136,7 @@ def summit_is_visible_fast_online(location_point, location_summit, offset_view =
     offset_view, offset_summit, geodesic_distance, geodesic_earth_perimeter = offset_view/1000,  offset_summit/1000, GeodesicDistance(location_point, location_summit).km, (2*np.pi*earth_radius)
     
     if not samples:
-        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 else 100)
+        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 and round(geodesic_distance) >= 20 else 100)
         
     # Compute angle between the 2 locations and create a vector with sampling split of the total angle 
     angle_total_rad = np.deg2rad((geodesic_distance/geodesic_earth_perimeter)*360) 
@@ -194,7 +194,7 @@ def summit_is_visible_fast_offline(location_point, location_summit, offset_view 
     offset_view, offset_summit, geodesic_distance, geodesic_earth_perimeter = offset_view/1000,  offset_summit/1000, GeodesicDistance(location_point, location_summit).km, (2*np.pi*earth_radius)
 
     if not samples:
-        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 else 100)
+        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 and round(geodesic_distance) >= 20 else 100)
 
     # Compute angle between the 2 locations and create a vector with sampling split of the total angle 
     angle_total_rad = np.deg2rad((geodesic_distance/geodesic_earth_perimeter)*360) 
@@ -238,22 +238,22 @@ def summit_is_visible_multi_locations(grid_locations, location_summit, offset_vi
    
     locations = [[grid_locations["lat_grid"][i], grid_locations["lon_grid"][i]] for i in grid_locations.index]
 
-    with open("data.txt", "w") as f:
+    with open("data_temp.txt", "w") as f:
         f.write("view_possible \n")
     f.close()
     
     for i in tqdm(grid_locations.index):
         try:
-            with open("data.txt", "a") as f:
+            with open("data_temp.txt", "a") as f:
                 f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + " \n")
             f.close()
         except:
-            with open("data.txt", "a") as f:
+            with open("data_temp.txt", "a") as f:
                 f.write("error \n")
             f.close()
 
     grid_locations_processed = grid_locations
-    grid_locations_processed["view_possible"] = pd.read_csv("data.txt")
+    grid_locations_processed["view_possible"] = pd.read_csv("data_temp.txt")
     
     return grid_locations_processed
     
@@ -292,7 +292,7 @@ def plot_locations_map(grid_locations, color=False):
         fig = scatter_mapbox(grid_locations, lat="lat_grid", lon="lon_grid", zoom=6, mapbox_style="open-street-map")
         fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     else:
-        fig = scatter_mapbox(grid_locations, lat="lat_grid", lon="lon_grid", zoom=6, height=300, color=color, mapbox_style="open-street-map")                
+        fig = scatter_mapbox(grid_locations, lat="lat_grid", lon="lon_grid", zoom=6, color=color, mapbox_style="open-street-map")                
         fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     
     fig.show()
