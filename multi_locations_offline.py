@@ -1,7 +1,9 @@
 from summit_lib import *
 
 top_left_corner, bottom_right_corner = [50, -7], [36, 19]
+
 location_summit = [45.832542 , 6.864717] # Mont_Blanc
+
 offset_view = 2
 offset_summit = -100
 res = 2.5 #km

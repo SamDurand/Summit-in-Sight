@@ -64,7 +64,8 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
     offset_view, offset_summit, geodesic_distance, geodesic_earth_perimeter = offset_view/1000,  offset_summit/1000, GeodesicDistance(location_point, location_summit).km, (2*np.pi*earth_radius)
 
     if not samples:
-        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 and round(geodesic_distance) >= 20 else 100)
+        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 else 100)
+        samples = (100 if round(geodesic_distance) < 20 else samples)
 
     # Compute angle between the 2 locations and create a vector with sampling split of the total angle 
     angle_total_rad = np.deg2rad((geodesic_distance/geodesic_earth_perimeter)*360) 
@@ -178,8 +179,9 @@ def summit_is_visible_fast_online(location_point, location_summit, offset_view =
     offset_view, offset_summit, geodesic_distance, geodesic_earth_perimeter = offset_view/1000,  offset_summit/1000, GeodesicDistance(location_point, location_summit).km, (2*np.pi*earth_radius)
     
     if not samples:
-        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 and round(geodesic_distance) >= 20 else 100)
-        
+        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 else 100)
+        samples = (100 if round(geodesic_distance) < 20 else samples)
+
     # Compute angle between the 2 locations and create a vector with sampling split of the total angle 
     angle_total_rad = np.deg2rad((geodesic_distance/geodesic_earth_perimeter)*360) 
     angle_from_origin = np.flip(np.linspace(np.pi/2 - angle_total_rad/2, np.pi/2 + angle_total_rad/2 , samples)) # + pi/2 pour centrer le tracé
@@ -236,7 +238,7 @@ def summit_is_visible_fast_offline(location_point, location_summit, offset_view 
     offset_view, offset_summit, geodesic_distance, geodesic_earth_perimeter = offset_view/1000,  offset_summit/1000, GeodesicDistance(location_point, location_summit).km, (2*np.pi*earth_radius)
 
     if not samples:
-        samples = (round(geodesic_distance) if round(geodesic_distance) <= 200 else 200)
+        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 else 100)
         samples = (100 if round(geodesic_distance) < 20 else samples) 
 
     # Compute angle between the 2 locations and create a vector with sampling split of the total angle 
@@ -285,11 +287,14 @@ def summit_is_visible_multi_locations(grid_locations, location_summit, offset_vi
     f.close()
     
     for i in tqdm(grid_locations.index):
-       
-        with open("data_temp.txt", "a") as f:
-            f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + " \n")
-        f.close()
-        
+        try:
+            with open("data_temp.txt", "a") as f:
+                f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
+            f.close()
+        except:
+            with open("data_temp.txt", "a") as f:
+                f.write("error")
+            f.close()
 
     grid_locations_processed = grid_locations
     grid_locations_processed["view_possible"] = pd.read_csv("data_temp.txt")
