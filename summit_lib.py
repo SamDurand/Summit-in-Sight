@@ -68,8 +68,9 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
 
     # Compute angle between the 2 locations and create a vector with sampling split of the total angle 
     angle_total_rad = np.deg2rad((geodesic_distance/geodesic_earth_perimeter)*360) 
-    angle_from_origin = np.flip(np.linspace(np.pi/2 - angle_total_rad/2, np.pi/2 + angle_total_rad/2 , samples)) # + pi/2 pour centrer le tracé
+    angle_from_origin = np.flip(np.linspace(np.pi/2 - angle_total_rad/2, np.pi/2 + angle_total_rad/2 , samples)) # + pi/2 to center plotting vertically
 
+    # Query elevation from online api
     latitude = np.linspace(location_point[0], location_summit[0], samples)
     longitude = np.linspace(location_point[1], location_summit[1], samples)
 
@@ -79,10 +80,10 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
     response = requests.post(url, json)
     data = response.json()
 
-    elevation_profile, lat, long, elevation_from_earth_center = np.array([data['results'][i]["elevation"] for i in range(samples)], dtype=int), \
+    elevation_profile, lat, long, elevation_from_earth_center = np.array([data['results'][i]["elevation"] if data['results'][i]["elevation"] != None else 0 for i in range(samples)], dtype=int), \
                                                                 np.array([data['results'][i]["location"]["lat"] for i in range(samples)]), \
                                                                 np.array([data['results'][i]["location"]["lng"] for i in range(samples)]), \
-                                                                np.add(np.array([data['results'][i]["elevation"] for i in range(samples)], dtype=int)/1000, earth_radius) # Elevation_from_earth_center in km
+                                                                np.add(np.array([data['results'][i]["elevation"] if data['results'][i]["elevation"] != None else 0 for i in range(samples)], dtype=int)/1000, earth_radius) # Elevation_from_earth_center in km
                                                                 
     # Generate complex coordinates of each point (relief). We have arg(Z) = angle from point origin and modulus of Z = elevation from earth center
     Z = np.array([trigo_to_complex(elevation_from_earth_center[i], angle_from_origin[i]) for i in range(samples)])
@@ -100,16 +101,23 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
     view_possible_list = np.array([True if line_of_vision[i] > imag_Z[i] else False for i in range(samples)])
     view_possible = np.all([view_possible_list[i] for i in range(round(samples*0.95))]) # The for * 0.95 is not to take in consideration the collision of the line of vision with the target summit itself
 
-    # Create a pandas df
+    # Create a pandas df to gather data
     data = pd.DataFrame(columns=["latitude", "longitude", "elevation", "elevation_from_earth_center", "angle_from_origin", "Z", "real_Z", "imag_Z", "view_possible"],
                         data=np.column_stack([lat, long, elevation_profile, elevation_from_earth_center, angle_from_origin, Z, real_Z, imag_Z, view_possible_list]))
     
     # Get locations names
     geoLoc = Nominatim(user_agent="GetLoc")
-    locname_point = geoLoc.reverse((location_point[0], location_point[1])).address
-    locname_summit = geoLoc.reverse((location_summit[0], location_summit[1])).address
-    print("Location point: " + locname_point)
-    print("Location summit: " + locname_summit)
+    try:
+        locname_point = geoLoc.reverse((location_point[0], location_point[1])).address
+        print("Location point: " + locname_point)
+    except:
+        print("Location point: " + str(latitude[0]) + " " + str(longitude[0]))
+
+    try:
+        locname_summit = geoLoc.reverse((location_summit[0], location_summit[1])).address
+        print("Location summit: " + locname_summit)
+    except:
+        print("Location summit: " + str(latitude[0]) + " " + str(longitude[0]))
 
     if view_possible:
         print("Summit in sight!")
@@ -125,9 +133,9 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
         fig, axs = plt.subplots(3)
         
         message = ("Summit is visible!" if view_possible else "Summit is not visible ..")
-        fontdict = ({'family':'serif','color':'green','weight': 'bold','size':20} if view_possible else {'family':'serif','color':'red','weight': 'bold','size':20})
+        fontdict = ({'family':'serif','color':'green','weight': 'bold','size':15} if view_possible else {'family':'serif','color':'red','weight': 'bold','size':15})
 
-        fig.suptitle("Altimetric profiles (horizontal and geodesic) \n")
+        fig.suptitle("Altimetric profiles (horizontal and geodesic)")
         fig.text(0.5, 0.88, (message+"\n"), fontdict, ha='center', va='center')
 
         axs[0].plot(np.linspace(0, geodesic_distance, samples), elevation_profile, linestyle="solid", color="k")
@@ -185,11 +193,11 @@ def summit_is_visible_fast_online(location_point, location_summit, offset_view =
     response = requests.post(url, json)
     data = response.json()
     
-    elevation_profile, lat, long, elevation_from_earth_center = np.array([data['results'][i]["elevation"] for i in range(samples)], dtype=int), \
+    elevation_profile, lat, long, elevation_from_earth_center = np.array([data['results'][i]["elevation"] if data['results'][i]["elevation"] != None else 0 for i in range(samples)], dtype=int), \
                                                                 np.array([data['results'][i]["location"]["lat"] for i in range(samples)]), \
                                                                 np.array([data['results'][i]["location"]["lng"] for i in range(samples)]), \
-                                                                np.add(np.array([data['results'][i]["elevation"] for i in range(samples)], dtype=int)/1000, earth_radius) # Elevation_from_earth_center in km
-                                                                
+                                                                np.add(np.array([data['results'][i]["elevation"] if data['results'][i]["elevation"] != None else 0 for i in range(samples)], dtype=int)/1000, earth_radius) # Elevation_from_earth_center in km
+                        
     # Find peaks
     peaks = np.array(find_peaks(elevation_from_earth_center, height=True), dtype=object)
     peaks_index = peaks[0]
@@ -228,7 +236,8 @@ def summit_is_visible_fast_offline(location_point, location_summit, offset_view 
     offset_view, offset_summit, geodesic_distance, geodesic_earth_perimeter = offset_view/1000,  offset_summit/1000, GeodesicDistance(location_point, location_summit).km, (2*np.pi*earth_radius)
 
     if not samples:
-        samples = (round(geodesic_distance) if round(geodesic_distance) <= 100 and round(geodesic_distance) >= 20 else 100)
+        samples = (round(geodesic_distance) if round(geodesic_distance) <= 200 else 200)
+        samples = (100 if round(geodesic_distance) < 20 else samples) 
 
     # Compute angle between the 2 locations and create a vector with sampling split of the total angle 
     angle_total_rad = np.deg2rad((geodesic_distance/geodesic_earth_perimeter)*360) 
@@ -239,16 +248,15 @@ def summit_is_visible_fast_offline(location_point, location_summit, offset_view 
 
     url = "http://localhost:5000/v1/srtm90m"
     json = {"locations": "".join([str(latitude[i]) + "," + str(longitude[i]) + '|' for i in range(samples)]).removesuffix("|"),
-            "interpolation": "bilinear",
-            "nodata_value": -9999}
+            "interpolation": "bilinear",}
     response = requests.post(url, json)
     data = response.json()
 
-    elevation_profile, lat, long, elevation_from_earth_center = np.array([data['results'][i]["elevation"] for i in range(samples)], dtype=int), \
+    elevation_profile, lat, long, elevation_from_earth_center = np.array([data['results'][i]["elevation"] if data['results'][i]["elevation"] != None else 0 for i in range(samples)], dtype=int), \
                                                                 np.array([data['results'][i]["location"]["lat"] for i in range(samples)]), \
                                                                 np.array([data['results'][i]["location"]["lng"] for i in range(samples)]), \
-                                                                np.add(np.array([data['results'][i]["elevation"] for i in range(samples)], dtype=int)/1000, earth_radius) # Elevation_from_earth_center in km
-                                                                
+                                                                np.add(np.array([data['results'][i]["elevation"] if data['results'][i]["elevation"] != None else 0 for i in range(samples)], dtype=int)/1000, earth_radius) # Elevation_from_earth_center in km
+                        
     # Find peaks
     peaks = np.array(find_peaks(elevation_from_earth_center, height=True), dtype=object)
     peaks_index = peaks[0]
@@ -277,14 +285,11 @@ def summit_is_visible_multi_locations(grid_locations, location_summit, offset_vi
     f.close()
     
     for i in tqdm(grid_locations.index):
-        try:
-            with open("data_temp.txt", "a") as f:
-                f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + " \n")
-            f.close()
-        except:
-            with open("data_temp.txt", "a") as f:
-                f.write("error \n")
-            f.close()
+       
+        with open("data_temp.txt", "a") as f:
+            f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + " \n")
+        f.close()
+        
 
     grid_locations_processed = grid_locations
     grid_locations_processed["view_possible"] = pd.read_csv("data_temp.txt")
