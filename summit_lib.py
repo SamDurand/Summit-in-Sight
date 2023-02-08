@@ -7,6 +7,7 @@ from scipy.signal import find_peaks
 from geopy.distance import GeodesicDistance, EARTH_RADIUS
 from geopy.geocoders import Nominatim
 from plotly.express import scatter_mapbox
+import time
 
 def trigo_to_complex(modulus_z, arg_z):
 
@@ -345,20 +346,23 @@ def summit_is_visible_multi_locations(grid_locations, location_summit, offset_vi
     """
     locations = [[grid_locations["lat_grid"][i], grid_locations["lon_grid"][i]] for i in grid_locations.index]
 
-    # Create a temporary txt file to store data
-    with open("data_temp.txt", "w") as f:
-        f.write("view_possible \n")
-    f.close()
-    
-    for i in tqdm(grid_locations.index):
+    # Create a new file each 50000 iterations to avoid full buffer and slowdown
+    count = 0
+    for i in tqdm(range(grid_locations.index.size)):
         try:
-            with open("data_temp.txt", "a") as f:
-                f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
-            f.close()
+            if count % 50000 == 0 and i != 0:
+                with open("data_temp_{}.txt".format(count), "w") as f:
+                    f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
+                f.close()
+                time.sleep(1)
+            else:
+                with open("data_temp_{}.txt".format(count - count % 50000), "a") as f:
+                    f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
         except:
-            with open("data_temp.txt", "a") as f:
-                f.write("error")
-            f.close()
+            with open("data_temp_{}.txt".format(count - count % 50000), "a") as f:
+                f.write("error\n")
+        
+        count += 1
 
     # Save in a pandas df
     grid_locations_processed = grid_locations

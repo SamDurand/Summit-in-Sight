@@ -1,0 +1,1606 @@
+index,name,lat_grid,lon_grid,view_possible
+0,1. Mont Blanc (4808 m),45.8325,6.86444444,True 
+1,2. Monte Rosa / Mont Rose (Dufourspitze) (4634 m),45.93694444,7.86694444,True 
+2,3. Dom (4545 m),46.09388889,7.85888889,True 
+3,4. Lyskamm (4533 m),45.92222222,7.83555556,True 
+4,5. Weisshorn (4506 m),46.10138889,7.71583333,True 
+5,6. Matterhorn / Mont Cervin (4478 m),45.97638889,7.65861111,False 
+6,7. Dent Blanche (4357 m),46.03416667,7.61194444,True 
+7,8. Grand Combin (4314 m),45.9375,7.29916667,True 
+8,9. Finsteraarhorn (4274 m),46.53722222,8.12611111,True 
+9,10. Zinalrothorn (4221 m),46.065,7.69027778,True 
+10,11. Grandes Jorasses (Pte Walker) (4208 m),45.86916667,6.98833333,True 
+11,12. Alphubel (4206 m),46.06305556,7.86388889,True 
+12,13. Rimpfischhorn (4199 m),46.02333333,7.88416667,True 
+13,14. Aletschhorn (4193 m),46.465,7.99388889,True 
+14,15. Strahlhorn (4190 m),46.01333333,7.90166667,True 
+15,16. Dent d'Hérens (4174 m),45.97,7.60527778,True 
+16,17. Breithorn (4164 m),45.94111111,7.74888889,True 
+17,18. Jungfrau (4158 m),46.53666667,7.9625,True 
+18,19. Aig. Verte (4122 m),45.93472222,6.97027778,True 
+19,20. Mönch (4107 m),46.55833333,7.99722222,False 
+20,21. Barre des Écrins (4102 m),44.9225,6.36,True 
+21,22. Schreckhorn (4078 m),46.59,8.11805556,True 
+22,23. Ober Gabelhorn (4063 m),46.03861111,7.66805556,True 
+23,24. Gran Paradiso / Grand Paradis (4061 m),45.51805556,7.26722222,True 
+24,25. Piz Bernina (4049 m),46.38222222,9.90805556,False 
+25,26. Gross Fiescherhorn (4049 m),46.55138889,8.06138889,True 
+26,27. Gross Grünhorn (4044 m),46.53194444,8.07777778,True 
+27,28. Weissmies (4017 m),46.12777778,8.01222222,True 
+28,29. Lagginhorn (4010 m),46.15722222,8.00305556,True 
+29,30. Piz Zupò (3996 m),46.36833333,9.93138889,False 
+30,Fletschhorn (3985 m),46.16805556,8.00333333,True 
+31,31. Gletscherhorn (3983 m),46.51277778,7.96777778,False 
+32,32. Meije (3982 m),45.00472222,6.30861111,True 
+33,33. Eiger (3967 m),46.5775,8.00527778,True 
+34,34. Grivola (3969 m),45.59583333,7.2575,True 
+35,35. Grand Cornier (3962 m),46.05194444,7.61138889,True 
+36,36. Ailefroide (3954 m),44.885,6.35638889,True 
+37,37. Mont Pelvoux (3943 m),44.8975,6.39666667,True 
+38,38. Piz Roseg (3937 m),46.37361111,9.88305556,False 
+39,39. Bietschhorn (3934 m),46.39166667,7.85083333,True 
+40,40. Trugberg (3933 m),46.54666667,8.01527778,True 
+41,41. Aig. de Tré la Tête (3923 m),45.79472222,6.815,True 
+42,42. Pic Sans Nom (3913 m),44.89333333,6.38388889,True 
+43,43. Gross Wannenhorn (3906 m),46.49388889,8.09694444,True 
+44,44. Ortler (3905 m),46.50888889,10.54472222,False 
+45,45. Aig. d'Argentière (3901 m),45.96,7.02,True 
+46,46. Ruinette (3875 m),45.97916667,7.40027778,True 
+47,47. Aig. de Triolet (3870 m),45.91666667,7.02444444,True 
+48,48. Grande Casse (3855 m),45.40527778,6.82777778,True 
+49,49. Königspitze / Gran Zebrù (3851 m),46.47861111,10.56833333,False 
+50,50. Aig. du Midi (3842 m),45.87861111,6.8875,True 
+51,51. Monviso / Monte Viso / Vísol (3841 m),44.6675,7.09083333,True 
+52,52. Bouquetins (3838 m),45.98222222,7.54527778,True 
+53,53. Tour Noir (3837 m),45.94888889,7.0375,True 
+54,Brunegghorn (3833 m),46.12583333,7.74555556,False 
+55,54. Aig. du Chardonnet (3824 m),45.96888889,7.00111111,True 
+56,55. Nesthorn (3821 m),46.41333333,7.92611111,True 
+57,56. Mont Dolent (3820 m),45.9225,7.04611111,True 
+58,57. Aig. des Glaciers (3816 m),45.77861111,6.8025,True 
+59,58. Le Râteau (3809 m),45.00083333,6.28305556,True 
+60,59. Großglockner (3798 m),47.07416667,12.69444444,False 
+61,60. Schinhorn (3797 m),46.45166667,7.94666667,True 
+62,61. Pte de Zinal (3789 m),46.02694444,7.63055556,True 
+63,62. Lauterbrunnen Breithorn (3780 m),46.47861111,7.87666667,True 
+64,63. Mont Pourri (3779 m),45.52805556,6.86027778,True 
+65,64. Aig. Noire de Peuterey (3774 m),45.81527778,6.89305556,False 
+66,65. Wildspitze (3770 m),46.88527778,10.86722222,False 
+67,66. Monte Cevedale (3769 m),46.44388889,10.61666667,False 
+68,67. Grande Ruine (3765 m),44.96777778,6.32972222,True 
+69,68. Aig. de Leschaux (3759 m),45.8875,7.00694444,True 
+70,69. Pte de Charbonnel (3752 m),45.28027778,7.055,True 
+71,70. Piz Morteratsch (3751 m),46.40277778,9.90166667,False 
+72,71. Aig. de la Grande Sassière  (3747 m),45.505,7.0,True 
+73,72. Weißkugel (3739 m),46.79777778,10.72638889,False 
+74,73. Roche Faurio (3730 m),44.94194444,6.35805556,True 
+75,74. Mont Vélan (3726 m),45.89166667,7.25166667,True 
+76,75. Evêque (3716 m),45.96444444,7.50277778,True 
+77,76. Combin de Corbassière  (3716 m),45.97805556,7.28055556,True 
+78,77. La Singla (3714 m),45.94583333,7.47194444,True 
+79,78. Wetterhörner (Mittelhorn) (3704 m),46.63527778,8.12472222,False 
+80,79. Le Pleureur (3704 m),46.01638889,7.36916667,True 
+81,80. Balmhorn (3698 m),46.425,7.69361111,True 
+82,81. Dent Parrachée (3697 m),45.28916667,6.75638889,True 
+83,82. Torre del Gran San Pietro / Tour du Grand-Saint-Pierre (3692 m),45.52583333,7.35888889,True 
+84,83. Monte Disgrazia (3678 m),46.26916667,9.74944444,False 
+85,84. Pta San Matteo (3678 m),46.37777778,10.56722222,False 
+86,85. Uia di Ciamarella (3676 m),45.32861111,7.14527778,True 
+87,86. Dent de Perroc (3676 m),46.03944444,7.52305556,True 
+88,87. Dômes de Miage (3673 m),45.81555556,6.80027778,True 
+89,88. Les Bans (3669 m),44.84861111,6.33666667,False 
+90,89. Großvenediger (3666 m),47.10916667,12.34638889,False 
+91,90. Montagne des Agneaux (3664 m),44.95027778,6.43055556,True 
+92,91. Blüemlisalphorn (3661 m),46.48888889,7.7725,True 
+93,92. Portjengrat: Pizzo d'Andolla (3654 m),46.10083333,8.03472222,False 
+94,93. Grande Motte (3653 m),45.41138889,6.87027778,True 
+95,Thurwieserspitze (3652 m),46.49527778,10.52527778,False 
+96,94. Aigs Rouges d'Arolla (3644 m),46.05527778,7.43361111,True 
+97,95. Ciarforon / Charforon (3640 m),45.49333333,7.24722222,True 
+98,96. Doldenhorn (3638 m),46.46888889,7.73472222,True 
+99,97. Albaron (3637 m),45.3325,7.10277778,True 
+100,98. Dammastock (3630 m),46.64333333,8.42111111,True 
+101,99. Hintere Schwärze  (3628 m),46.77333333,10.91472222,False 
+102,100. Levanna Centrale (3619 m),45.41027778,7.17194444,True 
+103,101. Tödi (Piz Russein) (3614 m),46.81111111,8.91472222,True 
+104,102. Pte de Ronce (3612 m),45.26444444,6.97861111,True 
+105,103. Les Diablons (3609 m),46.1425,7.67111111,True 
+106,104. Grande Rousse / Bec de l'Invergnan (3607 m),45.56333333,7.08444444,True 
+107,105. Tsanteleina (3602 m),45.47944444,7.04611111,True 
+108,106. Aig. du Plat de la Selle (3596 m),44.96444444,6.22333333,False 
+109,107. Piz Glüschaint (3594 m),46.3625,9.84,False 
+110,108. Bessanèse (3592 m),45.30222222,7.11944444,True 
+111,109. Les Rouies (3589 m),44.86444444,6.25861111,True 
+112,110. Grand Roc Noir (3582 m),45.33027778,6.89194444,True 
+113,111. Mont Brulé (3578 m),45.955,7.53833333,True 
+114,112. Croix Rousse / Croce Rossa (3571 m),45.26055556,7.13472222,True 
+115,113. Olan (3564 m),44.85944444,6.19722222,True 
+116,114. Großes Wiesbachhorn (3564 m),47.15638889,12.75527778,False 
+117,115. Le Plaret (3563 m),44.96861111,6.26,True 
+118,116. Cime de Clot Châtel (3563 m),44.8975,6.28027778,True 
+119,Ouille d'Arbéron/Pta d'Arnas (3563 m),45.27166667,7.12805556,True 
+120,117. Aig. de Péclet (3562 m),45.28138889,6.62444444,True 
+121,118. Tschingelhorn (3562 m),46.47861111,7.84861111,True 
+122,119. Tête de l'Étret (3559 m),44.89,6.24527778,False 
+123,120. Presanella (3558 m),46.22,10.66388889,False 
+124,121. Monte Emilius (3557 m),45.67888889,7.38472222,True 
+125,122. Aouille Tseuque (3554 m),45.93027778,7.44305556,True 
+126,123. Monte Leone (3553 m),46.24944444,8.11,False 
+127,124. Großer Ramolkogel (3550 m),46.84666667,10.95888889,False 
+128,125. Vertainspitze (3545 m),46.53722222,10.63555556,False 
+129,126. Schalfkogel (3540 m),46.80166667,10.95916667,False 
+130,127. Adamello (3539 m),46.15583333,10.49611111,False 
+131,128. Rocciamelone (3538 m),45.20388889,7.07694444,True 
+132,Hochvernagtspitze (3535 m),46.88138889,10.79611111,False 
+133,129. Watzespitze (3533 m),46.98944444,10.79555556,False 
+134,Bec d'Épicoune (3531 m),45.91472222,7.4225,True 
+135,130. Mont Gelé (3518 m),45.90416667,7.36611111,True 
+136,131. Weißseespitze (3518 m),46.84666667,10.71722222,False 
+137,132. Aig. Méridionale d'Arves (3514 m),45.12722222,6.33694444,True 
+138,133. Fineilspitze (3514 m),46.78027778,10.83194444,False 
+139,134. Punta Tersiva / Pointe Tersive (3513 m),45.62055556,7.47611111,True 
+140,135. Hochfeiler (3509 m),46.97222222,11.72777778,False 
+141,136. Zuckerhütl (3507 m),46.96444444,11.15388889,False 
+142,137. Aig. de Scolette / Pierre Menue (3506 m),45.16,6.76861111,True 
+143,138. M. Morion / Rion: Pointe Monro (3505 m),45.88138889,7.36777778,True 
+144,Galmihorn (3505 m),46.50666667,8.185,True 
+145,139. Becca di Luseney / Pic de Luseney (3503 m),45.87055556,7.49111111,True 
+146,140. Sustenhorn (3503 m),46.69888889,8.45527778,False 
+147,141. Dreiherrnspitze (3499 m),47.06916667,12.24083333,False 
+148,142. Schrankogel (3497 m),47.04388889,11.09916667,False 
+149,143. Rötspitze (3496 m),47.02694444,12.20527778,False 
+150,144. Grande Traversière (3496 m),45.52305556,7.05583333,True 
+151,145. Grand Nomenon (3488 m),45.61194444,7.23611111,True 
+152,146. Sonnighorn / Pizzo Bottarello (3487 m),46.07416667,8.02222222,False 
+153,147. Testa del Rutor (3486 m),45.63083333,7.01444444,True 
+154,148. Grande Aig. Rousse (3482 m),45.43305556,7.10972222,True 
+155,149. Pic de Bonvoisin (3481 m),44.82361111,6.34694444,False 
+156,150. Großer Möseler (3480 m),46.9925,11.78194444,False 
+157,151. Hochwilde (3480 m),46.76555556,11.02222222,False 
+158,152. Olperer (3476 m),47.05305556,11.65888889,False 
+159,153. Ruderhofspitze (3474 m),47.03944444,11.14333333,False 
+160,154. Hinterer Seelenkogel (3472 m),46.80166667,11.04444444,False 
+161,155. Grande Rousse S (Pic Bayle) (3465 m),45.13777778,6.13583333,True 
+162,156. Roche de la Muzelle (3465 m),44.93111111,6.10666667,True 
+163,Pic de l'Étendard (3464 m),45.15444444,6.14388889,True 
+164,157. Carè Alto (3463 m),46.10805556,10.59611111,False 
+165,158. Pic Garin (3462 m),45.65583333,7.3775,True 
+166,159. Vordere Ölgrubenspitze (3456 m),46.90833333,10.77333333,False 
+167,159. Bliggspitze (3453 m),46.91805556,10.78611111,False 
+168,Johannisberg (3453 m),47.10944444,12.67277778,False 
+169,161. Piz Corvatsch (3451 m),46.40833333,9.81611111,False 
+170,162. Rinderhorn (3448 m),46.41361111,7.65416667,True 
+171,163. Wasenhorn (3447 m),46.49805556,8.16583333,True 
+172,164. Pointe de l'Aouillé (3446 m),45.52666667,7.14805556,True 
+173,165. Hintere Eggenspitze / Cima Sternai (3443 m),46.47777778,10.77055556,False 
+174,166. Roc du Mulinet (3442 m),45.38083333,7.16277778,True 
+175,167. Sirac (3441 m),44.78972222,6.30694444,False 
+176,168. Piz Tremoggia (3441 m),46.35194444,9.82194444,False 
+177,169. Dosson di Genova (3441 m),46.14861111,10.55361111,False 
+178,170. Truc Blanc (3440 m),45.58722222,7.16722222,True 
+179,171. Cima de' Piazzi (3439 m),46.41666667,10.285,False 
+180,172. Lagaunspitze (3439 m),46.73916667,10.73916667,False 
+181,173. Zufrittspitze (3439 m),46.50194444,10.78222222,False 
+182,174. Hochgall (3436 m),46.91083333,12.13972222,False 
+183,175. Gspaltenhorn (3436 m),46.51166667,7.8275,True 
+184,176. Stellihorn (3436 m),46.03638889,8.00083333,False 
+185,177. Pte de la Sana (3436 m),45.385,6.91805556,True 
+186,178. Verpeilspitze (3425 m),47.00333333,10.805,False 
+187,179. Pte de l'Échelle (3422 m),45.26916667,6.68527778,True 
+188,180. Aig. du Goleon (3422 m),45.10361111,6.32638889,True 
+189,181. Aig. de l'Épéna (3421 m),45.41472222,6.81722222,True 
+190,Pics du Says (3420 m),44.87388889,6.30583333,True 
+191,182. Bifertenstock / Piz Durschin (3419 m),46.80444444,8.9575,True 
+192,183. Piz Kesch / Piz d' Es-Cha (3418 m),46.62138889,9.87277778,False 
+193,184. Sommet de Bellecôte (3417 m),45.4925,6.7825,True 
+194,185. Fleckistock / Rot Stock (3416 m),46.7075,8.4975,False 
+195,186. Pte du Bouchet (3416 m),45.25416667,6.60416667,True 
+196,187. Aig. de Chambeyron (3412 m),44.54777778,6.85666667,True 
+197,188. Piz Linard (3411 m),46.79888889,10.07166667,False 
+198,189. Schrammacher (3410 m),47.02694444,11.64305556,False 
+199,190. Hochfirst (3403 m),46.82666667,11.08111111,False 
+200,191. Rheinwaldhorn (3402 m),46.49361111,9.04027778,False 
+201,192. Aigs des Arias (3402 m),44.89555556,6.17416667,False 
+202,193. Fluchthorn (3399 m),46.89083333,10.2275,False 
+203,194. Piz Calderas (3397 m),46.53638889,9.69583333,False 
+204,195. Großer Bärenkopf (3396 m),47.13083333,12.73166667,False 
+205,196. Hohe Geige (3395 m),47.00472222,10.90861111,False 
+206,197. Piz Platta (3392 m),46.48722222,9.56166667,False 
+207,198. Brec de Chambeyron (3389 m),44.52805556,6.85333333,True 
+208,199. Diechterhorn (3389 m),46.64861111,8.36055556,False 
+209,200. Veneziaspitze / Cima Venezia (3386 m),46.45388889,10.68916667,False 
+210,201. Pic Nord de la Font Sancte (3385 m),44.605,6.80027778,True 
+211,202. Punta di Fontanella (3384 m),45.90611111,7.55583333,True 
+212,203. Pta Sulè (3384 m),45.23138889,7.1375,True 
+213,204. Rognosa d'Etiache / d'Étache (3383 m),45.13472222,6.83388889,True 
+214,205. Piz Güglia / Piz Julier (3380 m),46.49111111,9.75972222,False 
+215,206. Grand Tournalin (3379 m),45.87166667,7.68805556,True 
+216,207. Güferhorn (3379 m),46.5125,9.06305556,False 
+217,208. Cima di Castello (3379 m),46.30305556,9.67694444,False 
+218,209. Großer Löffler (3379 m),47.0325,11.91583333,False 
+219,210. Mont d'Ambin / Rocca d'Ambin (3378 m),45.15666667,6.88444444,True 
+220,211. Cima Viola (3374 m),46.38361111,10.19638889,False 
+221,212. Blinnenhorn / Corno Cieco (3374 m),46.42583333,8.30777778,True 
+222,213. Hoher Eichham (3371 m),47.05388889,12.40666667,False 
+223,214. Monte Confinale (3370 m),46.44944444,10.50444444,False 
+224,215. Pizzo Cengalo (3369 m),46.295,9.60194444,False 
+225,216. Schwarzenstein (3369 m),47.01,11.87416667,False 
+226,217. Hoher Tenn (3368 m),47.17972222,12.75944444,False 
+227,218. Malhamspitzen (3368 m),47.04916667,12.25944444,False 
+228,219. Egginer (3367 m),46.07527778,7.93,False 
+229,Innere Schwarze Schneid (3367 m),46.92416667,10.92138889,False 
+230,220. Piz Fora (3363 m),46.34083333,9.78472222,False 
+231,221. Hochalmspitze (3360 m),47.015,13.32111111,False 
+232,222. Corno dei Tre Signori (3360 m),46.34305556,10.51555556,False 
+233,Großer Geiger (3360 m),47.09305556,12.30888889,False 
+234,223. Wilde Leck (3359 m),47.00277778,11.0625,False 
+235,224. Schneebiger Nock / Ruthnerhorn (3358 m),46.90527778,12.08416667,False 
+236,225. Grande Roise (3357 m),45.67527778,7.42305556,True 
+237,226. Rofelewand (3353 m),47.0325,10.81833333,False 
+238,227. Glockturm (3353 m),46.89333333,10.66555556,False 
+239,228. Puitkogel (3345 m),46.98138889,10.90138889,False 
+240,229. Marmolada (Pta Penia) (3343 m),46.43472222,11.85083333,False 
+241,230. Bric de Rubren / Mongioia (3340 m),44.62,6.94972222,True 
+242,231. Piz Ela (3339 m),46.60194444,9.7075,False 
+243,232. Roteck (3337 m),46.72361111,10.98416667,False 
+244,233. Pta Sommeiller (3332 m),45.12833333,6.8525,True 
+245,234. Fuscherkarkopf (3331 m),47.09888889,12.74555556,False 
+246,235. Corno Baitone (3330 m),46.17305556,10.44111111,False 
+247,236. Mont Fort (3329 m),46.08111111,7.31861111,True 
+248,237. Grande Rochère (3328 m),45.81361111,7.06138889,True 
+249,238. Oberalpstock (3328 m),46.74277778,8.76944444,True 
+250,239. Busazza (3326 m),46.22388889,10.61111111,False 
+251,240. Tête de Lauranoure (3325 m),44.92638889,6.15194444,False 
+252,241. Pizzo Scalino (3323 m),46.27861111,9.97361111,False 
+253,242. Pic de Rochebrune (3320 m),44.8225,6.78777778,True 
+254,243. Corno Bianco (3320 m),45.82277778,7.87916667,True 
+255,244. Groabhopt / Testa Grigia / Tête grise (3315 m),45.83083333,7.78666667,True 
+256,245. Mont Giusalet (3312 m),45.18055556,6.93,True 
+257,246. Piz Buin (3312 m),46.84416667,10.11861111,False 
+258,247. Mont Pelve (3312 m),45.35611111,6.77666667,True 
+259,248. Pta Lavina (3308 m),45.55555556,7.44861111,True 
+260,249. Pte de l'Aiglière (3307 m),44.81027778,6.41472222,True 
+261,250. Laaser Spitze / Orgelspitze (3305 m),46.56194444,10.71777778,False 
+262,251. Reichenspitze (3303 m),47.13944444,12.11083333,False 
+263,252. Piz Paradisin (3302 m),46.42611111,10.11722222,False 
+264,253. Pta Ramiere / Bric Froid (3302 m),44.86416667,6.93166667,True 
+265,254. Becca de Tos (3301 m),45.63027778,7.10666667,True 
+266,255. Verstanclahorn (3298 m),46.835,10.0725,False 
+267,256. Cima Sud Argentera (3297 m),44.17805556,7.30583333,True 
+268,257. Monte Sobretta (3296 m),46.3975,10.43694444,False 
+269,258. Strahlkogel (3295 m),47.10916667,11.01944444,False 
+270,259. Gross Schärhorn (3294 m),46.82722222,8.82916667,True 
+271,260. Muttler (3293 m),46.90055556,10.37861111,False 
+272,261. Grand Glaiza / Pta Merciantaira (3293 m),44.84916667,6.8825,True 
+273,262. Hockenhorn (3293 m),46.42833333,7.74416667,True 
+274,263. Keeskogel (3291 m),47.13638889,12.31194444,False 
+275,264. Schlieferspitze (3290 m),47.1225,12.24333333,False 
+276,265. M. Aig.tte / L'Asti (3287 m),44.69138889,7.02666667,True 
+277,266. Petzeck (3283 m),46.94805556,12.80472222,False 
+278,267. Pta di Pietra Rossa (3283 m),46.32472222,10.4375,False 
+279,268. Ritzlihorn (3282 m),46.63222222,8.25888889,False 
+280,269. Roter Knopf (3281 m),46.97861111,12.73944444,False 
+281,270. Piz Fliana (3281 m),46.82722222,10.10861111,False 
+282,271. Pta Rognosa di Sestriere (3280 m),44.93472222,6.93111111,True 
+283,272. Pizzo Dosdè (3280 m),46.41,10.22583333,False 
+284,273. Pizzo Tambo / Tambohorn (3279 m),46.49694444,9.28333333,False 
+285,274. Hohe Weiße (3279 m),46.74555556,11.03722222,False 
+286,275. Habicht (3277 m),47.04361111,11.28972222,False 
+287,Gsallkopf (3277 m),47.03777778,10.805,False 
+288,276. Basòdino (3272 m),46.41138889,8.46861111,True 
+289,277. Helsenhorn (3272 m),46.30472222,8.19166667,True 
+290,278. Pte d'Archeboc (3272 m),45.58361111,6.98027778,True 
+291,279. Östliche Feuerstein (3268 m),46.97166667,11.24444444,False 
+292,280. Clariden (3267 m),46.84194444,8.87138889,False 
+293,281. Piz Üertsch (3267 m),46.59638889,9.83638889,False 
+294,282. Antelao (3264 m),46.4525,12.26055556,False 
+295,283. Scima da Saoseo (3264 m),46.38555556,10.15805556,False 
+296,284. Piz Languard (3262 m),46.48833333,9.95638889,False 
+297,285. Piz Forbesch (3262 m),46.52027778,9.55916667,False 
+298,286. Dents du Midi: Haute Cime (3257 m),46.16111111,6.92333333,True 
+299,287. Hasenöhrl (3257 m),46.54444444,10.85861111,False 
+300,288. Gross Düssi / Piz Git (3256 m),46.79166667,8.8275,True 
+301,289. Hocharn (3254 m),47.07611111,12.93722222,False 
+302,290. Piz Tschütta / Stammerspitz (3254 m),46.90361111,10.34305556,False 
+303,291. Sasseneire (3254 m),46.13861111,7.52527778,True 
+304,292. Ankogel (3252 m),47.05111111,13.24916667,False 
+305,293. Cavistrau / Brigelser Hörner (3252 m),46.78444444,8.97388889,True 
+306,294. Rauhkofel (3251 m),47.07611111,12.09194444,False 
+307,295. Großer Hornkopf (3251 m),46.96722222,12.77888889,False 
+308,296. Wildhorn (3248 m),46.35583333,7.36222222,True 
+309,297. Péne Blanche (3248 m),45.61888889,7.42694444,True 
+310,298. Ringelspitz (3247 m),46.89833333,9.34305556,True 
+311,299. Berrio Blanc (3247 m),45.75305556,6.89777778,True 
+312,300. Piz Ot (3246 m),46.54333333,9.81027778,False 
+313,301. Wasenhorn / Pta Terrarossa (3246 m),46.26638889,8.08555556,True 
+314,302. Pta Painale (3246 m),46.25666667,9.97388889,False 
+315,303. Platthorn (3246 m),46.16638889,7.86111111,False 
+316,304. Tofana di Mezzo (3244 m),46.55111111,12.06555556,False 
+317,305. Hohe Fürleg (3244 m),47.14166667,12.36277778,False 
+318,306. Piz Bacun (3244 m),46.34222222,9.68222222,False 
+319,307. Wildstrubel (3243 m),46.40027778,7.52861111,True 
+320,308. Tête de Soulaure / Pic Félix Neff (3243 m),44.7625,6.415,True 
+321,309. Hochschober (3242 m),46.9425,12.69833333,False 
+322,310. Titlis (3238 m),46.77194444,8.43777778,False 
+323,311. Grand Golliat (3238 m),45.85916667,7.10166667,True 
+324,312. Becca du Merlo (3237 m),45.84388889,7.47055556,True 
+325,313. Hoher Seeblaskogel (3235 m),47.09555556,11.07472222,False 
+326,314. Pic des Houerts (3235 m),44.58777778,6.76722222,True 
+327,315. Ofenhorn / Pta d'Arbola (3235 m),46.38666667,8.31861111,True 
+328,316. Großer Muntanitz (3232 m),47.07361111,12.58916667,False 
+329,317. Le Péouvou (3232 m),44.63027778,6.88361111,False 
+330,318. Corno di Dosdè (3232 m),46.40777778,10.16972222,False 
+331,319. Hoher Riffler (3231 m),47.08111111,11.70444444,False 
+332,320. Augstenberg / Piz Blaisch Lunga (3230 m),46.86444444,10.20388889,False 
+333,321. Piz Vadret (3229 m),46.68694444,9.96277778,False 
+334,322. Grand Galibier (3228 m),45.06388889,6.43416667,True 
+335,323. Tofana di Rozes (3225 m),46.53694444,12.05111111,False 
+336,324. Hintere Stangenspitze (3225 m),47.05722222,11.97611111,False 
+337,325. Monte Gavia (3223 m),46.35416667,10.4725,False 
+338,326. Rocca Bernauda / Roche Bernaude (3222 m),45.10138889,6.6275,True 
+339,327. Monte Cristallo (3221 m),46.57527778,12.20055556,False 
+340,328. Monte Civetta (3220 m),46.38,12.05333333,False 
+341,329. Tour Sallière (3220 m),46.12694444,6.92472222,True 
+342,330. Vorderes Plattenhorn: Ostgipfel (3220 m),46.81,10.03305556,False 
+343,331. Vogelberg (3218 m),46.47833333,9.06527778,False 
+344,332. Monte del Forno (3214 m),46.33833333,9.72472222,False 
+345,333. Bec de l'Âne (3213 m),45.61555556,6.98388889,True 
+346,334. Le Métailler (3213 m),46.10388889,7.36027778,False 
+347,335. Piz Medel (3211 m),46.61833333,8.91111111,False 
+348,336. Scherbadung / Pizzo Cervandone (3211 m),46.32416667,8.22305556,True 
+349,337. Diablerets (3210 m),46.30388889,7.18888889,True 
+350,338. Gran Vernel (3210 m),46.4425,11.83222222,False 
+351,339. Piz Timun / Pizzo d'Emet (3209 m),46.46694444,9.40944444,False 
+352,340. Piz Cambrialas (3208 m),46.78944444,8.85194444,True 
+353,341. Pic du Thabor (3207 m),45.11861111,6.56222222,False 
+354,342. Hocheiser (3206 m),47.15638889,12.67333333,False 
+355,343. Glödis (3206 m),46.96111111,12.72611111,False 
+356,344. Pte Haute de Mary (3206 m),44.57555556,6.89472222,True 
+357,345. Pta Sorapiss (3205 m),46.50694444,12.21166667,False 
+358,346. Piz Sesvenna (3204 m),46.70583333,10.40277778,False 
+359,347. Kitzsteinhorn (3203 m),47.18805556,12.68777778,False 
+360,348. Schwarzhorn (3201 m),46.21666667,7.75666667,True 
+361,349. Mastaunspitze (3200 m),46.69361111,10.8025,False 
+362,350. Piz Vadret (3199 m),46.50888889,9.95083333,False 
+363,351. Gross Spannort (3198 m),46.78666667,8.52444444,False 
+364,352. Dreiländerspitze (3197 m),46.85083333,10.14472222,False 
+365,353. Ptes de Pierre Brune (3196 m),45.37805556,6.85694444,True 
+366,354. Mont Tondu (3196 m),45.76388889,6.75555556,True 
+367,355. Bortelhorn / Pta del Rebbio (3193.6 m),46.29472222,8.12527778,True 
+368,356. Rocca Blancia (3193 m),44.49916667,6.86472222,True 
+369,357. Cima Vezzana (3192 m),46.28972222,11.83027778,False 
+370,358. Pizzo Rotondo (3192 m),46.5175,8.46611111,True 
+371,359. Hübschhorn I (3192 m),46.23694444,8.05527778,False 
+372,360. Scopi (3190 m),46.57166667,8.83,True 
+373,361. Löffelspitze (3190 m),47.0175,12.16444444,False 
+374,362. Spechhorn / Pizzo d'Antigine (3189 m),46.01222222,8.00111111,False 
+375,363. Gleirscher Fernerkogel (3189 m),47.11416667,11.06361111,False 
+376,364. Piz Surlej (3188 m),46.45333333,9.84305556,False 
+377,365. Gross Windgällen (3187 m),46.80722222,8.73222222,False 
+378,Becca Tey (3186 m),45.58611111,7.09472222,True 
+379,366. Mont Glacier (3185 m),45.63138889,7.53972222,True 
+380,367. Langkofel / Saslonch (3181 m),46.525,11.73527778,False 
+381,368. Piz Murtaröl (3180 m),46.57027778,10.2875,False 
+382,369. Piz Tasna (3179 m),46.85916667,10.25222222,False 
+383,370. Piz Pisoc (3173 m),46.74444444,10.27944444,False 
+384,371. Corn da Tinizong / Tinzenhorn (3173 m),46.61166667,9.67111111,False 
+385,372. Pte de Paumont / Cima del Vallone (3171 m),45.13944444,6.72833333,False 
+386,373. Großer Fensterlekofel (3171 m),46.89222222,12.04305556,False 
+387,374. Pic du Clapier du Peyron (3169 m),44.93722222,6.07694444,True 
+388,375. Hoher Riffler (3168 m),47.11611111,10.37083333,False 
+389,376. Monte Pelmo (3168 m),46.41944444,12.135,False 
+390,377. Piz Tavrü (3168 m),46.67916667,10.29611111,False 
+391,378. Piz Vial (3168 m),46.63194444,8.96916667,True 
+392,379. Piz Plavna Dadaint (3167 m),46.70861111,10.22361111,False 
+393,380. Piz Albris (3166 m),46.46416667,9.96333333,False 
+394,381. Piz Lagrev (3165 m),46.44583333,9.72277778,False 
+395,382. Piz Quattervals (3165 m),46.62722222,10.095,False 
+396,383. Tête de Sautron /Monte Sautron (3165 m),44.48666667,6.8775,False 
+397,384. Rosa dei Banchi (3164 m),45.57722222,7.5325,True 
+398,385. Vieux Chaillol (3163 m),44.73611111,6.19055556,False 
+399,386. Pizzo Stella (3163 m),46.38166667,9.42138889,False 
+400,387. Pta Clairy (3162 m),45.24416667,6.87305556,False 
+401,388. Piz Mitgel (3159 m),46.61416667,9.64666667,False 
+402,389. Hausstock (3158 m),46.87444444,9.06555556,False 
+403,390. Monte Vallecetta (3156 m),46.41194444,10.40027778,False 
+404,391. Tête de Vautisse (3156 m),44.70138889,6.48583333,True 
+405,392. Pic Ouest de Combeynot (3155 m),45.01222222,6.41111111,True 
+406,393. Piz Prüna (3153 m),46.48722222,9.98722222,False 
+407,394. Piz Boè (3152 m),46.50888889,11.82805556,False 
+408,395. Piz Popena (3152 m),46.57638889,12.2075,False 
+409,396. Cima Brenta (3151 m),46.17944444,10.89972222,False 
+410,397. Piz Terri (3149 m),46.6,9.03416667,True 
+411,398. Becs de Bosson (3149 m),46.16777778,7.51805556,True 
+412,399. Kuchenspitze (3148 m),47.04861111,10.23,False 
+413,400. Zillerplattenspitze (3148 m),47.10416667,12.12972222,False 
+414,Pfroslkopf (3148 m),46.97777778,10.68916667,False 
+415,401. Croda Rossa / Hohe Gaisl (3146 m),46.63472222,12.14361111,False 
+416,402. Flüela Schwarzhorn (3146 m),46.73583333,9.94166667,False 
+417,403. Mont Raffrey (3146 m),45.64777778,7.51083333,True 
+418,404. Piz Mundin (3146 m),46.92527778,10.43083333,False 
+419,405. Dreischusterspitze (3145 m),46.66888889,12.31722222,False 
+420,406. Napfspitze (3144 m),47.06,12.03972222,False 
+421,407. Piz Tea Fondada / Monte Cornaccia (3144 m),46.54944444,10.30805556,False 
+422,408. Cime du Gélas / Monte Gelàs (3143 m),44.12305556,7.38472222,True 
+423,Jochköpfl (3143 m),46.9275,11.10777778,False 
+424,409. Monte Cassa del Ferro (3140 m),46.57861111,10.20166667,False 
+425,410. Cima Tosa (3140 m),46.15527778,10.87055556,False 
+426,411. Cime Redasco (3139 m),46.36944444,10.30777778,False 
+427,412. Gross Ruchen (3138 m),46.81027778,8.77472222,False 
+428,413. Durreck (3135 m),46.96111111,12.02888889,False 
+429,414. Wilde Kreuzspitze (3135 m),46.9125,11.59333333,False 
+430,415. Großer Friedrichskopf (3134 m),46.95777778,12.82861111,False 
+431,416. Hinter Schloss (3133 m),46.8025,8.52694444,False 
+432,417. Pizzo Filone (3133 m),46.4575,10.16333333,False 
+433,Oldenhorn (3132 m),46.32916667,7.22166667,True 
+434,418. Mont Chaberton (3131 m),44.96472222,6.75166667,True 
+435,419. Piz Duan (3131 m),46.37527778,9.58333333,False 
+436,420. Pte Léchaud (3128 m),45.73361111,6.81416667,True 
+437,421. Grohmannspitze (3126 m),46.51055556,11.73361111,False 
+438,422. Piz Schumbraida (3125 m),46.54277778,10.33833333,False 
+439,423. Fanellhorn (3124 m),46.54777778,9.13055556,False 
+440,424. Piz Nuna (3123 m),46.72333333,10.15444444,False 
+441,425. Schareck (3123 m),47.04138889,13.0175,False 
+442,426. Groß Seehorn (3122 m),46.88777778,10.0325,False 
+443,427. Piz Aul (3121 m),46.62277778,9.125,False 
+444,428. Piz da l'Acqua (3118 m),46.61111111,10.13888889,False 
+445,429. Grand Pinier (3117 m),44.72361111,6.40166667,True 
+446,430. Schermerspitze (3116 m),46.88777778,11.08444444,False 
+447,431. Grand Queyras (3114 m),44.71555556,6.95194444,True 
+448,432. Luibiskogel (3110 m),47.04972222,10.90416667,False 
+449,433. Monte Servin (3108 m),45.26472222,7.19972222,False 
+450,434. Krönten (3108 m),46.78222222,8.56944444,False 
+451,435. Gletscherhorn (3107 m),46.3875,9.56055556,False 
+452,435. Pizz Gallagiun / Galleggione (3107 m),46.36694444,9.48777778,False 
+453,437. Ochsner (3107 m),47.04388889,11.81555556,False 
+454,438. Tête de Moïse (3104 m),44.44055556,6.935,False 
+455,439. Piz la Stretta / Monte Breva (3104 m),46.47666667,10.04472222,False 
+456,440. Große Ohrenspitze (3101 m),46.90694444,12.1775,False 
+457,441. Piz Segnas (3099 m),46.90777778,9.23972222,True 
+458,442. Mont Ouille (3090 m),45.73166667,6.86638889,True 
+459,443. Lasörling (3098 m),46.97583333,12.35527778,False 
+460,444. Pte des Cerces (3098 m),45.06555556,6.48833333,True 
+461,445. Pic des Souffles (3098 m),44.865,6.13333333,False 
+462,446. Monte Matto (3097 m),44.225,7.25638889,True 
+463,447. Pflerscher Tribulaun (3097 m),46.98527778,11.33916667,False 
+464,Blockkogel (3097 m),47.08527778,10.88055556,False 
+465,448. Piz Giuv / Schattig Wichel (3096 m),46.70194444,8.6925,True 
+466,449. Mont Buet (3096 m),46.02472222,6.85277778,True 
+467,450. Zwölferkofel / Croda dei Toni (3094 m),46.61916667,12.35972222,False 
+468,451. Elferkofel / Cima Undici (3092 m),46.63638889,12.37833333,False 
+469,452. Racherin (3092 m),47.08111111,12.79444444,False 
+470,452a. Crête de Chambave (3090 m),45.80555556,7.03861111,True 
+471,453. Tête de la Courbe (3089 m),44.49777778,6.82333333,True 
+472,454. Vesulspitze (3089 m),47.00166667,10.34916667,False 
+473,455. Monte Forcellina (3087 m),46.46638889,10.19861111,False 
+474,Hohe Villerspitze (3087 m),47.10666667,11.16555556,False 
+475,456. Flüela Wisshorn (3085 m),46.76222222,9.96666667,False 
+476,457. Cima da Lägh / Cima di Lago (3083 m),46.37638889,9.46111111,False 
+477,458. Zwieselbacher Rosskogel (3081 m),47.16333333,11.04805556,False 
+478,Fundusfeiler (3079 m),47.11222222,10.87027778,False 
+479,459. Chüealphorn (3078 m),46.68527778,9.90527778,False 
+480,460. Mont Néry / Neryschthuare (3076 m),45.71583333,7.82,True 
+481,461. Großer Hafner (3076 m),47.07,13.40083333,False 
+482,462. Pic de Parières (3076 m),44.77944444,6.24083333,True 
+483,463. Piz Starlex (3075 m),46.66277778,10.3925,False 
+484,464. Piz Sena (3075 m),46.35305556,10.11,False 
+485,465. Bristen (3073 m),46.73694444,8.68111111,False 
+486,466. Wildkarspitze (3073 m),47.1725,12.13916667,False 
+487,467. Pizzo Campo Tencia (3072 m),46.42972222,8.72611111,False 
+488,468. Chüebodenhorn (3070 m),46.50805556,8.45305556,True 
+489,Tête de la Cassille (3069 m),45.04388889,6.49944444,True 
+490,469. La Meyna (3067 m),44.48111111,6.85861111,False 
+491,470. Geltenhorn (3065 m),46.34638889,7.33444444,True 
+492,471. Cunturines / Conturines (3064 m),46.57583333,11.97777778,False 
+493,472. Hoher Prijakt (3064 m),46.91555556,12.71277778,False 
+494,473. Pte des Rochers Charniers (3063 m),44.98777778,6.73555556,True 
+495,474. Hoch Ducan (3063 m),46.68944444,9.85138889,False 
+496,475. Mont Fallère (3061 m),45.77555556,7.19416667,True 
+497,476. Pizzo Gallina (3061 m),46.49472222,8.39194444,True 
+498,477. Seeköpfe (3061 m),47.04444444,10.2675,False 
+499,478. Piz Grisch (3060 m),46.53111111,9.47277778,False 
+500,492. Rosenspitze (3049 m),46.98833333,12.25444444,False 
+501,Grand Queyron (3060 m),44.84277778,7.00166667,True 
+502,479. Grabspitze (3059 m),46.93861111,11.61444444,False 
+503,480. Monte Vago (3059 m),46.44083333,10.07888889,False 
+504,481. Sasso Vernale (3058 m),46.41888889,11.84055556,False 
+505,482. Bruschghorn (3056 m),46.63111111,9.30666667,False 
+506,483. Patteriol (3056 m),47.04416667,10.1875,False 
+507,484. Aig. des Corneillets (3055 m),45.3225,6.66138889,True 
+508,Innere Wetterspitze (3053 m),46.99638889,11.24638889,False 
+509,485. Piz Forun (3052 m),46.65527778,9.865,False 
+510,486. Grand Muveran (3051 m),46.23722222,7.12611111,False 
+511,487. Mont Pelat (3051 m),44.265,6.70583333,True 
+512,488. Pizzo Coca (3050 m),46.07166667,10.01138889,False 
+513,489. Piz Minor (3049 m),46.45111111,10.02833333,False 
+514,490. Gross Lohner (3049 m),46.46194444,7.6,False 
+515,491. Le Rochail (Pte de Malhaubert) (3049 m),44.97527778,6.0325,True 
+516,493. Aig. du Fruit (3048 m),45.35555556,6.63138889,True 
+517,495. Grand Argentier / Pta Nera (3046 m),45.12222222,6.65861111,True 
+518,494. Grand Bérard (3046 m),44.44944444,6.65972222,True 
+519,496. Piz Murtera (3044 m),46.77527778,10.04027778,False 
+520,497. Gross Wendenstock (3042 m),46.76166667,8.38027778,False 
+521,498. Monte Albergian (3041 m),45.0075,6.99277778,True 
+522,499. Piz Gannaretsch (3040 m),46.61194444,8.78666667,False 
+523,500. Alperschällihorn (3039 m),46.58666667,9.30666667,False 
+524,501. Pta Scais (3039 m),46.06861111,9.98444444,False 
+525,502. Bric Ghinivert (3037 m),44.95138889,6.99111111,True 
+526,503. Parseierspitze (3036 m),47.17444444,10.47833333,False 
+527,504. Hexenkopf (3035 m),47.02111111,10.46944444,False 
+528,Piz Umbrail (3033 m),46.55083333,10.41444444,False 
+529,505. Tête de Siguret (3032 m),44.44166667,6.78833333,False 
+530,506. Pizzo Ligoncio (3032 m),46.23888889,9.54777778,False 
+531,507. Becca di Vlou (3032 m),45.69166667,7.79222222,True 
+532,508. Piz S-chalembert (3031 m),46.80083333,10.41333333,False 
+533,509. Mont Ténibre / M. Tenibres (3031 m),44.28388889,6.97222222,False 
+534,Piz Cotschen (3031 m),46.81305556,10.17694444,False 
+535,511. Piz Por (3028 m),46.50944444,9.38416667,False 
+536,512. Bündner Vorab (3028 m),46.87388889,9.15666667,False 
+537,513. Corno di Ban (3028 m),46.41777778,8.36111111,False 
+538,514. Zehner / Sas dales Diesc (3026 m),46.62222222,11.96055556,False 
+539,510. Monte Politri (3026 m),44.99111111,7.01861111,True 
+540,515. Furchetta / Furcheta  (3025 m),46.61222222,11.77333333,False 
+541,515. Sas Rigais  (3025 m),46.60916667,11.76666667,False 
+542,517. Piz Corbet (3025 m),46.37972222,9.28027778,False 
+543,518. Corno Bussola / M de Boussolaz (3024 m),45.79555556,7.73611111,True 
+544,519. Wendenhorn (3023 m),46.75388889,8.44361111,False 
+545,520. Wurmaulspitze (3022 m),46.91388889,11.63777778,False 
+546,521. Pte de la Vallaisonnay (3020 m),45.45805556,6.81777778,True 
+547,522. Pic du Mas de la Grave (3020 m),45.12083333,6.24611111,True 
+548,523. Cimet (3020 m),44.29,6.705,True 
+549,524. Viso Mozzo (3019 m),44.67472222,7.11,True 
+550,525. Piz Blas (3019 m),46.57722222,8.72805556,False 
+551,526. Gamspleisspitze (3015 m),46.93166667,10.24194444,False 
+552,527. Hochreichkopf (3010 m),47.17027778,10.96972222,False 
+553,528. Cima dell'Uomo (3010 m),46.40611111,11.80833333,False 
+554,529. Monte Giove (3009 m),46.36138889,8.38805556,False 
+555,530. Acherkogel (3008 m),47.18916667,10.95666667,False 
+556,531. Monte Avic (3007 m),45.67694444,7.55472222,True 
+557,532. Älplihorn (3006 m),46.71083333,9.82583333,False 
+558,533. Ritterkopf (3006 m),47.1025,12.94944444,False 
+559,534. Furgler (3004 m),47.04027778,10.51222222,False 
+560,535. Kesselkogel / Catinaccio d'Antermoia (3002 m),46.47444444,11.64361111,False 
+561,536. Pizzas d'Anarosa / Grauhörner (3002 m),46.59888889,9.31583333,False 
+562,537. Gigalitz (3001 m),47.05777778,11.89111111,False 
+563,538. Große Zinne / Cima Grande di Lavaredo (2999 m),46.61888889,12.30277778,False 
+564,539. Pizzo Centrale (2999 m),46.57805556,8.615,True 
+565,540. Cima Falkner (2999 m),46.19333333,10.90472222,False 
+566,541. Piz Beverin (2998 m),46.6525,9.35777778,False 
+567,Pic d'Artsinol (2998 m),46.115,7.42694444,True 
+568,542. Bric Bouchet /Bric Bucie (2997 m),44.82194444,7.02388889,True 
+569,543. Hoher Dachstein (2995 m),47.47527778,13.60555556,False 
+570,544. Roignais (2995 m),45.64305556,6.68888889,True 
+571,545. Rote Säule (2994 m),47.14666667,12.44388889,False 
+572,546. Le Mourre Froid (2993 m),44.63833333,6.40027778,True 
+573,547. Grand Parpaillon (2990 m),44.49388889,6.65194444,True 
+574,548. Mittler Fanis / Fanis di Mezzo (2989 m),46.55138889,12.01416667,False 
+575,549. Felber Tauernkogel (2988 m),47.15777778,12.48388889,False 
+576,550. Piz de la Lumbreida (2983 m),46.48111111,9.22527778,False 
+577,551. Cima Bagni (2983 m),46.61527778,12.41027778,False 
+578,552. Pala di San Martino (2982 m),46.25361111,11.85083333,False 
+579,553. Rosengartenspitze / Cima Catinaccio (2981 m),46.45472222,11.62083333,False 
+580,554. Aroser Rothorn (2980 m),46.73777778,9.61388889,False 
+581,555. Ròthòre / Corno Rosso (2979 m),45.76694444,7.88027778,True 
+582,556. La Tsavre (2978 m),45.91555556,7.12944444,False 
+583,557. Grand Pic de Belledonne (2977 m),45.17083333,5.99166667,True 
+584,558. Pic de Colle Blanche (2975 m),44.75333333,6.1725,False 
+585,559. Monte Redival (2973 m),46.30861111,10.61416667,False 
+586,560. Tsa at a l'Etsena / Chateleysine (2971 m),45.80138889,7.39972222,True 
+587,561. Cima Ovest / Westliche Zinne (2973 m),46.61861111,12.29722222,False 
+588,562. Piz Curvér (2972 m),46.60333333,9.49722222,False 
+589,563. Wildgrat (2971 m),47.14055556,10.82666667,False 
+590,564. Schilthorn (2970 m),46.5575,7.83472222,True 
+591,565. Haut de Cry (2969 m),46.24027778,7.195,True 
+592,566. Grieshorn (2969 m),46.45138889,8.39305556,False 
+593,567. Dent de Morcles (2969 m),46.19916667,7.07555556,True 
+594,568. Piz Daint (2968 m),46.61861111,10.29083333,False 
+595,569. Neuner / Sas dles Nü (2968 m),46.63027778,11.98111111,False 
+596,Cima del Duca (2968 m),46.28777778,9.79611111,False 
+597,570. Serottini (2967 m),46.29083333,10.34777778,False 
+598,571. Schober (2967 m),47.03444444,13.46833333,False 
+599,572. Haunold (2966 m),46.68861111,12.2775,False 
+600,573. Schesaplana (2965 m),47.05361111,9.7075,False 
+601,574. Aig. du Belvédère (2965 m),45.98777778,6.87361111,True 
+602,575. Reißeck (2965 m),46.94722222,13.36444444,False 
+603,576. Monte Tagliaferro (2964 m),45.8725,7.97083333,True 
+604,577. Piz Turettas (2963 m),46.58694444,10.33472222,False 
+605,578. Pizzo Lucendro (2963 m),46.53888889,8.51944444,False 
+606,579. Zugspitze (2962 m),47.42111111,10.98527778,False 
+607,580. Weiße Spitze (2962 m),46.87194444,12.35777778,False 
+608,581. Rienzenstock (2962 m),46.68305556,8.635,True 
+609,582. Marchhorn / Pta del Termine (2962 m),46.44861111,8.4625,False 
+610,583. Tête de l'Estrop (2961 m),44.28666667,6.50583333,True 
+611,584. Cima Brenta Alta (2961 m),46.16027778,10.89638889,False 
+612,585. Piz Lagalb (2959 m),46.43166667,10.02361111,False 
+613,586. Cima Giner (2957 m),46.23722222,10.7325,False 
+614,587. Piz Miez (2956 m),46.65472222,8.91666667,False 
+615,588. Tête de L'Enchastraye / Enciastraia (2954 m),44.3675,6.88833333,False 
+616,589. Torent / Torrone Alto (2952 m),46.34361111,9.07111111,False 
+617,590. Brunnistock (2952 m),46.84777778,8.55,False 
+618,591. Crasta Mora (2952 m),46.57138889,9.86805556,False 
+619,592. Bättlihorn (2951 m),46.3325,8.09388889,True 
+620,593. Corni di Nefelgiú (2951 m),46.39555556,8.37944444,True 
+621,Hochgrabe (2951 m),46.84888889,12.42166667,False 
+622,594. Crête de Lacha (2950 m),45.09722222,6.45944444,True 
+623,595. Asta Soprana (2950 m),44.20333333,7.31333333,True 
+624,596. Piz Tomül / Wissensteinhorn (2946 m),46.62333333,9.22833333,False 
+625,597. Piz Cavel (2946 m),46.65583333,9.01972222,False 
+626,598. Einshorn (2944 m),46.51611111,9.23027778,False 
+627,599. Gölbner (2943 m),46.82416667,12.505,False 
+628,600. Hochkönig (2941 m),47.42027778,13.0625,False 
+629,601. Cime de la Condamine (2940 m),44.8925,6.51972222,True 
+630,602. Gross Schinhorn / Pta di Valdeserta (2939 m),46.36111111,8.26083333,True 
+631,603. Pte de la Louïe Blanche (2939 m),45.66111111,6.91472222,True 
+632,604. Pizzo del Ramulazz S (2939 m),46.39666667,9.09277778,False 
+633,Monte Unghiasse (2939 m),45.41611111,7.295,True 
+634,605. Pic de Chabrières  (2938 m),44.57055556,6.62361111,True 
+635,606. Mont / Testa Malinvern (2938 m),44.19888889,7.18944444,False 
+636,607. Cime di Plator (2937 m),46.515,10.27055556,False 
+637,608. Pietra Grande (2937 m),46.23138889,10.89583333,False 
+638,609. Monte Gruf (2936 m),46.28611111,9.50583333,False 
+639,Mont du Grand Capelet (2935 m),44.07833333,7.4275,False 
+640,610. Cimon del Froppa (2932 m),46.50722222,12.34055556,False 
+641,611. Monte Pettini (2932 m),46.53611111,10.2275,False 
+642,612. Bärenhorn (2929 m),46.57555556,9.23194444,False 
+643,613. Tête du Pelvas/Monte Palavas (2929 m),44.79,6.99972222,True 
+644,614. Rosställispitz (2929 m),46.78916667,9.99361111,False 
+645,615. Schwarzhorn (2928 m),46.68611111,8.07555556,False 
+646,616. Rocher Blanc (2928 m),45.24166667,6.10722222,True 
+647,617. Badus / Six Madun (2928 m),46.6225,8.66361111,False 
+648,618. Tête des Lauzières (2928 m),44.87416667,6.52833333,True 
+649,Vollandspitze (2928 m),47.01861111,10.17666667,False 
+650,619. Eggishorn (2927 m),46.43138889,8.09416667,True 
+651,620. Cima Bastioni Sud (2926 m),46.48527778,12.26777778,False 
+652,621. Pizzo del Diavolo della Malgina (2926 m),46.08472222,10.04666667,False 
+653,622. Edlenkopf (2923 m),47.13638889,12.92638889,False 
+654,623. Mährenhorn (2923 m),46.69166667,8.31083333,False 
+655,624. Birkenkofel (2922 m),46.68083333,12.25666667,False 
+656,625. Mont Revic (2922 m),45.68916667,7.56444444,True 
+657,626. Hochgasser (2922 m),47.15055556,12.52194444,False 
+658,Aig. du Grand Fond (2920 m),45.66638889,6.67083333,True 
+659,627. Monte Ciorneva (2918 m),45.26833333,7.26027778,False 
+660,628. Mulleter Seichenkopf (2918 m),46.91527778,12.83138889,False 
+661,629. Corno di Flavona (2918 m),46.24555556,10.89694444,False 
+662,630. Cima Bel Pra (2917 m),46.48444444,12.24111111,False 
+663,631. Dent Favre (2917 m),46.21027778,7.10388889,True 
+664,632. Pizzo del Diavolo di Tenda (2916 m),46.04527778,9.90805556,False 
+665,633. Pte Côte de l'Âne (2916 m),44.24444444,6.80472222,True 
+666,634. Maresenspitz (2916 m),47.00416667,13.23027778,False 
+667,635. L'Aupillon (2916 m),44.44888889,6.57861111,True 
+668,636. Glärnisch (2915 m),46.995,8.99527778,False 
+669,637. Pflunspitze (2912 m),47.07944444,10.13277778,False 
+670,638. Cristallina (2912 m),46.46472222,8.53694444,True 
+671,639. Beco Alto del Piz (2912 m),44.29888889,6.98083333,False 
+672,Monte Torena (2911 m),46.08833333,10.10305556,False 
+673,640. Pic du Béal Traversier (2910 m),44.75694444,6.68944444,True 
+674,641. Aig. de Cédéra (2909 m),44.73861111,6.28472222,False 
+675,642. Grande Séolane (2909 m),44.33777778,6.54638889,True 
+676,643. Puy Gris (2908 m),45.29583333,6.14611111,True 
+677,644. Pizzo Diei (2906 m),46.26472222,8.23805556,False 
+678,Les Grandes Aigs (2905 m),45.70555556,6.785,True 
+679,645. Signal du Lauvitel E (2904 m),44.93888889,6.0475,True 
+680,646. Pic de Peyre Eyraute (2903 m),44.82277778,6.63055556,True 
+681,647. Piz Combul (2901 m),46.22972222,10.04388889,False 
+682,648. Grand Chavalard (2899 m),46.17861111,7.11305556,True 
+683,649. Becca di Nona (2898 m),45.83972222,7.41611111,True 
+684,650. Le Pouzenc (2898 m),44.45916667,6.51694444,True 
+685,651. Monte Frisozzo (2897 m),46.02444444,10.44916667,False 
+686,652. Holzgauer Wetterspitze (2895 m),47.20638889,10.36944444,False 
+687,653. Reinhart (2891 m),47.04222222,12.17972222,False 
+688,654. Regenstein (2891 m),46.86055556,12.49055556,False 
+689,655. Monte Orsiera (2890 m),45.06388889,7.10722222,False 
+690,656. Schwarzhorn / Piz Gren (2890 m),46.6775,9.02277778,False 
+691,657. Monte Re di Castello (2889 m),46.02166667,10.48333333,False 
+692,658. Vorderseespitze (2889 m),47.18472222,10.36694444,False 
+693,659. Napfspitze (2888 m),46.93694444,11.73944444,False 
+694,660. Schildflue (2887 m),46.88055556,9.95638889,False 
+695,661. Wissigstock (2887 m),46.84555556,8.50666667,False 
+696,662. Lizumer Reckner (2886 m),47.14388889,11.63083333,False 
+697,663. Guggernüll (2886 m),46.52388889,9.27138889,False 
+698,664. Le Chevalier (2886 m),44.33055556,6.75916667,False 
+699,664. Pizzo Recastello (2886 m),46.05694444,10.07555556,False 
+700,666. Rietzer Grießkogel (2884 m),47.24583333,11.05944444,False 
+701,667. Monteaviolo (2881 m),46.18527778,10.39861111,False 
+702,668. Pte de la Terrasse (2881 m),45.67083333,6.72472222,True 
+703,669. Piz Fess (2880 m),46.7275,9.28861111,False 
+704,670. Cima della Sasse (2878 m),46.35694444,12.06444444,False 
+705,670. Moiazza Sud (2878 m),46.33833333,12.05805556,False 
+706,672. Pte de Cloutzau (2878 m),45.00722222,6.7475,False 
+707,673. Peitlerkofel / Sas de Pütia (2875 m),46.65888889,11.82,False 
+708,674. Eisentälispitze (2875 m),46.91333333,9.9625,False 
+709,675. Schwalbenkofel (2873 m),46.65222222,12.27027778,False 
+710,676. Monte Carbonè (2873 m),44.16027778,7.43055556,True 
+711,677. Monte Agnèr (2872 m),46.27638889,11.95277778,False 
+712,678. Mont Bégo (2872 m),44.07388889,7.45083333,False 
+713,679. Tête des Vieux  (2871 m),45.75888889,6.935,False 
+714,680. Grand Aréa (2869 m),44.98,6.57333333,True 
+715,681. Kolbenspitze (2868 m),46.77277778,11.14777778,False 
+716,682. Pta Cornour (2867 m),44.85055556,7.09305556,False 
+717,683. Tête de Gaulent (2867 m),44.71888889,6.52555556,True 
+718,684. Nufenenstock (2866 m),46.46694444,8.38833333,False 
+719,685. Rocher de Plassa (2865 m),45.37305556,6.68916667,True 
+720,686. Triglav (2864 m),46.37805556,13.83694444,False 
+721,687. Pala di Meduce (2864 m),46.50194444,12.2975,False 
+722,688. Poncione di Braga (2864 m),46.43416667,8.54277778,False 
+723,689. Wandfluhhorn / Pizzo Biela (2863 m),46.34472222,8.46416667,False 
+724,690. Hochgolling (2862 m),47.26611111,13.76111111,False 
+725,691. Cima de Barna (2862 m),46.42055556,9.26361111,False 
+726,692. Le Taillefer (2857 m),45.03972222,5.92444444,True 
+727,693. Gstellihorn (2855 m),46.66222222,8.17472222,False 
+728,694. Piz di Sassiglion (2855 m),46.32277778,10.1125,False 
+729,695. Petite Séolane (2854 m),44.3575,6.53,True 
+730,696. Cima Ciantiplagna (2849 m),45.07222222,7.01333333,False 
+731,697. Croda Granda (2849 m),46.24861111,11.92861111,False 
+732,698. Cima d'Asta (2847 m),46.17666667,11.60527778,False 
+733,699. Pta Nera (2847 m),46.51638889,12.19166667,False 
+734,700. Cima del Desenigo (2845 m),46.20166667,9.56166667,False 
+735,701. Pizol (2844 m),46.95916667,9.38666667,False 
+736,702. Punta Charrà / Sommet du Charra (2844 m),45.02138889,6.71027778,False 
+737,703. Weissfluh (2843 m),46.835,9.79527778,False 
+738,704. Pic de Beaudouis (2843 m),44.83638889,6.69444444,True 
+739,705. Schneekarkopf (2843 m),47.14111111,12.03555556,False 
+740,Cornone di Blumone (2843 m),45.95472222,10.45583333,True 
+741,706. Latemar (Diamantiditurm) (2842 m),46.38111111,11.57527778,False 
+742,707. Cima di Gana Bianca (2842 m),46.47138889,8.99222222,False 
+743,708. Kirchdachspitze (2840 m),47.06722222,11.34194444,False 
+744,709. Dürrenstein (2839 m),46.6725,12.18527778,False 
+745,710. Cima Cadin di San Lucano (2839 m),46.5775,12.28805556,False 
+746,711. Grand Cheval de Bois (2838 m),44.2925,6.63388889,False 
+747,712. Kärlskopf (2836 m),46.88861111,12.23611111,False 
+748,713. Tête du Clotonnet (2835 m),44.84277778,6.10111111,False 
+749,714. Gamskarlspitz (2833 m),47.03694444,13.1625,False 
+750,715. Cheval Noir (2832 m),45.42194444,6.41388889,True 
+751,716. Rocca la Meja (2831 m),44.39833333,7.06888889,False 
+752,717. Drei Türme / Drusentürme (2830 m),47.02472222,9.81,False 
+753,Aig. de Venosc (2830 m),44.96805556,6.08722222,True 
+754,718. Grand Pic de la Lauzière (2829 m),45.45916667,6.36666667,True 
+755,719. Pirchkogel (2828 m),47.23194444,10.99916667,False 
+756,720. Große Schlenkerspitze (2827 m),47.24888889,10.61527778,False 
+757,721. Graunock (2827 m),46.88611111,11.78888889,False 
+758,722. Cime de Bolofré (2827 m),44.22305556,6.83527778,False 
+759,723. Madrisahorn (2826 m),46.93111111,9.87222222,False 
+760,724. Kalkwand (2826 m),47.15388889,11.66166667,False 
+761,725. Grand Perron des Encombres (2824 m),45.29777778,6.45027778,True 
+762,726. Tête de l'Hivernet (2824 m),44.62,6.45305556,True 
+763,727. Hoher Herd (2824 m),47.19944444,12.45,False 
+764,728. Hochmaderer (2823 m),46.92861111,10.02861111,False 
+765,729. Le Bellachat (2822 m),45.37972222,6.39694444,True 
+766,Riedbock  (2822 m),46.92861111,13.35666667,False 
+767,730. Monfandì (2820 m),45.52194444,7.61944444,True 
+768,731. Sulzfluh (2818 m),47.0125,9.83972222,False 
+769,732. Mont Mounier (2817 m),44.15472222,6.9725,False 
+770,733. Dosso Resaccio (2814 m),46.50111111,10.22,False 
+771,734. Sass Maòr (2814 m),46.2325,11.84805556,False 
+772,735. Vallüla (2813 m),46.9375,10.1125,False 
+773,736. Cima delle Lose (2813 m),44.37222222,6.925,False 
+774,737. Frate della Meia (2812 m),45.75888889,7.92416667,True 
+775,738. Seekofel / Sas dla Porta (2810 m),46.675,12.0725,False 
+776,739. Valluga (2809 m),47.1575,10.21305556,False 
+777,740. Monte Campellio (2809 m),46.05138889,10.47722222,False 
+778,741. Peiderspitze  (2808 m),47.21972222,11.12166667,False 
+779,741. Seejoch  (2808 m),47.22444444,11.10305556,False 
+780,743. Pizzo Castello (2808 m),46.41555556,8.56527778,False 
+781,744. Pic du Frêne (2807 m),45.3525,6.19833333,True 
+782,745. Haldensteiner Calanda (2805 m),46.9,9.4675,False 
+783,746. Cima de Gagela (2805 m),46.38416667,9.17472222,False 
+784,747. Tête à l'Âne (2804 m),45.98722222,6.77972222,True 
+785,748. Corona di Redorta (2804 m),46.37555556,8.73222222,False 
+786,749. Schlicker Seespitze (2804 m),47.14555556,11.27333333,False 
+787,750. Bös Fulen (2802 m),46.96722222,8.94583333,False 
+788,751. Cima di Ball (2802 m),46.24305556,11.84444444,False 
+789,752. Corno Mud (2802 m),45.88444444,7.96388889,True 
+790,753. Rollspitze (2800 m),46.94638889,11.50777778,False 
+791,754. Rosenjoch (2796 m),47.18,11.54333333,False 
+792,755. Col Bechei / Pareispitze (2794 m),46.60777778,12.04444444,False 
+793,756. Kärpf (2794 m),46.91666667,9.09333333,False 
+794,757. Drättehorn (2794 m),46.58222222,7.82388889,True 
+795,758. Pizzo Quadro (2793 m),46.29861111,8.41805556,False 
+796,759. Grand Armet (2792 m),44.98194444,5.93444444,True 
+797,760. Pta Ciamberline (2792 m),44.16555556,7.35805556,True 
+798,761. Grande Tête de l'Obiou (2790 m),44.77472222,5.83972222,True 
+799,762. Pizzo Marumo (2790 m),46.59833333,8.95944444,False 
+800,763. Muntejela de Senes (2787 m),46.67166667,12.01833333,False 
+801,764. Le Luisin (2786 m),46.12083333,6.97,True 
+802,765. Polinik (2784 m),46.895,13.15805556,False 
+803,766. Schrotkopf (2784 m),47.20888889,12.54055556,False 
+804,767. Grande Autane (2782 m),44.64916667,6.28777778,False 
+805,768. Hirzer (2781 m),46.73722222,11.27666667,False 
+806,769. Tiejer Flue (2781 m),46.78083333,9.73444444,False 
+807,770. Hohe Warte / Coglians (2780 m),46.60694444,12.88305556,False 
+808,771. Monte dei Corni (2779 m),45.57083333,7.63583333,False 
+809,772. Monte Cassorso (2776 m),44.41777778,7.01805556,False 
+810,773. Grun de Saint-Maurice (2775 m),44.81611111,6.05722222,False 
+811,774. Imster Muttekopf (2774 m),47.26722222,10.65166667,False 
+812,775. Pizzo del Sole (2773 m),46.525,8.76777778,False 
+813,776. Pta Lunella (2772 m),45.19722222,7.21638889,False 
+814,777. Große Sandspitze (2770 m),46.76638889,12.81194444,False 
+815,778. Madererspitze (2769 m),47.025,10.06972222,False 
+816,779. Fallesinspitze (2769 m),47.18138889,10.30027778,False 
+817,Hochsteinflache (2769 m),47.15888889,11.99777778,False 
+818,780. Hochplattig (2768 m),47.35305556,10.98861111,False 
+819,781. Il Madone  (2768 m),46.49194444,8.56694444,False 
+820,782. Dristner (2767 m),47.11333333,11.83944444,False 
+821,783. Schwarzkopf (2765 m),47.16694444,12.86083333,False 
+822,784. Schächentaler Windgällen (2764 m),46.88805556,8.79166667,False 
+823,785. Schwarzberg / Piz Nair (2764 m),46.60944444,8.67777778,False 
+824,786. Albristhorn (2763 m),46.49805556,7.48777778,True 
+825,787. Rotenkogel (2762 m),46.98,12.59888889,False 
+826,788. Rastkogel (2762 m),47.20416667,11.75111111,False 
+827,789. Pizzo Massari (2760 m),46.47583333,8.68333333,False 
+828,790. Dent de Barme (2759 m),46.13194444,6.84194444,True 
+829,791. Grand Ferrand (2758 m),44.7225,5.81611111,True 
+830,792. Reeti / Rötihorn (2757 m),46.665,8.01166667,False 
+831,793. Ehrenspitze (2756 m),46.76388889,11.07777778,False 
+832,794. Roche de l'Abisse/Rocca dell'Abisso (2755 m),44.14361111,7.505,True 
+833,795. Cima di Cece (2754 m),46.26083333,11.68388889,False 
+834,796. Monte Telenek (2754 m),46.0925,10.17916667,False 
+835,797. Jôf dal Montâs (2753 m),46.43583333,13.43361111,False 
+836,798. Untere Wildgrubenspitze (2753 m),47.165,10.12638889,False 
+837,799. Östliche Eisentalerspitze (2753 m),47.07972222,10.1,False 
+838,800. Pic de Valsenestre (2752 m),44.88666667,6.0675,False 
+839,802. Pte Percée (2750 m),45.95555556,6.55611111,True 
+840,803. Birkkarspitze (2749 m),47.41111111,11.43777778,False 
+841,804. Alplerspitz / Mardatsch (2748 m),46.76166667,11.30111111,False 
+842,805. Sommet de La Frema (2747 m),44.15194444,6.69861111,False 
+843,806. Hochwildstelle (2747 m),47.335,13.83083333,False 
+844,807. Corno del Lago (2747 m),45.67083333,7.78305556,True 
+845,808. Hochwart (2746 m),46.79083333,11.31888889,False 
+846,809. Cima Bocche (2745 m),46.35416667,11.75222222,False 
+847,810. Jakobsspitze (2745 m),46.76305556,11.49166667,False 
+848,811. Sadnig (2745 m),46.94111111,12.98916667,False 
+849,812. Hochwanner (2744 m),47.39611111,11.05583333,False 
+850,813. Roteck (2742 m),47.23,13.85055556,False 
+851,814. Ärmighore (2742 m),46.54166667,7.71361111,False 
+852,815. Madom Gröss (2741 m),46.36666667,8.83111111,False 
+853,816. Cima Carnera (2741 m),45.855,7.97027778,True 
+854,817. Škrlatica (2740 m),46.43277778,13.82111111,False 
+855,818. Kasereck (2740 m),47.2375,13.77166667,False 
+856,819. Schenadüi (2738 m),46.5525,8.74861111,False 
+857,820. Spitzhorli (2737 m),46.26444444,7.98055556,False 
+858,821. Monte Zucchero (2735 m),46.35416667,8.71416667,False 
+859,822. Kaltwasserkarspitze (2733 m),47.40305556,11.45055556,False 
+860,823. Dremelspitze (2733 m),47.235,10.59583333,False 
+861,824. Pic des Cabottes (2732 m),45.24194444,6.06388889,True 
+862,825. Clot de la Cime (2732 m),44.81666667,6.72194444,True 
+863,826. Monte Borga (2731 m),46.09305556,10.20833333,False 
+864,827. Dzerbion /Monte Zerbion (2720 m),45.78833333,7.66388889,True 
+865,828. Le Grand Coin (2729 m),45.34611111,6.40222222,True 
+866,829. Kesselspitze (2728 m),47.10055556,11.36472222,False 
+867,830. Bergwerkskopf  (2728 m),47.225,10.60916667,False 
+868,831. Sas de Mezdi / La Mesola (2727 m),46.47194444,11.8775,False 
+869,832. Pizzo di Claro (2727 m),46.29583333,9.05555556,False 
+870,833. Pizzo di Prata (2727 m),46.2775,9.45555556,False 
+871,834. Großer Bettelwurf (2726 m),47.34416667,11.52,False 
+872,835. Hirzer (2725 m),47.21777778,11.66305556,False 
+873,836. Schmalzkopf (2724 m),46.93138889,10.53583333,False 
+874,837. Weiße Wand (2722 m),46.94583333,11.81361111,False 
+875,838. Hochwand (2719 m),47.35861111,11.01583333,False 
+876,839. Spitzkofel (2717 m),46.77222222,12.74333333,False 
+877,840. Serles (2717 m),47.12388889,11.38111111,False 
+878,841. Ortstock (2716 m),46.92527778,8.94805556,False 
+879,Valisera (2716 m),46.96083333,9.95583333,False 
+880,842. Cima Ambrizzola (2715 m),46.47916667,12.09805556,False 
+881,843. Colàc (2715 m),46.44138889,11.7825,False 
+882,844. Watzmann (2713 m),47.555,12.92305556,False 
+883,845. Pizzo Straciugo (2713 m),46.13222222,8.12083333,False 
+884,846. Croda da Campo (2712 m),46.58944444,12.43416667,False 
+885,847. Weißeck (2711 m),47.1625,13.39416667,False 
+886,848. Mont Saint-Sauveur (2711 m),44.16472222,7.13555556,False 
+887,849. Mont Gond (2710 m),46.28555556,7.26361111,True 
+888,850. Pic de Bure (2709 m),44.62666667,5.935,False 
+889,851. Hochkreuz (2709 m),46.815,13.07416667,False 
+890,852. Gsür (2708 m),46.51083333,7.51972222,False 
+891,853. Coston di Slavaci (2708 m),46.26222222,11.71694444,False 
+892,854. Cima dei Preti (2706 m),46.3425,12.42083333,False 
+893,855. Penser Weißhorn (2705 m),46.80194444,11.39555556,False 
+894,856. Pizzo Montalto (2705 m),46.0975,8.13305556,False 
+895,857. Rote Wand (2704 m),47.18638889,9.985,False 
+896,858. Monte Fraiteve (2702 m),44.97722222,6.86138889,False 
+897,859. Waldhorn (2702 m),47.29611111,13.8175,False 
+898,860. Rotsandnollen (2700 m),46.80055556,8.34388889,False 
+899,861. Cima Iuribrutto (2697 m),46.35916667,11.76527778,False 
+900,862. Großer Lafatscher (2696 m),47.34555556,11.45277778,False 
+901,863. Monte Peralba (2694 m),46.62944444,12.71944444,False 
+902,864. Piz de Groven (2694 m),46.31833333,9.15916667,False 
+903,865. Grand Coyer (2693 m),44.10055556,6.69027778,False 
+904,866. Tête du Colonney (2692 m),45.97166667,6.69083333,True 
+905,867. Ilmspitze (2692 m),47.05722222,11.33027778,False 
+906,868. Große Kinigat / Monte Cavallino (2689 m),46.67527778,12.52444444,False 
+907,869. Piz Pian Grand (2689 m),46.4175,9.15555556,False 
+908,870. Aigs de la Pennaz (2688 m),45.745,6.69944444,True 
+909,871. Hochfeind (2687 m),47.18722222,13.495,False 
+910,Schwabenalpenkopf (2687 m),46.64527778,12.28666667,False 
+911,872. Grand Mont (2686 m),45.63194444,6.53722222,True 
+912,873. Cima del Serraglio (2685 m),46.59277778,10.24222222,False 
+913,874. Deichselspitze (2684 m),47.27027778,13.82222222,False 
+914,875. Chapeau de Gendarme (2682 m),44.33833333,6.66583333,False 
+915,876. Leutascher Dreitorspitze (2682 m),47.40055556,11.12444444,False 
+916,877. Hochstadel (2681 m),46.76,12.85722222,False 
+917,878. Mosermandl (2680 m),47.20611111,13.39611111,False 
+918,879. Mangart (2679 m),46.43944444,13.65472222,False 
+919,880. Spullerschafberg (2679 m),47.17388889,10.07583333,False 
+920,881. Pta Tempesta (2679 m),44.42194444,7.13833333,False 
+921,882. Cima di Santa Maria (2678 m),46.21277778,10.95083333,False 
+922,883. Gaflunakopf (2676 m),47.06388889,10.13472222,False 
+923,884. Piz della Forcola (2675 m),46.31638889,9.29333333,False 
+924,885. Mont Pépoiri (2674 m),44.11083333,7.20277778,False 
+925,886. Mont Rougnous (2673 m),44.18416667,6.87388889,False 
+926,887. Elendberg (2672 m),47.28388889,13.74694444,False 
+927,888. Ballunspitze (2671 m),46.95527778,10.135,False 
+928,889. Stübele / Stubele (2671 m),46.46777778,10.93666667,False 
+929,890. Sas Ciampac / Ciampatsch (2671 m),46.56305556,11.83527778,False 
+930,891. Le Grand Miceau (2669 m),45.37111111,6.21222222,True 
+931,892. Monte Duranno  (2668 m),46.32888889,12.40277778,False 
+932,893. Südliche Sonnenspitze (2668 m),47.38666667,11.47777778,False 
+933,894. Jôf Fuart / Wischberg / Viš (2666 m),46.43055556,13.49138889,False 
+934,895. Les Avoudrues (2666 m),46.10111111,6.81305556,True 
+935,896. Monte Bruffione (2665 m),45.94222222,10.49138889,True 
+936,897. Monte Cernera (2664 m),46.46888889,12.05833333,False 
+937,898. Toblacher Pfannhorn (2663 m),46.78388889,12.28416667,False 
+938,899. Hohe Munde (2662 m),47.34777778,11.07194444,False 
+939,900. Grünstein (2661 m),47.34888889,10.92138889,False 
+940,901. Pte Rousse des Chambres (2660 m),46.11277778,6.82027778,True 
+941,902. Pizzo Giezza (2658 m),46.17916667,8.19666667,False 
+942,903. Piz Toissa (2657 m),46.61861111,9.525,False 
+943,904. Großer Krottenkopf (2656 m),47.31166667,10.35583333,False 
+944,905. Ilmenspitze /Cima degli Olmi (2656 m),46.48194444,10.96388889,False 
+945,906. Selbhorn (2655 m),47.44694444,12.96361111,False 
+946,907. Sommet du Guiau (2654 m),45.02,6.67361111,False 
+947,908. Faulkogel (2654 m),47.21611111,13.3725,False 
+948,909. Schönfeldspitze (2653 m),47.45805556,12.9375,False 
+949,Tullen (2653 m),46.65361111,11.775,False 
+950,910. Männliflue (2652 m),46.55138889,7.54638889,False 
+951,911. Hohes Licht (2651 m),47.28027778,10.27611111,False 
+952,912. Pta Marguareis (2650 m),44.17388889,7.68444444,True 
+953,913. Le Chenaillet (2650 m),44.90222222,6.74055556,False 
+954,914. Braunarlspitze (2649 m),47.22944444,10.06444444,False 
+955,915. Averau (2649 m),46.50083333,12.03694444,False 
+956,916. Jalovec (2645 m),46.42166667,13.67972222,False 
+957,917. Crête des Crousas (2645 m),44.72305556,6.66055556,True 
+958,918. Zimba (2643 m),47.09138889,9.78888889,False 
+959,919. Heiterwand (2639 m),47.31444444,10.73444444,False 
+960,920. Hocheck (2638 m),47.23611111,13.72416667,False 
+961,921. Kleiner Solstein (2637 m),47.3025,11.32444444,False 
+962,922. Birnhorn (2634 m),47.47472222,12.73388889,False 
+963,923. Crêt du Rey (2633 m),45.60138889,6.59944444,True 
+964,924. Urbeleskarspitze (2632 m),47.33666667,10.46861111,False 
+965,925. Großstein (2632 m),47.23777778,10.49444444,False 
+966,926. Rüfispitze (2632 m),47.19111111,10.18222222,False 
+967,927. Monte Mongioie (2630 m),44.175,7.78555556,False 
+968,928. Munt Buffalora (2630 m),46.62694444,10.25,False 
+969,929. Ultner Hochwart (2627 m),46.51166667,10.99972222,False 
+970,930. Blutspitze / Steinkarspitze (2626 m),47.24972222,13.68583333,False 
+971,931. Monte Pradella (2626 m),45.99222222,9.85055556,False 
+972,932. Cima d'Auta Orientale (2624 m),46.40055556,11.88611111,False 
+973,933. Valschavielberge (2624 m),47.00944444,10.12666667,False 
+974,934. Le Rissiou (2622 m),45.18361111,6.06805556,True 
+975,935. Greifenberg (2618 m),47.28916667,13.78972222,False 
+976,936. Monte Stelle delle Sute (2616 m),46.21083333,11.53333333,False 
+977,937. Grande Balmaz (2616 m),45.89333333,6.49666667,True 
+978,938. Piz Cavradi (2614 m),46.6325,8.69555556,False 
+979,939. Pizzo dell'Alpe Gelato (2613 m),46.24972222,8.44416667,False 
+980,940. Le Gros Têt (2613 m),45.07527778,6.23972222,False 
+981,941. Cima Bianca (2612 m),46.38777778,8.8125,False 
+982,942. Monte le Stelière (2612 m),44.26583333,7.10722222,False 
+983,943. Foostock / Ruchen (2611 m),46.95666667,9.24472222,False 
+984,944. Monte Legnone (2609 m),46.09472222,9.41472222,False 
+985,945. Sommet d'Assan (2609 m),44.68555556,6.73611111,False 
+986,946. Mittlere Jägerkarspitze (2608 m),47.35361111,11.37583333,False 
+987,947. Hochkalter (2607 m),47.56944444,12.86666667,False 
+988,948. Cima del Rouss (2604 m),44.32111111,7.0,False 
+989,949. Campanile Ciastelin (2602 m),46.51083333,12.37722222,False 
+990,950. Becco di Mezzodì (2602 m),46.46666667,12.11444444,False 
+991,951. Schafseitenspitze (2602 m),47.10277778,11.55444444,False 
+992,952. Razor (2601 m),46.41194444,13.79194444,False 
+993,953. Monte Cabianca (2601 m),46.01,9.86694444,False 
+994,954. Monte Mars (2600 m),45.63333333,7.91527778,True 
+995,955. Silberpfennig (2600 m),47.08916667,13.04166667,False 
+996,956. Großer Knallstein (2599 m),47.32,13.97694444,False 
+997,957. Vorder Grauspitz (2599 m),47.05277778,9.58111111,False 
+998,958. Biberkopf (2599 m),47.27055556,10.23277778,False 
+999,959. Le Catogne (2598 m),46.05416667,7.11083333,True 
+1000,960. Zellinkopf (2597 m),46.89416667,12.95138889,False 
+1001,961. Großer Hundstod (2594 m),47.5125,12.88666667,False 
+1002,962. Roc du Bécoin (2594 m),45.49277778,6.66388889,True 
+1003,963. Gametzalpenkopf (2594 m),46.68916667,12.10888889,False 
+1004,964. Pizzo Paglia (2593 m),46.23166667,9.21916667,False 
+1005,965. Monte Forno / Gorio (2593 m),46.29527778,8.32361111,False 
+1006,966. Hochvogel (2592 m),47.37972222,10.43694444,False 
+1007,967. Zwölferspitz (2592 m),46.66166667,12.72833333,False 
+1008,968. Eggenkofel (2591 m),46.73861111,12.67805556,False 
+1009,969. Rupprechtseck (2591 m),47.23944444,14.00138889,False 
+1010,970. Kanin (2587 m),46.36,13.43833333,False 
+1011,971. Monte Terza Grande (2586 m),46.52694444,12.62138889,False 
+1012,972. Monte Cridola (2581 m),46.42638889,12.48666667,False 
+1013,973. Hochspitz / M. Vancomun (2581 m),46.65722222,12.66861111,False 
+1014,974. Ruitelspitze (2580 m),47.25555556,10.44611111,False 
+1015,975. Mont Triboulet (2578 m),44.20611111,6.86583333,False 
+1016,976. Türchlwand (2577 m),47.15083333,13.0325,False 
+1017,977. Plose (Große Gabler) (2576 m),46.68972222,11.76305556,False 
+1018,978. Stätzerhorn (2575 m),46.75583333,9.51222222,False 
+1019,979. Cima delle Buse (2574 m),46.18611111,11.49805556,False 
+1020,980. Pfannenstock (2573 m),46.96166667,8.91138889,False 
+1021,981. Westlicher Johanneskopf (2573 m),47.21027778,10.0225,False 
+1022,982. Torrione dei Longerin (2571 m),46.62916667,12.56138889,False 
+1023,983. Setsas (2571 m),46.51944444,11.9575,False 
+1024,984. Kanjavec (2569 m),46.36027778,13.80972222,False 
+1025,985. Tête du Collier (2567 m),44.71722222,5.96416667,False 
+1026,986. Maurerkopf (2567 m),46.71277778,12.03388889,False 
+1027,987. Schiara (2565 m),46.23,12.18222222,False 
+1028,988. Hinter Planitzer (2562 m),47.21777778,12.63694444,False 
+1029,989. Grand Galbert (2561 m),45.09055556,5.95972222,True 
+1030,990. Grintovec (2558 m),46.35694444,14.53611111,False 
+1031,991. Kreuzjoch (2558 m),47.25138889,11.98277778,False 
+1032,992. Monte Bo (2556 m),45.71416667,7.99888889,True 
+1033,993. Wolayer Seekopf / Monte Capolago (2554 m),46.60611111,12.86083333,False 
+1034,994. Pizzo Tre Signori (2554 m),46.01194444,9.52833333,False 
+1035,995. Modeon del Buinz (2554 m),46.41666667,13.47111111,False 
+1036,996. Namloser Wetterspitze (2553 m),47.32305556,10.64166667,False 
+1037,997. Kirchlispitzen (2552 m),47.03888889,9.76944444,False 
+1038,998. Tàmer Piccolo (2550 m),46.31055556,12.12194444,False 
+1039,999. Concarena (Cima della Bacchetta) (2549 m),46.01083333,10.28,False 
+1040,1000. Monte Brentoni (2548 m),46.51277778,12.56583333,False 
+1041,1001. Le Tarent (2548 m),46.38222222,7.1475,True 
+1042,1002. Monfalcon di Montanaia (2548 m),46.40444444,12.48611111,False 
+1043,1003. Sass de Mura (2547 m),46.16361111,11.92527778,False 
+1044,1004. Rosso di Ribia (2547 m),46.26111111,8.52972222,False 
+1045,1005. Prisojnik (2547 m),46.42527778,13.77,False 
+1046,1006. Hochnissl (2547 m),47.36722222,11.61805556,False 
+1047,1007. Les Aig.ttes (2547 m),45.18388889,6.125,True 
+1048,1008. Crest / Monte Cresto (2546 m),45.68083333,7.91,True 
+1049,1009. L'Aig. Rouge (2545 m),45.04611111,6.64444444,False 
+1050,1010. Predigstuhl (2543 m),47.26194444,13.91138889,False 
+1051,1011. Monte Talvena (2542 m),46.26611111,12.15583333,False 
+1052,1012. Giferspitz (2542 m),46.45111111,7.35333333,False 
+1053,1013. Mohnenfluh (2542 m),47.23222222,10.10222222,False 
+1054,1014. Pöngertlekopf & Pfaffeneck  (2539 m),47.17416667,10.03444444,False 
+1055,1015. Östliche Karwendelspitze (2537 m),47.445,11.42194444,False 
+1056,1016. Pizzo Cavregasco (2535 m),46.23944444,9.27638889,False 
+1057,1017. Glogghüs (2534 m),46.76055556,8.2625,False 
+1058,1018. Hochwang (2534 m),46.87416667,9.63305556,False 
+1059,1019. Pte de Comborsier (2534 m),45.61027778,6.51555556,True 
+1060,1020. Großer Widderstein (2533 m),47.28472222,10.12916667,False 
+1061,1021. Cima Quarazza (2530 m),46.12972222,11.57,False 
+1062,1022. Cima Coltorondo (2530 m),46.25583333,11.63805556,False 
+1063,1023. Gurpitscheck (2526 m),47.21083333,13.61472222,False 
+1064,1024. Gamskofel (2526 m),46.63083333,12.90083333,False 
+1065,1025. Mont Joly (2525 m),45.82611111,6.69305556,True 
+1066,1026. Magerrain (2524 m),47.03305556,9.22,False 
+1067,1027. Hocheisspitze (2523 m),47.54694444,12.84333333,False 
+1068,1028. Hoher Göll (2522 m),47.59416667,13.06777778,False 
+1069,1029. Presolana (2521 m),45.95666667,10.05527778,True 
+1070,1030. Monte delle Scale (2521 m),46.5025,10.32666667,False 
+1071,1031. Tschuggen (2521 m),46.60027778,7.94972222,False 
+1072,1032. Hochjoch (2520 m),47.06611111,9.98805556,False 
+1073,1033. Dreispitz (2520 m),46.59277778,7.75972222,False 
+1074,1034. Steinwand / Creta Verde (2520 m),46.64277778,12.79222222,False 
+1075,1035. Cima di Bri (2520 m),46.30527778,8.88416667,False 
+1076,1036. Monte Seleron (2519 m),46.1,9.72888889,False 
+1077,1037. Großer Priel (2515 m),47.71694444,14.06333333,False 
+1078,1038. Chaiserstock (2515 m),46.92833333,8.72861111,False 
+1079,1039. Cima Busa Alta (2513 m),46.24972222,11.60944444,False 
+1080,1040. Glanderspitze (2512 m),47.14833333,10.66166667,False 
+1081,1041. Pizzo Arera (2512 m),45.93472222,9.81583333,True 
+1082,1042. Pizzo Alto (2512 m),46.0775,9.45666667,False 
+1083,1043. Großes Ochsenhorn (2511 m),47.53833333,12.66083333,False 
+1084,1044. Villanderer Berg (2509 m),46.65861111,11.41888889,False 
+1085,1045. Mitterhorn (2506 m),47.54944444,12.62861111,False 
+1086,1046. Dormillouse (2505 m),44.40972222,6.38694444,False 
+1087,1047. Breithorn (2504 m),47.45694444,12.90277778,False 
+1088,1048. Cima di Pape / Cima di Sanson (2503 m),46.33444444,11.92805556,False 
+1089,1049. Piz Ledu (2503 m),46.2325,9.32166667,False 
+1090,1050. Säntis (2502 m),47.24944444,9.34333333,False 
+1091,1051. Großer Pleißlingkeil (2501 m),47.22722222,13.49138889,False 
+1092,1052. Marchkopf (2499 m),47.25111111,11.80611111,False 
+1093,1053. Castello di Moschesin (2499 m),46.29722222,12.13277778,False 
+1094,1054. Monte Croce (2496 m),46.16944444,11.39222222,False 
+1095,1055. Mittlere Kreuzspitze (2496 m),47.33611111,10.59277778,False 
+1096,1056. Les Grands Moulins (2495 m),45.40722222,6.19833333,True 
+1097,1057. Wannig (2493 m),47.33694444,10.86222222,False 
+1098,1058. Pizzo Camino (2491 m),45.98166667,10.1775,False 
+1099,1059. Fulen (2491 m),46.91861111,8.71472222,False 
+1100,1060. Viezzena (2490 m),46.3375,11.67555556,False 
+1101,1061. Zanggen / Pala di Santa (2488 m),46.34583333,11.51194444,False 
+1102,1062. Creton di Clap Grant  (2487 m),46.52916667,12.67055556,False 
+1103,1063. Cima di Pinadee (2486 m),46.51333333,8.97694444,False 
+1104,1064. Grand Arc (2484 m),45.56666667,6.36472222,True 
+1105,1065. Étale (mountain) (2483 m),45.85,6.44777778,True 
+1106,1066. Monte Bertrand (2483 m),44.11777778,7.67527778,False 
+1107,1067. Rammelstein (2483 m),46.83444444,12.05305556,False 
+1108,1068. Hochkarspitze (2482 m),47.4475,11.35055556,False 
+1109,1069. Rauchberg (2480 m),47.30416667,10.75888889,False 
+1110,1070. Monte Pramaggiore (2478 m),46.365,12.55333333,False 
+1111,1071. Monte Ziolera (2478 m),46.17194444,11.455,False 
+1112,1072. Spillgerte (2476 m),46.53666667,7.44666667,True 
+1113,1073. Rettelkirchspitze (2475 m),47.25972222,14.12777778,False 
+1114,1074. Bivare / Monte Bìvera (2474 m),46.44138889,12.64194444,False 
+1115,1075. Greim (2474 m),47.24777778,14.15166667,False 
+1116,1076. Monte Rinaldo (2473 m),46.59888889,12.65805556,False 
+1117,1077. Pierre Avoi (2473 m),46.11805556,7.20027778,False 
+1118,Špik (2473 m),46.44861111,13.81444444,False 
+1119,1078. Rappenspitze (2472 m),47.23666667,10.1975,False 
+1120,1079. Col Nudo (2471 m),46.2275,12.40277778,False 
+1121,1080. Loreakopf (2471 m),47.35416667,10.77166667,False 
+1122,1081. Cime de l'Aspre (2471 m),44.17555556,6.80972222,False 
+1123,1082. Lungauer Kalkspitze (2471 m),47.27222222,13.62527778,False 
+1124,1083. Ochsenkopf  (2470 m),47.27527778,12.07888889,False 
+1125,1083. Salzachgeier  (2470 m),47.29361111,12.10361111,False 
+1126,1085. Sasso di Bosconero (2468 m),46.33638889,12.26861111,False 
+1127,1086. Cima Scanaiol (2467 m),46.215,11.76583333,False 
+1128,1087. Gamskarkogel (2467 m),47.16111111,13.15861111,False 
+1129,1088. Hauts-Forts (2466 m),46.16861111,6.7775,True 
+1130,1089. Pizzo la Scheggia (2466 m),46.18416667,8.41527778,False 
+1131,1090. Creta Forata (2462 m),46.5425,12.73583333,False 
+1132,1091. Silberspitze (2461 m),47.18416667,10.57277778,False 
+1133,1092. Mont Mirantin (2460 m),45.68416667,6.49944444,True 
+1134,1092. Pte de la Grande Journée (2460 m),45.6675,6.50111111,True 
+1135,1094. Rauchkofel (2460 m),46.61944444,12.88333333,False 
+1136,Cima dei Lasteri (2459 m),46.17694444,10.94833333,False 
+1137,1095. Große Bischofsmütze (2458 m),47.49388889,13.51111111,False 
+1138,1096. Gummfluh (2458 m),46.44055556,7.195,True 
+1139,1097. Sonnjoch (2457 m),47.41222222,11.605,False 
+1140,1098. Hohniesen (2454 m),46.57722222,7.58333333,False 
+1141,Rumer Spitze (2454 m),47.32027778,11.42583333,False 
+1142,1099. Rocher Rond (2453 m),44.6975,5.82944444,False 
+1143,1100. Gamsjoch (2452 m),47.41833333,11.54888889,False 
+1144,1101. Monte Bussaia (2451 m),44.21805556,7.46805556,True 
+1145,1102. Pomagagnon (2450 m),46.57388889,12.14027778,False 
+1146,1103. Cima Cadi (2449 m),46.22361111,10.29444444,False 
+1147,1104. Großer Bösenstein (2448 m),47.44333333,14.40444444,False 
+1148,1105. Spitzmauer (2446 m),47.69527778,14.06222222,False 
+1149,1106. Monte Spondone (2445 m),45.98055556,9.79472222,True 
+1150,1107. Kröndlhorn (2444 m),47.29888889,12.16472222,False 
+1151,1108. Monte Siera (2443 m),46.54916667,12.71083333,False 
+1152,1109. Eisenhut (2441 m),46.95194444,13.92888889,False 
+1153,1110. Mürtschenstock (2441 m),47.07,9.14416667,False 
+1154,1111. Großer Rosennock (2440 m),46.8775,13.7125,False 
+1155,1112. Schwarzhorn (2439 m),46.33472222,11.45472222,False 
+1156,1113. Pte Blanche (2438 m),45.99944444,6.45972222,True 
+1157,1114. Gufelstock (2436 m),47.025,9.14666667,False 
+1158,Kraxenkogel (2436 m),47.25388889,13.35722222,False 
+1159,1115. Altmann (2435 m),47.23944444,9.37166667,False 
+1160,1116. Laugenspitze (2434 m),46.53472222,11.08611111,False 
+1161,1117. Seehorn (2434 m),46.1825,8.11555556,False 
+1162,1118. Deneck (2433 m),47.29111111,14.05,False 
+1163,1119. Cornettes de Bise (2432 m),46.3325,6.78472222,True 
+1164,1120. Mont de Grange (2432 m),46.2625,6.78083333,True 
+1165,1121. Raz de Bec (2431 m),44.66805556,5.98805556,False 
+1166,1122. L'Ouillon (2431 m),45.24,6.215,True 
+1167,1123. Monte Azzarini (2431 m),46.05972222,9.6425,False 
+1168,1124. Raucheck (2430 m),47.49916667,13.22666667,False 
+1169,1125. Laliderer Falk (2427 m),47.435,11.51916667,False 
+1170,1126. Monte Ferrante (2427 m),45.97472222,10.02861111,False 
+1171,1127. Sforniòi di Mezzo (2425 m),46.34861111,12.26722222,False 
+1172,1128. Großer Galtenberg (2424 m),47.33666667,11.97638889,False 
+1173,1129. Col della Croce (2423 m),46.16527778,11.63861111,False 
+1174,1130. Oberwölzer Schoberspitze (2423 m),47.28916667,14.16111111,False 
+1175,1131. L'Argentine (2422 m),46.27333333,7.13083333,True 
+1176,1132. Monte Cimon (2422 m),46.55138889,12.76305556,False 
+1177,1133. Cima di Capezzone (2421 m),45.945,8.20888889,False 
+1178,1134. Geierhaupt (2417 m),47.37472222,14.63638889,False 
+1179,1135. Monte Alto di Pelsa (2417 m),46.35583333,11.99972222,False 
+1180,1136. Ehrwalder Sonnenspitze (2417 m),47.3675,10.92194444,False 
+1181,1137. Pizzo Erra (2417 m),46.44111111,8.89083333,False 
+1182,1138. Karhorn (2416 m),47.24805556,10.15111111,False 
+1183,1139. Hochreichart (2416 m),47.36333333,14.68194444,False 
+1184,1140. Hoh Brisen (2413 m),46.8975,8.46583333,False 
+1185,1141. Crodon di Tiarfin (2413 m),46.46583333,12.59166667,False 
+1186,1142. Schafberg (2413 m),47.16916667,9.95138889,False 
+1187,1143. Sassolungo di Cibiana (2413 m),46.35888889,12.28277778,False 
+1188,1144. Bleikogel (2411 m),47.51416667,13.29833333,False 
+1189,1145. Grignone (2409 m),45.95333333,9.3875,True 
+1190,1146. Cima di Pramper  (2409 m),46.29666667,12.16694444,False 
+1191,1147. Mont Charvin (2409 m),45.8025,6.42,True 
+1192,1148. Kilnprein (2408 m),46.98527778,13.84277778,False 
+1193,1149. Monte Pezza (2408 m),46.40583333,11.92055556,False 
+1194,1150. Sasso Bianco (2407 m),46.4125,11.95944444,False 
+1195,1151. Zirmebenjoch (2407 m),47.29388889,10.53833333,False 
+1196,1152. Monte San Lucano (2406 m),46.31083333,11.96,False 
+1197,1153. Erlspitze (2405 m),47.32,11.28555556,False 
+1198,1154. Cresta di Enghe (2405 m),46.52083333,12.63444444,False 
+1199,1155. Saile (2404 m),47.19194444,11.32527778,False 
+1200,1156. Bric Costa Rossa (2403 m),44.25083333,7.6,False 
+1201,1157. Zitterklapfen (2403 m),47.26805556,9.97111111,False 
+1202,1158. Lopa (2402 m),46.37027778,13.49416667,False 
+1203,1159. Fundelkopf (2401 m),47.11,9.67638889,False 
+1204,1160. Monte Susino (2397 m),45.99055556,10.18666667,False 
+1205,1161. Seckauer Zinken (2397 m),47.33916667,14.73611111,False 
+1206,1162. Hochkünzelspitze (2397 m),47.27194444,10.03027778,False 
+1207,1163. Cima d'Oltro (2397 m),46.22055556,11.90694444,False 
+1208,1164. Zirbitzkogel (2396 m),47.06361111,14.56722222,False 
+1209,1160. Veliko Špičje (2396 m),46.34361111,13.76666667,False 
+1210,1166. Cima di Sette Selle / Sasso Rotto (2396 m),46.12833333,11.39833333,False 
+1211,1167. Planjava (2394 m),46.35666667,14.61,False 
+1212,1168. Croda di Mezzodi (2394 m),46.53277778,12.57777778,False 
+1213,1169. Montagne de Boules (2391 m),44.17388889,6.50055556,False 
+1214,1170. Kampspitze (2390 m),47.29388889,13.64277778,False 
+1215,1171. Vanil Noir (2389 m),46.52861111,7.14833333,True 
+1216,1172. Le Tabor (2389 m),44.97722222,5.85583333,False 
+1217,1173. Großer Hochkasten (2389 m),47.67361111,14.0475,False 
+1218,1174. Warscheneck (2388 m),47.6525,14.24138889,False 
+1219,1175. Elferkopf (2387 m),47.30222222,10.17777778,False 
+1220,1176. Gamskögel (2386 m),47.36583333,14.54833333,False 
+1221,1177. Gamsberg (2385 m),47.13555556,9.37611111,False 
+1222,1178. Roc de Garnesier (2383 m),44.66055556,5.7925,False 
+1223,1179. Rudiger (2382 m),47.32916667,10.70166667,False 
+1224,1180. Monte Cimone (2379 m),46.42361111,13.38527778,False 
+1225,1181. Monte Ponteranica (2378 m),46.02916667,9.59555556,False 
+1226,1182. Gartnerwand (2377 m),47.385,10.82111111,False 
+1227,1183. Knittelkarspitze (2376 m),47.37555556,10.65111111,False 
+1228,1184. Vilan (2376 m),47.01277778,9.60305556,False 
+1229,1185. Pizzo di Campel (2376 m),46.33194444,9.26166667,False 
+1230,1186. Hochweberspitze (2375 m),47.30888889,14.20055556,False 
+1231,1187. Reither Spitze (2374 m),47.32305556,11.23611111,False 
+1232,1188. La Croix de Cassini (2373 m),45.07333333,6.13416667,True 
+1233,1189. Plenge (2373 m),46.6525,12.90027778,False 
+1234,1190. Reißkofel (2371 m),46.68583333,13.14722222,False 
+1235,1191. Tschirgant (2370 m),47.24166667,10.79638889,False 
+1236,1192. Hohe Pressing (2370 m),46.93777778,13.69222222,False 
+1237,1193. Hochtor (2369 m),47.56166667,14.63277778,False 
+1238,1194. Monte Pegherolo (2369 m),46.02472222,9.71361111,False 
+1239,1195. Gehrenspitze (2367 m),47.38666667,11.135,False 
+1240,1196. Großer Rettenstein (2366 m),47.33277778,12.29694444,False 
+1241,1197. Croda de R'Ancona (2366 m),46.61416667,12.11777778,False 
+1242,1198. Geißstein (2363 m),47.3375,12.49555556,False 
+1243,1199. Pusterwalder Hohenwart (2363 m),47.32888889,14.23638889,False 
+1244,1200. Niesen (2362 m),46.64611111,7.6525,False 
+1245,1201. Wistätthorn (2362 m),46.45416667,7.38638889,True 
+1246,Cima Brica (2362 m),46.38027778,12.53361111,False 
+1247,1202. Großes Teufelshorn (2361 m),47.48916667,13.03611111,False 
+1248,1203. Poncione Piancascia (2360 m),46.29861111,8.73361111,False 
+1249,1204. Vigna Soliva (2356 m),46.00694444,9.98694444,False 
+1250,1205. Großer Rosszahn (2356 m),47.38722222,10.46888889,False 
+1251,1206. Grimming (2351 m),47.52055556,14.01694444,False 
+1252,1207. La Tournette (2351 m),45.82722222,6.28638889,True 
+1253,1208. Brienzer Rothorn (2350 m),46.78722222,8.04694444,True 
+1254,1209. Wittenberghorn (2350 m),46.41611111,7.21,True 
+1255,1210. Seekarspitze (2350 m),47.27277778,13.54388889,False 
+1256,1211. Kahlersberg (2350 m),47.53138889,13.03222222,False 
+1257,1211. Cima di Canogia (2350 m),46.20805556,8.41361111,False 
+1258,1213. Bavški Grintavec (2347 m),46.36888889,13.67083333,False 
+1259,1214. Pletzen (2345 m),47.33305556,14.61722222,False 
+1260,1215. Cimon del Teverone (2345 m),46.20916667,12.40277778,False 
+1261,1216. Ellmauer Halt (2344 m),47.56222222,12.30305556,False 
+1262,1217. Kellerjoch (Kreuzjoch) (2344 m),47.31888889,11.77083333,False 
+1263,1218. Steinfeldspitze (2344 m),47.26611111,13.45194444,False 
+1264,1219. Monte Chétif (2343 m),45.79972222,6.94888889,True 
+1265,1220. Briceljk (2343 m),46.39472222,13.63194444,False 
+1266,1221. Grand Veymont (2341 m),44.87,5.52666667,True 
+1267,1222. Thaneller (2341 m),47.42638889,10.72472222,False 
+1268,1223. Crève Tête (2341 m),45.45111111,6.46777778,True 
+1269,1224. Wasserbergfirst (2341 m),46.93944444,8.78916667,False 
+1270,Elsighore (2341 m),46.53472222,7.63972222,False 
+1271,1225. Daniel (2340 m),47.43277778,10.88027778,False 
+1272,1226. Pied Moutet (2339 m),45.00722222,6.09611111,True 
+1273,1227. Aserlespitze (2337 m),47.34055556,10.7575,False 
+1274,1228. Großer Grießstein (2337 m),47.39083333,14.54,False 
+1275,1229. Cima Dodici (2336 m),45.9975,11.46805556,False 
+1276,1230. Hochmölbing (2336 m),47.63416667,14.17805556,False 
+1277,1231. Monte Pavione (2335 m),46.10472222,11.82111111,False 
+1278,1232. Pizzo del Moro (2335 m),45.93027778,8.12472222,False 
+1279,1233. Monte Mucrone (2335 m),45.62027778,7.94472222,True 
+1280,1234. Monte Terza Piccola (2334 m),46.56,12.62472222,False 
+1281,1235. Rinsennock (2334 m),46.90888889,13.85138889,False 
+1282,1236. Gailtaler Polinik (2332 m),46.62722222,12.98222222,False 
+1283,1237. Maurerberg (2332 m),46.70416667,11.82138889,False 
+1284,1238. Tour d'Aï (2331 m),46.37222222,7.00194444,True 
+1285,1239. Klomnock (2331 m),46.88083333,13.78805556,False 
+1286,1240. Ackerlspitze (2329 m),47.55916667,12.3475,False 
+1287,1241. Bernkogel (2325 m),47.24861111,13.04333333,False 
+1288,1242. Monte Piana (2324 m),46.61527778,12.2425,False 
+1289,1243. Cavallazza (2324 m),46.27888889,11.77638889,False 
+1290,1244. Cornaget (2323 m),46.31194444,12.58444444,False 
+1291,1245. Montagne du Cheval Blanc (2323 m),44.12722222,6.42416667,False 
+1292,1246. Pte Noire de Pormenaz (2323 m),45.95888889,6.80138889,True 
+1293,1247. Cima del Fop (2322 m),45.93305556,9.86388889,True 
+1294,Pizzo Cramalina (2322 m),46.25527778,8.62388889,False 
+1295,1248. Seehorn (2321 m),47.51666667,12.85305556,False 
+1296,1249. Creta di Mimoias (2320 m),46.51055556,12.62472222,False 
+1297,1250. Golzentipp (2317 m),46.73444444,12.60388889,False 
+1298,1251. Weißhorn  (2317 m),46.35361111,11.44472222,False 
+1299,1252. Marmontana (2316 m),46.17194444,9.17027778,False 
+1300,1253. Großhansl (2315 m),47.31861111,14.26583333,False 
+1301,1254. Nabois Grande (2313 m),46.43916667,13.48833333,False 
+1302,1255. Monte Turlon (2312 m),46.32194444,12.50527778,False 
+1303,1256. Cima dei Vieres (2310 m),46.30972222,12.48472222,False 
+1304,1257. Großer Beil (2309 m),47.34138889,12.02722222,False 
+1305,1258. Hinterrugg (2306 m),47.15361111,9.30472222,False 
+1306,1259. Caserine Alte (2306 m),46.31472222,12.63166667,False 
+1307,1260. Schaufelspitze (2306 m),47.42305556,11.60777778,False 
+1308,1261. Monte Civrari (2302 m),45.19194444,7.32722222,False 
+1309,1262. Monte Togano (2301  m),46.08972222,8.39416667,False 
+1310,1263. Cima di Menna (2300 m),45.92972222,9.76,True 
+1311,1264. Hochiss (2299 m),47.45833333,11.765,False 
+1312,1265. Bruderkogel (2299 m),47.38777778,14.42222222,False 
+1313,1266. Steinkogel (2299 m),47.29861111,12.23638889,False 
+1314,1267. Mutteristock (2294 m),47.04833333,8.94305556,False 
+1315,1268. Lastìa de Framónt (2294 m),46.31416667,12.03527778,False 
+1316,1269. Höllwand (2287 m),47.2825,13.16388889,False 
+1317,1270. Lumkofel (2287 m),46.72111111,12.84222222,False 
+1318,1271. Stadelhorn (2286 m),47.59277778,12.79583333,False 
+1319,1272. Montagne de Coste Longue (2286 m),44.13388889,6.48527778,False 
+1320,1273. Ochsenkopf (2286 m),47.11472222,9.62472222,False 
+1321,1274. Grande Moucherolle (2284 m),45.00555556,5.56583333,True 
+1322,1275. Rautispitz (2283 m),47.07111111,9.02833333,False 
+1323,1276. Druesberg (2282 m),47.00416667,8.83361111,False 
+1324,1277. Trogkofel / Creta di Aip (2280 m),46.57055556,13.21694444,False 
+1325,1278. Großer Daumen (2280 m),47.44138889,10.37555556,False 
+1326,1279. Brisi (2279 m),47.15333333,9.27666667,False 
+1327,1280. Rauer Knöll (2278 m),47.38694444,11.62333333,False 
+1328,1281. Hochschwab (2277 m),47.61833333,15.14222222,False 
+1329,1282. Jauken (Torkofel) (2276 m),46.70194444,13.07666667,False 
+1330,1283. Kronplatz (Spitzhörnle) (2275 m),46.73888889,11.95805556,False 
+1331,1284. Leilachspitze (2274 m),47.43861111,10.54611111,False 
+1332,1285. Tosc (2273 m),46.35666667,13.86833333,False 
+1333,1286. Rotgschirr (2270 m),47.70166667,13.99638889,False 
+1334,1287. Monte Chiadin (2269 m),46.59722222,12.73833333,False 
+1335,1288. Monte Vacalizza (2266 m),46.305,12.47666667,False 
+1336,1289. Hochschottwies (2262 m),47.51416667,13.12472222,False 
+1337,1290. Cima Carega (2259 m),45.72416667,11.13,False 
+1338,1291. Höfats (2259 m),47.36694444,10.34972222,False 
+1339,1292. Croix de Rougny (2259 m),44.85916667,5.99944444,False 
+1340,1293. Soiernspitze (2257 m),47.48166667,11.3575,False 
+1341,1294. Monte Cadria (2254 m),45.93861111,10.69805556,False 
+1342,1295. Dent de Savigny (2252 m),46.54972222,7.22666667,True 
+1343,1296. Hirschkopf (2252 m),47.2325,12.9425,False 
+1344,1297. Admonter Reichenstein (2251 m),47.54916667,14.54416667,False 
+1345,1298. Cimon del Cavallo (2251 m),46.13333333,12.49638889,False 
+1346,1299. Pta Setteventi (2250 m),45.86027778,10.39277778,False 
+1347,1300. Morgenberghorn (2249 m),46.62222222,7.79361111,False 
+1348,1301. Hochkogel (2249 m),47.32833333,12.61694444,False 
+1349,1302. Rötelstein (2247 m),47.45722222,13.55527778,False 
+1350,1303. Gaishorn (2247 m),47.47,10.47694444,False 
+1351,1304. Sparafeld (2247 m),47.54944444,14.53027778,False 
+1352,1305. Pizzo di Gino (2245 m),46.12361111,9.145,False 
+1353,1306. Großer Pyhrgas (2244 m),47.6525,14.39805556,False 
+1354,1307. Roc d'Enfer (2244 m),46.18972222,6.61194444,True 
+1355,1308. Krn (2244 m),46.26611111,13.65833333,False 
+1356,1309. Piz di Mezzodì (2240 m),46.21888889,12.03611111,False 
+1357,Rosskofel /M Cavallo di Pontebba (2239 m),46.55055556,13.24027778,False 
+1358,1310. Köllenspitze (2238 m),47.49888889,10.63027778,False 
+1359,1311. Hochstuhl / Veliki Stol (2237 m),46.43361111,14.17472222,False 
+1360,1312. Monte Larone (2237 m),46.21916667,8.36277778,False 
+1361,1313. Latschur (2236 m),46.73833333,13.39666667,False 
+1362,1314. Croise Baulet (2236 m),45.89888889,6.55277778,True 
+1363,1315. Schafberg (2235 m),46.63694444,7.31638889,True 
+1364,1316. Pasubio (Cima Palon) (2232 m),45.79222222,11.17638889,False 
+1365,1317. Pte d'Almet (2232 m),45.98138889,6.52194444,True 
+1366,1318. Geierkogel (2231 m),47.39972222,14.49972222,False 
+1367,1319. Hoher Ifen (2230 m),47.35444444,10.1,False 
+1368,1320. Monte Messer (2230 m),46.17527778,12.455,False 
+1369,1321. Monte Lavanech (2229 m),45.95138889,10.54333333,False 
+1370,1322. Monte Borga (2228 m),46.29361111,12.34944444,False 
+1371,1323. Gumpeneck (2226 m),47.39722222,14.01472222,False 
+1372,1324. Großer Buchstein (2224 m),47.60888889,14.60416667,False 
+1373,1325. Kalški Greben (2224 m),46.33138889,14.53805556,False 
+1374,1326. Rappenspitze (2223 m),47.40222222,11.64583333,False 
+1375,1327. Sosto (2221 m),46.54833333,8.95194444,False 
+1376,1328. Dent d'Oche (2221 m),46.35333333,6.73111111,True 
+1377,1329. Hochrettelstein (2220 m),47.42472222,14.23277778,False 
+1378,1330. Hochkarfelderkopf (2219 m),47.51916667,13.35555556,False 
+1379,1331. Cima Valdritta (2218 m),45.72638889,10.84388889,False 
+1380,1332. Pte d'Arcalod (2217 m),45.68166667,6.22833333,True 
+1381,1333. Lugauer (2217 m),47.55361111,14.72277778,False 
+1382,1334. Kleiner Rettenstein (2216 m),47.33638889,12.34166667,False 
+1383,1335. Les Jumelles (2215 m),46.35194444,6.81222222,True 
+1384,1336. Steinbergstein (2215 m),47.34138889,12.19027778,False 
+1385,1337. Gößeck (2214 m),47.44805556,14.89972222,False 
+1386,1338. Schwarzwand (2214 m),47.0075,13.69305556,False 
+1387,1339. Aineck (2210 m),47.05555556,13.63833333,False 
+1388,1340. Würflinghöhe (2210 m),47.0075,13.95166667,False 
+1389,1341. Monte La Palazza (2210 m),46.31055556,12.35583333,False 
+1390,1342. Rombon (2208 m),46.36722222,13.55388889,False 
+1391,1343. Mont Charvin (2207 m),45.2175,6.285,True 
+1392,1344. Hoher Trieb (2199 m),46.59694444,13.06166667,False 
+1393,1345. Pte de la Sambuy (2198 m),45.69166667,6.26555556,True 
+1394,1346. Galinakopf (2198 m),47.15166667,9.62083333,False 
+1395,1347. Cima di Vanerle (2198 m),46.05138889,10.28138889,False 
+1396,1348. Pécloz (2197 m),45.63194444,6.23055556,True 
+1397,1349. Hohgant (2197 m),46.78805556,7.90166667,True 
+1398,1350. Scheiblingstein (2197 m),47.65333333,14.42388889,False 
+1399,1351. Große Arnspitze (2196 m),47.3975,11.22277778,False 
+1400,1352. Chrüz (2196 m),46.955,9.775,False 
+1401,1353. Hochschwung (2196 m),47.40722222,14.33944444,False 
+1402,1354. Zuc dal Bôr / Zuc del Bor (2195 m),46.44944444,13.25861111,False 
+1403,1355. Gartnerkofel (2195 m),46.57138889,13.30416667,False 
+1404,1356. Hochwipfel (2195 m),46.59444444,13.17666667,False 
+1405,1357. Guffert (2194 m),47.54611111,11.78916667,False 
+1406,1358. Cima della Laurasca (2193 m),46.05805556,8.47611111,False 
+1407,1359. Hochzinödl (2191 m),47.56583333,14.66638889,False 
+1408,1360. Stockhorn (2190 m),46.69388889,7.5375,True 
+1409,1361. Hinterer Geißstein (2190 m),47.30666667,13.53861111,False 
+1410,1362. Blayeul (2189 m),44.24722222,6.31222222,False 
+1411,1363. Gros Van (2189 m),46.39638889,7.06916667,True 
+1412,1364. Gridone (2188 m),46.12361111,8.64805556,False 
+1413,1365. Ochsen (2188 m),46.69888889,7.41861111,True 
+1414,1366. Ameringkogel (2187 m),47.07333333,14.80805556,False 
+1415,1367. Monte Sernio (2187 m),46.475,13.1375,False 
+1416,1368. Pizzocco (2187 m),46.14,12.00944444,False 
+1417,1369. Kreuzspitze (2185 m),47.52666667,10.91833333,False 
+1418,1370. Monte Misa (2184 m),45.90111111,10.44416667,False 
+1419,1371. Monte Rite (2183 m),46.38444444,12.25805556,False 
+1420,1372. Pizzo Stagno (2183 m),46.07722222,8.45916667,False 
+1421,1373. Trélod (2181 m),45.69277778,6.19638889,True 
+1422,1374. Monte Bondone (Cornetto) (2180 m),45.98805556,11.03138889,False 
+1423,1375. Wertatscha / Vrtača (2180 m),46.43972222,14.2125,False 
+1424,1376. Lüschgrat (2178 m),46.70166667,9.34472222,False 
+1425,1377. Grignetta (2177 m),45.92166667,9.39027778,True 
+1426,1378. Pte d'entre Deux Pertuis (2176 m),46.23416667,6.73111111,True 
+1427,1379. Signal de l'Homme (2176 m),45.06694444,6.08555556,False 
+1428,1380. Bulacia / Puflatsch (2174 m),46.56388889,11.615,False 
+1429,1381. Hexenturm (2172 m),47.64583333,14.48111111,False 
+1430,1382. Goldachnock (2171 m),47.03472222,14.0575,False 
+1431,1383. Monte Crot (2169 m),46.42722222,12.09972222,False 
+1432,1384. Monte Chiarescons (2168 m),46.34777778,12.62638889,False 
+1433,1385. Dobratsch (2166 m),46.60333333,13.67111111,False 
+1434,1386. Col Rosa (2166 m),46.58611111,12.0975,False 
+1435,1387. Eisenerzer Reichenstein (2165 m),47.5025,14.93444444,False 
+1436,1388. Gehrenspitze (2163 m),47.50027778,10.65527778,False 
+1437,1389. Geierköpfe (2161 m),47.51972222,10.875,False 
+1438,1390. Monte Massone (2161 m),45.94694444,8.33805556,False 
+1439,1391. Pic de Gleize (2161 m),44.63444444,6.04388889,False 
+1440,1392. Zuccone Campelli (2159 m),45.95333333,9.51694444,False 
+1441,1393. Monte Zeda (2156 m),46.04555556,8.53527778,False 
+1442,1394. Dosso della Torta (2156 m),45.96666667,10.76388889,False 
+1443,1395. Frudiger (2153 m),46.96888889,10.57944444,False 
+1444,1396. Monte Padrio (2153 m),46.18666667,10.2275,False 
+1445,1397. Hochmatt (2152 m),46.57583333,7.22,True 
+1446,1398. Becco di Filadonna (2150 m),45.96361111,11.19305556,False 
+1447,1399. Cresta Le Coraie (2149 m),46.20972222,12.0775,False 
+1448,1400. Pizzo Camino (2148 m),45.9775,8.23444444,False 
+1449,1401. Wöllaner Nock (2145 m),46.77666667,13.82972222,False 
+1450,1402. Mittagskogel / Kepa (2143 m),46.50666667,13.95277778,False 
+1451,1403. Monte Zermula (2143 m),46.56138889,13.15138889,False 
+1452,1404. Goldeck (2142 m),46.75861111,13.45944444,False 
+1453,1405. Großer Speikkogel (2140 m),46.7875,14.97166667,False 
+1454,1406. Gstoder (2140 m),47.1425,13.9925,False 
+1455,1407. Hochobir / Ojstrc (2139 m),46.50583333,14.48777778,False 
+1456,1408. Kammspitz (2139 m),47.47611111,13.885,False 
+1457,1409. Strimskogel (2139 m),47.31194444,13.47083333,False 
+1458,1410. Koschutnikturm /Košutnikov turn (2136 m),46.44611111,14.41055556,False 
+1459,1411. Dôme de Barrot (2136 m),44.03694444,6.91722222,False 
+1460,1412. Cime de Marta / Cima Marta (2135 m),44.01833333,7.65694444,False 
+1461,1413. Monte Colli (2135 m),46.03194444,10.20138889,False 
+1462,1414. Glatthorn (2134 m),47.26527778,9.87972222,False 
+1463,1415. Monte Serva (2133 m),46.20027778,12.23277778,False 
+1464,1416. Storžič (2132 m),46.35,14.40527778,False 
+1465,1417. Monte Birrone (2131 m),44.5425,7.25222222,False 
+1466,1418. Pilatus (Tomlishorn) (2128 m),46.97388889,8.24111111,False 
+1467,1419. Elm (2128 m),47.67361111,13.96305556,False 
+1468,1420. Kordeschkopf / Kordeževa glava (2126 m),46.5,14.78055556,False 
+1469,1421. Jerebica (2126 m),46.39805556,13.565,False 
+1470,1422. Paganella (Cima Roda) (2124 m),46.14333333,11.0375,False 
+1471,1423. Kuhgrat (2123 m),47.16666667,9.56083333,False 
+1472,1424. Montagne du Carton (2123 m),44.18138889,6.46083333,False 
+1473,1425. Ebenstein (2123 m),47.60583333,15.02833333,False 
+1474,1426. Zeiritzkampel (2120 m),47.49138889,14.72611111,False 
+1475,Monte Tinisa (2120 m),46.41361111,12.71861111,False 
+1476,1427. Spitzegel (2119 m),46.655,13.41055556,False 
+1477,1428. Wildseeloder (2119 m),47.43194444,12.53194444,False 
+1478,1429. Hundstein (2117 m),47.33805556,12.91138889,False 
+1479,1430. Roen (2116 m),46.36055556,11.19194444,False 
+1480,1431. Almkogel (2116 m),47.61944444,14.09305556,False 
+1481,Gsuchmauer (2116 m),47.54888889,14.6675,False 
+1482,1432. Les Monges (2115 m),44.26305556,6.19472222,False 
+1483,1433. Montagne de Cordœil (2114 m),44.06833333,6.53,False 
+1484,Pte de Chalune (2113 m),46.18027778,6.58333333,True 
+1485,1434. Sommet de Clot Ginoux (2112 m),44.29638889,6.21277778,False 
+1486,1435. Le Chamossaire (2112 m),46.32666667,7.06138889,True 
+1487,1436. Mirnock (2110 m),46.75888889,13.71555556,False 
+1488,1437. Trentski Pelc (2109 m),46.38583333,13.70944444,False 
+1489,1438. Millstätter Alpe (P 2108) (2108 m),46.85722222,13.57833333,False 
+1490,1439. Tête de Comagne (2106 m),45.745,7.72194444,True 
+1491,1440. Mondscheinspitze (2106 m),47.46666667,11.61361111,False 
+1492,1441. Les Cluots (2106 m),44.04694444,7.00472222,False 
+1493,1442. Schluchberg (2106 m),46.86666667,8.33388889,False 
+1494,1443. Hochkogel (2105 m),47.53888889,14.81527778,False 
+1495,1444. Schopfenspitz / Gros Brun (2104 m),46.6225,7.25055556,True 
+1496,1445. Schönberg (2104 m),47.13027778,9.59305556,False 
+1497,1446. Mont Chalancha (2102 m),44.035,7.21277778,False 
+1498,1447. Schafreuter (2102 m),47.50916667,11.4875,False 
+1499,1448. Pizzo Proman (2099 m),46.02416667,8.39472222,False 
+1500,1449. Zwölferkogel (2099 m),47.70944444,13.9525,False 
+1501,1450. Simmering (2096 m),47.27805556,10.86694444,False 
+1502,1451. Himmeleck (2096 m),47.42666667,14.60305556,False 
+1503,1452. Damülser Mittagsspitze (2095 m),47.31027778,9.88388889,False 
+1504,1453. Schönberg / Wildenkogel (2093 m),47.7125,13.79361111,False 
+1505,1454. Mont Chauffé (2093 m),46.30916667,6.76055556,True 
+1506,1455. Schrattenfluh (Hengst) (2092 m),46.83416667,7.95777778,True 
+1507,1456. Schatzbichl (2090 m),46.72416667,12.91194444,False 
+1508,1457. Il Palone (2090 m),46.02694444,11.05861111,False 
+1509,1458. Pte d'Angolon (2090 m),46.13805556,6.73083333,True 
+1510,1459. Diedamskopf (2090 m),47.34638889,10.02555556,False 
+1511,1460. Itonskopf (2089 m),47.11611111,9.93333333,False 
+1512,1461. Jôf di Miezegnot (2087 m),46.47666667,13.45333333,False 
+1513,1462. Pic Grillon (2087 m),44.75138889,5.91777778,False 
+1514,1463. Krottenkopf (2086 m),47.545,11.19333333,False 
+1515,1464. Montagne Durbonas (2086 m),44.61111111,5.75944444,False 
+1516,1465. Mont de l'Arpille (2085 m),46.07722222,7.00666667,True 
+1517,1466. Seebergspitze (2085 m),47.46611111,11.67972222,False 
+1518,1467. Mont Aig. (2085 m),44.84194444,5.5525,False 
+1519,1468. Monte Zelo (2083 m),46.26333333,12.0925,False 
+1520,1469. Zadnjiški Ozebnik (2083 m),46.36944444,13.78222222,False 
+1521,Krofička (2083 m),46.37444444,14.64583333,False 
+1522,1470. Chamechaude (2082 m),45.28805556,5.79,True 
+1523,1471. Hochplatte (2082 m),47.55222222,10.8425,False 
+1524,1472. Trenchtling (Hochturm) (2081 m),47.53444444,15.00805556,False 
+1525,1473. Breithorn (2081 m),47.21138889,9.91416667,False 
+1526,1474. Monte Altissimo di Nago (2079 m),45.81027778,10.88888889,False 
+1527,1475. Ladinger Spitz (2079 m),46.85333333,14.65083333,False 
+1528,1476. Rinderberg (2079 m),46.50527778,7.35694444,False 
+1529,1477. Turnen (2079 m),46.62777778,7.4925,True 
+1530,1478. Vorderunnütz (2078 m),47.51472222,11.73888889,False 
+1531,1479. Klosterwappen (2076 m),47.76722222,15.805,False 
+1532,1480. Cima del Cacciatore / Kamniti Lovec (2071 m),46.46472222,13.52805556,False 
+1533,1481. Stadelstein (2070 m),47.48972222,14.85694444,False 
+1534,1482. Monte Coppolo (2069 m),46.08277778,11.71083333,False 
+1535,1483. Hirscheck (2068 m),47.6275,14.12305556,False 
+1536,1484. Monte Resettum (2067 m),46.23972222,12.57722222,False 
+1537,1485. Col Gentile (2067 m),46.46611111,12.80555556,False 
+1538,1486. Padauner Kogel (2066 m),47.04277778,11.5075,False 
+1539,1487. Dosso Alto (2065 m),45.81333333,10.41694444,False 
+1540,1488. Creta Grauzaria (2065 m),46.4675,13.1625,False 
+1541,1489. Großer Woising (2064 m),47.71611111,13.90388889,False 
+1542,1490. Chateau Lebrun (2064 m),44.80222222,6.53,False 
+1543,1491. Burgfeldstand (2063 m),46.72222222,7.79472222,True 
+1544,1492. Dent de Cons (2062 m),45.72972222,6.35166667,True 
+1545,1493. Raduha (2062 m),46.40972222,14.73833333,False 
+1546,1494. Dent de Crolles (2062 m),45.30833333,5.85694444,True 
+1547,1495. Monte Dosaip (2062 m),46.28388889,12.63694444,False 
+1548,1496. Monte Agaro (2062 m),46.09361111,11.65777778,False 
+1549,1497. Pic Melette (2062 m),44.62694444,6.01472222,False 
+1550,1498. Begunjščica (2060 m),46.42138889,14.22916667,False 
+1551,1499. Monte Stivo (2059 m),45.92055556,10.96361111,False 
+1552,1500. Monte Toff (2058 m),46.10666667,10.78833333,False 
+1553,1501. Oisternig / Ojstrnik (2052 m),46.56555556,13.5,False 
+1554,1502. Mont Jocou (2051 m),44.72416667,5.6475,False 
+1555,1503. Sigriswiler Rothorn (2051 m),46.73055556,7.77055556,True 
+1556,1504. Mont Lachat de Chatillon (2050 m),45.95972222,6.47666667,True 
+1557,1505. Roc Cornafion (2049 m),45.06333333,5.6025,True 
+1558,1506. Stoderzinken (2048 m),47.45944444,13.82888889,False 
+1559,1507. Säuling (2047 m),47.535,10.75583333,False 
+1560,1508. Hundsrügg (2047 m),46.55666667,7.30527778,True 
+1561,1509. Mont Colombier (2045 m),45.64416667,6.11972222,True 
+1562,1510. Spielberghorn (2044 m),47.43222222,12.63277778,False 
+1563,1511. Monte Barone (2044 m),45.735,8.155,False 
+1564,1512. Kanisfluh (Holenke) (2044 m),47.33166667,9.92694444,False 
+1565,1513. Güpfi (2043 m),46.79611111,8.19527778,False 
+1566,1514. Rochers de Naye (2042 m),46.43194444,6.97611111,True 
+1567,1515. Pte de Bellevue (2042 m),46.2575,6.8875,True 
+1568,1516. Le Glandasse (Pié Ferré) (2041 m),44.73722222,5.47138889,True 
+1569,1517. Fürstein (2040 m),46.89555556,8.06972222,True 
+1570,1518. Saldeiner Spitze (2036 m),47.39888889,10.53222222,False 
+1571,Leobner (2036 m),47.49416667,14.65,False 
+1572,1519. Tamischbachturm (2035 m),47.61472222,14.69916667,False 
+1573,1520. Monte Curie (2035 m),46.59555556,12.61361111,False 
+1574,1521. Griesmauerkogel (2034 m),47.55111111,14.98361111,False 
+1575,1522. Tête Grosse (2032 m),44.33138889,6.27388889,False 
+1576,1523. Gamsfeld (2027 m),47.62305556,13.48111111,False 
+1577,1524. Grand Som (2026 m),45.37111111,5.81305556,True 
+1578,1525. Fleischbank (2026 m),47.47888889,11.51944444,False 
+1579,1526. Pte d'Aveneyre (2026 m),46.41722222,7.00472222,True 
+1580,1527. Raut (2025 m),46.22222222,12.64944444,False 
+1581,1528. Kosiak / Geißberg (2024 m),46.45305556,14.18166667,False 
+1582,1529. Mont Lachat (2023 m),45.92722222,6.35111111,True 
+1583,1530. Schreckenspitze (2022 m),47.5,11.64944444,False 
+1584,1531. Monte Alben (2019 m),45.86222222,9.78194444,False 
+1585,1532. Céüse (2016 m),44.50888889,5.96194444,False 
+1586,1533. Monte Verena (2015 m),45.93111111,11.41361111,False 
+1587,1534. Dent de Lys (2014 m),46.50777778,7.00305556,True 
+1588,1535. Montagne de l'Ubac (2010 m),44.26111111,6.41388889,False 
+1589,1536. Bäderhorn (2009 m),46.61333333,7.3275,True 
+1590,1537. Heukuppe (2007 m),47.68944444,15.68777778,False 
+1591,1538. Corna Blacca  (2006 m),45.79138889,10.38055556,False 
+1592,1539. Dristenkopf (2005 m),47.42055556,11.66416667,False 
+1593,1540. Montagne de Sous Dine (2004 m),46.00388889,6.32861111,True 
+1594,1541. Golz (2004 m),46.67138889,13.36583333,False 
+1595,1542. Pizzo Ruscada (2004 m),46.1775,8.59277778,False 
+1596,1543. Brandstein (2003 m),47.60083333,14.98277778,False 
+1597,1544. Moléson (2002 m),46.54888889,7.01722222,True 
+1598,1545. Vordere Kesselschneid (2001 m),47.60666667,12.2775,False 
+1599,1546. Poludnig / Poludnik (1999 m),46.57194444,13.41027778,False 
+1600,1547. Monte Venturosa (1999 m),45.92972222,9.61583333,False 
+1601,1548. Pte de Marcelly (1999 m),46.12861111,6.57555556,True 
+1602,1549. Monte Scinauz (1999 m),46.53222222,13.36388889,False 
+1603,1550. Puy de Rent (1996 m),44.02138889,6.59083333,False 
+1604,1551. Kitzbüheler Horn (1996 m),47.47611111,12.43,False 
