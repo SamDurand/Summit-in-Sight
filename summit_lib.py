@@ -96,6 +96,9 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
                             
     line_of_vision = np.linspace(start_point.imag, stop_point.imag, samples)
 
+    # Compute distance
+    distance_summits = round(np.sqrt((stop_point.real-start_point.real)**2+(stop_point.imag-start_point.imag)**2), 2)
+
     # View is possible?
     view_possible_list = np.array([True if line_of_vision[i] > imag_Z[i] else False for i in range(samples)])
     view_possible = np.all([view_possible_list[i] for i in range(round(samples*0.95))]) # The for * 0.95 is not to take in consideration the collision of the line of vision with the target summit itself
@@ -119,7 +122,7 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
         print("Location summit: " + str(latitude[0]) + " " + str(longitude[0]))
 
     if view_possible:
-        print("Summit in sight!")
+        print("Summit in sight! Distance = ", distance_summits, "km")
     else:
         print("Summit not in Sight...")
 
