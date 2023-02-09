@@ -1,6 +1,6 @@
 from summit_lib import summit_is_visible_online
 
-location_point = [45.7023, 4.823] # Your location
+location_point =  [46.206939 , 6.147794] # Your location
 
 # Try with these locations:
 # Pont du Mont Blanc, Geneva, Switzerland [46.206939 , 6.147794]
