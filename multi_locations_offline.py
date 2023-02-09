@@ -16,4 +16,4 @@ grid_locations = generate_locations_grid(top_left_corner, bottom_right_corner, r
 grid_locations_processed = summit_is_visible_multi_locations(grid_locations, location_summit, offset_view, offset_summit)
 
 # Save data to csv file
-grid_locations_processed.to_csv("data.csv")
+grid_locations_processed.to_csv("data_multi_locations.csv")

@@ -351,16 +351,19 @@ def summit_is_visible_multi_locations(grid_locations, location_summit, offset_vi
 
     # Create a new file each 50000 iterations to avoid full buffer and slowdown
     count = 0
+    file_names = []
+
     for i in tqdm(range(grid_locations.index.size)):
         try:
-            if count % 50000 == 0 and i != 0:
+            if count % 50000 == 0:
                 with open("data_temp_{}.txt".format(count), "w") as f:
-                    f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
+                    file_names.append(f.name)
+                    f.write(str(summit_is_visible_fast_online(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
                 f.close()
                 time.sleep(1)
             else:
                 with open("data_temp_{}.txt".format(count - count % 50000), "a") as f:
-                    f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
+                    f.write(str(summit_is_visible_fast_online(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
         except:
             with open("data_temp_{}.txt".format(count - count % 50000), "a") as f:
                 f.write("error\n")
@@ -369,7 +372,14 @@ def summit_is_visible_multi_locations(grid_locations, location_summit, offset_vi
 
     # Save in a pandas df
     grid_locations_processed = grid_locations
-    grid_locations_processed["view_possible"] = pd.read_csv("data_temp.txt")
+    
+    view_possible_list = []
+    for file in file_names:
+        with open(file, 'r') as f:
+            view_possible_list.extend(f.readlines())
+    
+    view_possible_list = np.array(view_possible_list, dtype=bool)
+    grid_locations_processed["view_possible"] = view_possible_list
     
     return grid_locations_processed
 
