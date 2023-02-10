@@ -1,0 +1,8 @@
+requests
+numpy
+pandas
+matplotlib
+tqdm
+scipy
+geopy
+plotly

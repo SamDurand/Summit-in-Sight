@@ -329,7 +329,6 @@ def generate_locations_grid(top_left_corner, bottom_right_corner, res = 10):
     
     return grid_locations
 
-
 def summit_is_visible_multi_locations(grid_locations, location_summit, offset_view, offset_summit):
     
     """ This function allows to determine the visibility of a summit for several locations.
@@ -382,7 +381,6 @@ def summit_is_visible_multi_locations(grid_locations, location_summit, offset_vi
     grid_locations_processed["view_possible"] = view_possible_list
     
     return grid_locations_processed
-
 
 def plot_locations_map(grid_locations, color=False):
     """This function allows to plot grid_locations in a map.
