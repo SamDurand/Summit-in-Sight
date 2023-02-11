@@ -127,36 +127,44 @@ def summit_is_visible_online(location_point, location_summit, plot = False, offs
         print("Summit not in Sight...")
 
     if plot == True:
-
+    
         # Create a plot when the line of vision is below the relief level to show relief masking
-        masked_view = np.array([np.nan if line_of_vision[i] > imag_Z[i] else line_of_vision[i] for i in range(samples)])
+        masked_view = np.array([np.nan if line_of_vision[i] > imag_Z[i] else line_of_vision[i] for i in range(samples)])         
         
         # Plot the relief data
-        fig, axs = plt.subplots(3)
+        fig, axs = plt.subplots(3, num=None, figsize=(10, 7), facecolor='w', edgecolor='k')
         
         message = ("Summit is visible!" if view_possible else "Summit is not visible ..")
         fontdict = ({'family':'serif','color':'green','weight': 'bold','size':15} if view_possible else {'family':'serif','color':'red','weight': 'bold','size':15})
 
-        fig.suptitle("Altimetric profiles (horizontal and geodesic)")
-        fig.text(0.5, 0.88, (message+"\n"), fontdict, ha='center', va='center')
+        fig.text(0.5, 0.96, (message+"\n"), fontdict, ha='center', va='center')
 
-        axs[0].plot(np.linspace(0, geodesic_distance, samples), elevation_profile, linestyle="solid", color="k")
-        axs[1].plot(real_Z, imag_Z, linestyle="solid", color="k")
-        axs[1].plot(real_Z, line_of_vision, linestyle="dashdot", color="g")
-        axs[1].plot(real_Z, masked_view, linestyle="solid", color="r")
-        axs[2].plot(real_Z, imag_Z, linestyle="solid", color="k")
-        axs[2].plot(real_Z, line_of_vision, linestyle="dashdot", color="g")
-        axs[2].plot(real_Z, masked_view, linestyle="solid", color="r")
+        axs[0].plot(np.linspace(0, geodesic_distance, samples), elevation_profile, label="Horizontal altimetric profile", linestyle="solid", color="k", linewidth=0.5)
+        axs[0].fill_between(np.linspace(0, geodesic_distance, samples), elevation_profile, 0, alpha=.5, linewidth=0, cmap='Blues')
+        axs[0].legend()
         
+        axs[1].plot(real_Z, imag_Z, linestyle="solid", linewidth=0.5, color="k", label="Geodesic altimetric profile")
+        axs[1].plot(real_Z, line_of_vision, linestyle="dashdot", color="g", linewidth=0.8)
+        axs[1].plot(real_Z, masked_view, linestyle="solid", color="r", linewidth=0.5)
+        axs[1].fill_between(real_Z, imag_Z, imag_Z-elevation_profile/1000, alpha=.5, linewidth=0, cmap='Blues')
+        axs[1].legend()
+        
+        axs[2].plot(real_Z, imag_Z, linestyle="solid", linewidth=0.5, color="k", label="Geodesic altimetric profile")
+        axs[2].plot(real_Z, line_of_vision, linestyle="dashdot", linewidth=0.8, color="g")
+        axs[2].plot(real_Z, masked_view, linestyle="solid", color="r")
+        axs[2].fill_between(real_Z, imag_Z, imag_Z-elevation_profile/1000, alpha=.5, linewidth=0, cmap='Blues')
+        axs[2].legend()
+                
         # Fill in red masked parts
-        for i in range(len(imag_Z)):
-            if line_of_vision[i] < imag_Z[i]:
-                axs[1].fill_between(real_Z, imag_Z, masked_view, alpha=.5, linewidth=0, fc='red')
-                axs[2].fill_between(real_Z, imag_Z, masked_view, alpha=.5, linewidth=0, fc='red')
+
+        axs[1].fill_between(real_Z, imag_Z, masked_view, alpha=0.7, linewidth=0, fc='red', interpolate=True)
+
+        axs[2].fill_between(real_Z, imag_Z, masked_view, alpha=0.7, linewidth=0, fc='red', interpolate=True)
+        
         axs[0].set(ylabel='Elevation (m)')
         axs[1].axis('equal')
-        axs[1].set(ylabel='Earth radius (km)')
-        axs[2].set(xlabel='Geodesic distance (km)', ylabel='//')
+        axs[1].set(ylabel='Earth radius (km)\nReal scale factor')
+        axs[2].set(xlabel='Geodesic distance (km)', ylabel='Earth radius (km)')
         plt.show()
 
     return view_possible, data
