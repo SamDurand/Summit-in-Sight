@@ -1,8 +1,8 @@
-Name;latitude;longitude;view_possible
-1. Puy de Sancy;45.528238;2.814012;False
-2. Puy de Dôme;45.771949;2.964029;False
-3. Plomb du Cantal;45.059213;2.761055;False
-4. Mont Lozère;44.426622;3.738706;False
-5. Mont Mezenc;44.913545;4.190565;True
-6. Mont Gerbier de Jonc;44.844203;4.220418;True
-9 Mont Aigoual;44.121331;3.582028;True
+Name,latitude,longitude,view_possible
+1. Puy de Sancy,45.528238,2.814012,False
+2. Puy de Dôme,45.771949,2.964029,False
+3. Plomb du Cantal,45.059213,2.761055,False
+4. Mont Lozère,44.426622,3.738706,False
+5. Mont Mezenc,44.913545,4.190565,True
+6. Mont Gerbier de Jonc,44.844203,4.220418,True
+9 Mont Aigoual,44.121331,3.582028,True

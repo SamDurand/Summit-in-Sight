@@ -333,7 +333,7 @@ def generate_locations_grid(top_left_corner, bottom_right_corner, res = 10):
             lon_grid.append(lon)
 
     grid_locations = pd.DataFrame()
-    grid_locations["lat_grid"], grid_locations["lon_grid"] = lat_grid, lon_grid
+    grid_locations["latitude"], grid_locations["longitude"] = lat_grid, lon_grid
     
     return grid_locations
 
@@ -354,7 +354,7 @@ def summit_is_visible_multi_locations(grid_locations, location_summit, offset_vi
         - grid_locations_processed (pandas DataFrame): grid_locations dataframe with a column "view_possible" returning the visibility of a summit for each location.
         
     """
-    locations = [[grid_locations["lat_grid"][i], grid_locations["lon_grid"][i]] for i in grid_locations.index]
+    locations = [[grid_locations["latitude"][i], grid_locations["longitude"][i]] for i in grid_locations.index]
 
     # Create a new file each 50000 iterations to avoid full buffer and slowdown
     count = 0
@@ -365,12 +365,12 @@ def summit_is_visible_multi_locations(grid_locations, location_summit, offset_vi
             if count % 50000 == 0:
                 with open("data_temp_{}.txt".format(count), "w") as f:
                     file_names.append(f.name)
-                    f.write(str(summit_is_visible_fast_online(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
+                    f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
                 f.close()
                 time.sleep(1)
             else:
                 with open("data_temp_{}.txt".format(count - count % 50000), "a") as f:
-                    f.write(str(summit_is_visible_fast_online(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
+                    f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
         except:
             with open("data_temp_{}.txt".format(count - count % 50000), "a") as f:
                 f.write("error\n")
@@ -398,10 +398,10 @@ def plot_locations_map(grid_locations, color=False):
         color (bool, optional): split your data between view_possible = True or False in 2 different colors. Defaults to False.
     """
     if not color:
-        fig = scatter_mapbox(grid_locations, lat="lat_grid", lon="lon_grid", zoom=6, mapbox_style="open-street-map")
+        fig = scatter_mapbox(grid_locations, lat="latitude", lon="longitude", zoom=6, mapbox_style="open-street-map")
         fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     else:
-        fig = scatter_mapbox(grid_locations, lat="lat_grid", lon="lon_grid", zoom=6, color=color, mapbox_style="open-street-map")                
+        fig = scatter_mapbox(grid_locations, lat="latitude", lon="longitude", zoom=6, color=color, mapbox_style="open-street-map")                
         fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     
     fig.show()

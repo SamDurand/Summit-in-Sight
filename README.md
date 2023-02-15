@@ -1,5 +1,5 @@
 
-![logo](logo.png  "a title")
+![logo](data\pictures\logo.png)
 
 # Summit-in-Sight
 
@@ -37,17 +37,44 @@ location_summit = [45.832542 , 6.864717] # The summit to spot
 offset_view = 2
 offset_summit = -100
 
-view_possible, data = summit_is_visible_online(location_point, location_summit, plot=True, offset_view=offset_view, offset_summit=offset_summit)
+view_possible, data = summit_is_visible_online(location_point, location_summit, plot=True, offset_view=offset_view,offset_summit=offset_summit)
 ```
 
 Return:
 ```python
 Location point: Pont du Mont-Blanc, Rue du Mont-Blanc, Grottes et Saint-Gervais, Genève, 1201, Schweiz/Suisse/Svizzera/Svizra
 Location summit: Les Bosses, Chamonix-Mont-Blanc, Bonneville, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74400, France
+
 Summit in sight! Distance =  69.54 km
 ```
-+ Image
+![return](data\pictures\Geneve_MontBlanc.png)
 
-Some returns with different locations:
-1. From Lyon
-*Logo image was generated using AI: [DALL E](https://openai.com/dall-e-2/)*
+The first plot shows the horizontal altimetric profile between your location and the summit.
+
+The second and third plot shows the geodesic profile between your locations. These profiles are used to compute if a summit is in sight. 
+
+The dashed green line represents the line of sight. If the line of sight intersects the relief, the view is therefore impossible and the summits intersected are filled with red.
+
+Some additional examples below:
+1. Mont Blanc (4810m, Alps) from Lyon Fourvière (France):
+
+![return](data/pictures/Lyon_MontBlanc.png)
+
+2. Mont Blanc (4810m, Alps) from Montpellier (France):
+
+![return](data/pictures/Montpellier_MontBlanc.png)
+
+3. Mont Rosa (4634m, Alps) from Milan (Italy):
+
+![return](data/pictures/Milan_MontRosa.png)
+
+4. Mont Blanc (4810m, Alps) from Mont Cook (3724m, New Zealand):
+
+![return](data/pictures/MtCookNZ_MontBlanc.png)
+
+5. Everest (8848m) from Katmandu (Nepal)
+   
+![return](data/pictures/Katmandu_Everest.png)
+
+
+*Profile image was generated using AI: [DALL E](https://openai.com/dall-e-2/)*
