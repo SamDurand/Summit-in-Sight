@@ -1,5 +1,4 @@
-
-![logo](data\pictures\logo.png)
+![image](data/pictures/logo_summit.png)
 
 # Summit-in-Sight
 
@@ -47,7 +46,8 @@ Location summit: Les Bosses, Chamonix-Mont-Blanc, Bonneville, Haute-Savoie, Auve
 
 Summit in sight! Distance =  69.54 km
 ```
-![return](data\pictures\Geneve_MontBlanc.png)
+
+![return](data/pictures/geneva_montblanc.png)
 
 The first plot shows the horizontal altimetric profile between your location and the summit.
 
@@ -58,23 +58,23 @@ The dashed green line represents the line of sight. If the line of sight interse
 Some additional examples below:
 1. Mont Blanc (4810m, Alps) from Lyon Fourvière (France):
 
-![return](data/pictures/Lyon_MontBlanc.png)
+![return](data/pictures/lyon_montblanc.png)
 
 2. Mont Blanc (4810m, Alps) from Montpellier (France):
 
-![return](data/pictures/Montpellier_MontBlanc.png)
+![return](data/pictures/montpellier_montblanc.png)
 
 3. Mont Rosa (4634m, Alps) from Milan (Italy):
 
-![return](data/pictures/Milan_MontRosa.png)
+![return](data/pictures/milan_montrosa.png)
 
 4. Mont Blanc (4810m, Alps) from Mont Cook (3724m, New Zealand):
 
-![return](data/pictures/MtCookNZ_MontBlanc.png)
+![return](data/pictures/mtcooknz_montblanc.png)
 
 5. Everest (8848m) from Katmandu (Nepal)
    
-![return](data/pictures/Katmandu_Everest.png)
+![return](data/pictures/katmandu_everest.png)
 
 
 *Profile image was generated using AI: [DALL E](https://openai.com/dall-e-2/)*
