@@ -8,5 +8,5 @@ offset_view = 2
 offset_summit = -100
 
 grid_locations = data[["Name", "latitude", "longitude"]]  # Extract the columns needed for processing 
-grid_locations_processed = summit_is_visible_multi_locations(grid_locations, location_summit, offset_view, offset_summit)  # Process the data 
-grid_locations_processed.to_csv("data/vosges.csv")  # Save data to csv file
+grid_locations_processed = summit_is_visible_multi_locations_offline(grid_locations, location_summit, offset_view, offset_summit)  # Process the data 
+grid_locations_processed.to_csv("data/results/list_from_summits.csv")  # Save data to csv file
