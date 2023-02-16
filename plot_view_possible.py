@@ -1,6 +1,13 @@
 import pandas as pd
-from summit_lib import plot_locations_map
+from plotly.express import scatter_mapbox
 
-grid_locations = pd.read_csv("data/results/Grid_NW_Alps_res=0.5km.csv")
-sorted_grid_locations = grid_locations.sort_values(by="view_possible", ascending=False)
-plot_locations_map(sorted_grid_locations, color="view_possible")
+# Import a file
+grid_locations = pd.read_csv("data/results/Summits_Alps.csv")
+
+# Keep only locations when view_possible = True
+grid_locations = grid_locations[grid_locations['view_possible'] == True]
+
+# PLot locations
+fig = scatter_mapbox(grid_locations, lat="latitude", lon="longitude", mapbox_style="stamen-terrain", color_discrete_sequence=["mediumspringgreen"])
+fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+fig.show()
