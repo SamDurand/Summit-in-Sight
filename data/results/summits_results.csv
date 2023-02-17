@@ -1,0 +1,1643 @@
+name,altitude,latitude,longitude,view_possible
+Mont Blanc ,4808.0,45.8325,6.86444444,True
+Monte Rosa / Mont Rose (Dufourspitze) ,4634.0,45.93694444,7.86694444,True
+Dom ,4545.0,46.09388889,7.85888889,True
+Lyskamm ,4533.0,45.92222222,7.83555556,True
+Weisshorn ,4506.0,46.10138889,7.71583333,True
+Matterhorn / Mont Cervin ,4478.0,45.97638889,7.65861111,True
+Dent Blanche ,4357.0,46.03416667,7.61194444,True
+Grand Combin ,4314.0,45.9375,7.29916667,True
+Finsteraarhorn ,4274.0,46.53722222,8.12611111,True
+Zinalrothorn ,4221.0,46.065,7.69027778,True
+Grandes Jorasses (Pte Walker) ,4208.0,45.86916667,6.98833333,True
+Alphubel ,4206.0,46.06305556,7.86388889,True
+Rimpfischhorn ,4199.0,46.02333333,7.88416667,True
+Aletschhorn ,4193.0,46.465,7.99388889,True
+Strahlhorn ,4190.0,46.01333333,7.90166667,True
+Dent d'Hérens ,4174.0,45.97,7.60527778,True
+Breithorn ,4164.0,45.94111111,7.74888889,True
+Jungfrau ,4158.0,46.53666667,7.9625,True
+Aig. Verte ,4122.0,45.93472222,6.97027778,True
+Mönch ,4107.0,46.55833333,7.99722222,False
+Barre des Écrins ,4102.0,44.9225,6.36,True
+Schreckhorn ,4078.0,46.59,8.11805556,True
+Ober Gabelhorn ,4063.0,46.03861111,7.66805556,True
+Gran Paradiso / Grand Paradis ,4061.0,45.51805556,7.26722222,True
+Piz Bernina ,4049.0,46.38222222,9.90805556,False
+Gross Fiescherhorn ,4049.0,46.55138889,8.06138889,True
+Gross Grünhorn ,4044.0,46.53194444,8.07777778,True
+Weissmies ,4017.0,46.12777778,8.01222222,True
+Lagginhorn ,4010.0,46.15722222,8.00305556,True
+Piz Zupò ,3996.0,46.36833333,9.93138889,False
+Fletschhorn ,3985.0,46.16805556,8.00333333,True
+Gletscherhorn ,3983.0,46.51277778,7.96777778,False
+Meije ,3982.0,45.00472222,6.30861111,True
+Eiger ,3967.0,46.5775,8.00527778,True
+Grivola ,3969.0,45.59583333,7.2575,True
+Grand Cornier ,3962.0,46.05194444,7.61138889,True
+Ailefroide ,3954.0,44.885,6.35638889,True
+Mont Pelvoux ,3943.0,44.8975,6.39666667,True
+Piz Roseg ,3937.0,46.37361111,9.88305556,False
+Bietschhorn ,3934.0,46.39166667,7.85083333,True
+Trugberg ,3933.0,46.54666667,8.01527778,True
+Aig. de Tré la Tête ,3923.0,45.79472222,6.815,True
+Pic Sans Nom ,3913.0,44.89333333,6.38388889,True
+Gross Wannenhorn ,3906.0,46.49388889,8.09694444,True
+Ortler ,3905.0,46.50888889,10.54472222,False
+Aig. d'Argentière ,3901.0,45.96,7.02,True
+Ruinette ,3875.0,45.97916667,7.40027778,True
+Aig. de Triolet ,3870.0,45.91666667,7.02444444,True
+Grande Casse ,3855.0,45.40527778,6.82777778,True
+Königspitze / Gran Zebrù ,3851.0,46.47861111,10.56833333,False
+Aig. du Midi ,3842.0,45.87861111,6.8875,True
+Monviso / Monte Viso / Vísol ,3841.0,44.6675,7.09083333,True
+Bouquetins ,3838.0,45.98222222,7.54527778,True
+Tour Noir ,3837.0,45.94888889,7.0375,True
+Brunegghorn ,3833.0,46.12583333,7.74555556,False
+Aig. du Chardonnet ,3824.0,45.96888889,7.00111111,True
+Nesthorn ,3821.0,46.41333333,7.92611111,True
+Mont Dolent ,3820.0,45.9225,7.04611111,True
+Aig. des Glaciers ,3816.0,45.77861111,6.8025,True
+Le Râteau ,3809.0,45.00083333,6.28305556,True
+Großglockner ,3798.0,47.07416667,12.69444444,False
+Schinhorn ,3797.0,46.45166667,7.94666667,True
+Pte de Zinal ,3789.0,46.02694444,7.63055556,True
+Lauterbrunnen Breithorn ,3780.0,46.47861111,7.87666667,True
+Mont Pourri ,3779.0,45.52805556,6.86027778,True
+Aig. Noire de Peuterey ,3774.0,45.81527778,6.89305556,False
+Wildspitze ,3770.0,46.88527778,10.86722222,False
+Monte Cevedale ,3769.0,46.44388889,10.61666667,False
+Grande Ruine ,3765.0,44.96777778,6.32972222,True
+Aig. de Leschaux ,3759.0,45.8875,7.00694444,True
+Pte de Charbonnel ,3752.0,45.28027778,7.055,True
+Piz Morteratsch ,3751.0,46.40277778,9.90166667,False
+Aig. de la Grande Sassière  ,3747.0,45.505,7.0,True
+Weißkugel ,3739.0,46.79777778,10.72638889,False
+Roche Faurio ,3730.0,44.94194444,6.35805556,True
+Mont Vélan ,3726.0,45.89166667,7.25166667,True
+Evêque ,3716.0,45.96444444,7.50277778,True
+Combin de Corbassière  ,3716.0,45.97805556,7.28055556,True
+La Singla ,3714.0,45.94583333,7.47194444,True
+Wetterhörner (Mittelhorn) ,3704.0,46.63527778,8.12472222,False
+Le Pleureur ,3704.0,46.01638889,7.36916667,True
+Balmhorn ,3698.0,46.425,7.69361111,True
+Dent Parrachée ,3697.0,45.28916667,6.75638889,True
+Torre del Gran San Pietro / Tour du Grand-Saint-Pierre ,3692.0,45.52583333,7.35888889,True
+Monte Disgrazia ,3678.0,46.26916667,9.74944444,False
+Pta San Matteo ,3678.0,46.37777778,10.56722222,False
+Uia di Ciamarella ,3676.0,45.32861111,7.14527778,True
+Dent de Perroc ,3676.0,46.03944444,7.52305556,True
+Dômes de Miage ,3673.0,45.81555556,6.80027778,True
+Les Bans ,3669.0,44.84861111,6.33666667,False
+Großvenediger ,3666.0,47.10916667,12.34638889,False
+Montagne des Agneaux ,3664.0,44.95027778,6.43055556,True
+Blüemlisalphorn ,3661.0,46.48888889,7.7725,True
+Portjengrat: Pizzo d'Andolla ,3654.0,46.10083333,8.03472222,False
+Grande Motte ,3653.0,45.41138889,6.87027778,True
+Thurwieserspitze ,3652.0,46.49527778,10.52527778,False
+Aigs Rouges d'Arolla ,3644.0,46.05527778,7.43361111,True
+Ciarforon / Charforon ,3640.0,45.49333333,7.24722222,True
+Doldenhorn ,3638.0,46.46888889,7.73472222,True
+Albaron ,3637.0,45.3325,7.10277778,True
+Dammastock ,3630.0,46.64333333,8.42111111,True
+Hintere Schwärze  ,3628.0,46.77333333,10.91472222,False
+Levanna Centrale ,3619.0,45.41027778,7.17194444,True
+Tödi (Piz Russein) ,3614.0,46.81111111,8.91472222,True
+Pte de Ronce ,3612.0,45.26444444,6.97861111,True
+Les Diablons ,3609.0,46.1425,7.67111111,True
+Grande Rousse / Bec de l'Invergnan ,3607.0,45.56333333,7.08444444,True
+Tsanteleina ,3602.0,45.47944444,7.04611111,True
+Aig. du Plat de la Selle ,3596.0,44.96444444,6.22333333,False
+Piz Glüschaint ,3594.0,46.3625,9.84,False
+Bessanèse ,3592.0,45.30222222,7.11944444,True
+Les Rouies ,3589.0,44.86444444,6.25861111,True
+Grand Roc Noir ,3582.0,45.33027778,6.89194444,True
+Mont Brulé ,3578.0,45.955,7.53833333,True
+Croix Rousse / Croce Rossa ,3571.0,45.26055556,7.13472222,True
+Olan ,3564.0,44.85944444,6.19722222,True
+Großes Wiesbachhorn ,3564.0,47.15638889,12.75527778,False
+Le Plaret ,3563.0,44.96861111,6.26,True
+Cime de Clot Châtel ,3563.0,44.8975,6.28027778,True
+Ouille d'Arbéron/Pta d'Arnas ,3563.0,45.27166667,7.12805556,True
+Aig. de Péclet ,3562.0,45.28138889,6.62444444,True
+Tschingelhorn ,3562.0,46.47861111,7.84861111,True
+Tête de l'Étret ,3559.0,44.89,6.24527778,False
+Presanella ,3558.0,46.22,10.66388889,False
+Monte Emilius ,3557.0,45.67888889,7.38472222,True
+Aouille Tseuque ,3554.0,45.93027778,7.44305556,True
+Monte Leone ,3553.0,46.24944444,8.11,False
+Großer Ramolkogel ,3550.0,46.84666667,10.95888889,False
+Vertainspitze ,3545.0,46.53722222,10.63555556,False
+Schalfkogel ,3540.0,46.80166667,10.95916667,False
+Adamello ,3539.0,46.15583333,10.49611111,False
+Rocciamelone ,3538.0,45.20388889,7.07694444,True
+Hochvernagtspitze ,3535.0,46.88138889,10.79611111,False
+Watzespitze ,3533.0,46.98944444,10.79555556,False
+Bec d'Épicoune ,3531.0,45.91472222,7.4225,True
+Mont Gelé ,3518.0,45.90416667,7.36611111,True
+Weißseespitze ,3518.0,46.84666667,10.71722222,False
+Aig. Méridionale d'Arves ,3514.0,45.12722222,6.33694444,True
+Fineilspitze ,3514.0,46.78027778,10.83194444,False
+Punta Tersiva / Pointe Tersive ,3513.0,45.62055556,7.47611111,True
+Hochfeiler ,3509.0,46.97222222,11.72777778,False
+Zuckerhütl ,3507.0,46.96444444,11.15388889,False
+Aig. de Scolette / Pierre Menue ,3506.0,45.16,6.76861111,True
+M. Morion / Rion: Pointe Monro ,3505.0,45.88138889,7.36777778,True
+Galmihorn ,3505.0,46.50666667,8.185,True
+Becca di Luseney / Pic de Luseney ,3503.0,45.87055556,7.49111111,True
+Sustenhorn ,3503.0,46.69888889,8.45527778,False
+Dreiherrnspitze ,3499.0,47.06916667,12.24083333,False
+Schrankogel ,3497.0,47.04388889,11.09916667,False
+Rötspitze ,3496.0,47.02694444,12.20527778,False
+Grande Traversière ,3496.0,45.52305556,7.05583333,True
+Grand Nomenon ,3488.0,45.61194444,7.23611111,True
+Sonnighorn / Pizzo Bottarello ,3487.0,46.07416667,8.02222222,False
+Testa del Rutor ,3486.0,45.63083333,7.01444444,True
+Grande Aig. Rousse ,3482.0,45.43305556,7.10972222,True
+Pic de Bonvoisin ,3481.0,44.82361111,6.34694444,False
+Großer Möseler ,3480.0,46.9925,11.78194444,False
+Hochwilde ,3480.0,46.76555556,11.02222222,False
+Olperer ,3476.0,47.05305556,11.65888889,False
+Ruderhofspitze ,3474.0,47.03944444,11.14333333,False
+Hinterer Seelenkogel ,3472.0,46.80166667,11.04444444,False
+Grande Rousse S (Pic Bayle) ,3465.0,45.13777778,6.13583333,True
+Roche de la Muzelle ,3465.0,44.93111111,6.10666667,True
+Pic de l'Étendard ,3464.0,45.15444444,6.14388889,True
+Carè Alto ,3463.0,46.10805556,10.59611111,False
+Pic Garin ,3462.0,45.65583333,7.3775,True
+Vordere Ölgrubenspitze ,3456.0,46.90833333,10.77333333,False
+Bliggspitze ,3453.0,46.91805556,10.78611111,False
+Johannisberg ,3453.0,47.10944444,12.67277778,False
+Piz Corvatsch ,3451.0,46.40833333,9.81611111,False
+Rinderhorn ,3448.0,46.41361111,7.65416667,True
+Wasenhorn ,3447.0,46.49805556,8.16583333,True
+Pointe de l'Aouillé ,3446.0,45.52666667,7.14805556,True
+Hintere Eggenspitze / Cima Sternai ,3443.0,46.47777778,10.77055556,False
+Roc du Mulinet ,3442.0,45.38083333,7.16277778,True
+Sirac ,3441.0,44.78972222,6.30694444,False
+Piz Tremoggia ,3441.0,46.35194444,9.82194444,False
+Dosson di Genova ,3441.0,46.14861111,10.55361111,False
+Truc Blanc ,3440.0,45.58722222,7.16722222,True
+Cima de' Piazzi ,3439.0,46.41666667,10.285,False
+Lagaunspitze ,3439.0,46.73916667,10.73916667,False
+Zufrittspitze ,3439.0,46.50194444,10.78222222,False
+Hochgall ,3436.0,46.91083333,12.13972222,False
+Gspaltenhorn ,3436.0,46.51166667,7.8275,True
+Stellihorn ,3436.0,46.03638889,8.00083333,False
+Pte de la Sana ,3436.0,45.385,6.91805556,True
+Verpeilspitze ,3425.0,47.00333333,10.805,False
+Pte de l'Échelle ,3422.0,45.26916667,6.68527778,True
+Aig. du Goleon ,3422.0,45.10361111,6.32638889,True
+Aig. de l'Épéna ,3421.0,45.41472222,6.81722222,True
+Pics du Says ,3420.0,44.87388889,6.30583333,True
+Bifertenstock / Piz Durschin ,3419.0,46.80444444,8.9575,True
+Piz Kesch / Piz d' Es-Cha ,3418.0,46.62138889,9.87277778,False
+Sommet de Bellecôte ,3417.0,45.4925,6.7825,True
+Fleckistock / Rot Stock ,3416.0,46.7075,8.4975,False
+Pte du Bouchet ,3416.0,45.25416667,6.60416667,True
+Aig. de Chambeyron ,3412.0,44.54777778,6.85666667,True
+Piz Linard ,3411.0,46.79888889,10.07166667,False
+Schrammacher ,3410.0,47.02694444,11.64305556,False
+Hochfirst ,3403.0,46.82666667,11.08111111,False
+Rheinwaldhorn ,3402.0,46.49361111,9.04027778,False
+Aigs des Arias ,3402.0,44.89555556,6.17416667,False
+Fluchthorn ,3399.0,46.89083333,10.2275,False
+Piz Calderas ,3397.0,46.53638889,9.69583333,False
+Großer Bärenkopf ,3396.0,47.13083333,12.73166667,False
+Hohe Geige ,3395.0,47.00472222,10.90861111,False
+Piz Platta ,3392.0,46.48722222,9.56166667,False
+Brec de Chambeyron ,3389.0,44.52805556,6.85333333,True
+Diechterhorn ,3389.0,46.64861111,8.36055556,False
+Veneziaspitze / Cima Venezia ,3386.0,46.45388889,10.68916667,False
+Pic Nord de la Font Sancte ,3385.0,44.605,6.80027778,True
+Punta di Fontanella ,3384.0,45.90611111,7.55583333,True
+Pta Sulè ,3384.0,45.23138889,7.1375,True
+Rognosa d'Etiache / d'Étache ,3383.0,45.13472222,6.83388889,True
+Piz Güglia / Piz Julier ,3380.0,46.49111111,9.75972222,False
+Grand Tournalin ,3379.0,45.87166667,7.68805556,True
+Güferhorn ,3379.0,46.5125,9.06305556,False
+Cima di Castello ,3379.0,46.30305556,9.67694444,False
+Großer Löffler ,3379.0,47.0325,11.91583333,False
+Mont d'Ambin / Rocca d'Ambin ,3378.0,45.15666667,6.88444444,True
+Cima Viola ,3374.0,46.38361111,10.19638889,False
+Blinnenhorn / Corno Cieco ,3374.0,46.42583333,8.30777778,True
+Hoher Eichham ,3371.0,47.05388889,12.40666667,False
+Monte Confinale ,3370.0,46.44944444,10.50444444,False
+Pizzo Cengalo ,3369.0,46.295,9.60194444,False
+Schwarzenstein ,3369.0,47.01,11.87416667,False
+Hoher Tenn ,3368.0,47.17972222,12.75944444,False
+Malhamspitzen ,3368.0,47.04916667,12.25944444,False
+Egginer ,3367.0,46.07527778,7.93,False
+Innere Schwarze Schneid ,3367.0,46.92416667,10.92138889,False
+Piz Fora ,3363.0,46.34083333,9.78472222,False
+Hochalmspitze ,3360.0,47.015,13.32111111,False
+Corno dei Tre Signori ,3360.0,46.34305556,10.51555556,False
+Großer Geiger ,3360.0,47.09305556,12.30888889,False
+Wilde Leck ,3359.0,47.00277778,11.0625,False
+Schneebiger Nock / Ruthnerhorn ,3358.0,46.90527778,12.08416667,False
+Grande Roise ,3357.0,45.67527778,7.42305556,True
+Rofelewand ,3353.0,47.0325,10.81833333,False
+Glockturm ,3353.0,46.89333333,10.66555556,False
+Puitkogel ,3345.0,46.98138889,10.90138889,False
+Marmolada (Pta Penia) ,3343.0,46.43472222,11.85083333,False
+Bric de Rubren / Mongioia ,3340.0,44.62,6.94972222,True
+Piz Ela ,3339.0,46.60194444,9.7075,False
+Roteck ,3337.0,46.72361111,10.98416667,False
+Pta Sommeiller ,3332.0,45.12833333,6.8525,True
+Fuscherkarkopf ,3331.0,47.09888889,12.74555556,False
+Corno Baitone ,3330.0,46.17305556,10.44111111,False
+Mont Fort ,3329.0,46.08111111,7.31861111,True
+Grande Rochère ,3328.0,45.81361111,7.06138889,True
+Oberalpstock ,3328.0,46.74277778,8.76944444,True
+Busazza ,3326.0,46.22388889,10.61111111,False
+Tête de Lauranoure ,3325.0,44.92638889,6.15194444,False
+Pizzo Scalino ,3323.0,46.27861111,9.97361111,False
+Pic de Rochebrune ,3320.0,44.8225,6.78777778,True
+Corno Bianco ,3320.0,45.82277778,7.87916667,True
+Groabhopt / Testa Grigia / Tête grise ,3315.0,45.83083333,7.78666667,True
+Mont Giusalet ,3312.0,45.18055556,6.93,True
+Piz Buin ,3312.0,46.84416667,10.11861111,False
+Mont Pelve ,3312.0,45.35611111,6.77666667,True
+Pta Lavina ,3308.0,45.55555556,7.44861111,True
+Pte de l'Aiglière ,3307.0,44.81027778,6.41472222,True
+Laaser Spitze / Orgelspitze ,3305.0,46.56194444,10.71777778,False
+Reichenspitze ,3303.0,47.13944444,12.11083333,False
+Piz Paradisin ,3302.0,46.42611111,10.11722222,False
+Pta Ramiere / Bric Froid ,3302.0,44.86416667,6.93166667,True
+Becca de Tos ,3301.0,45.63027778,7.10666667,True
+Verstanclahorn ,3298.0,46.835,10.0725,False
+Cima Sud Argentera ,3297.0,44.17805556,7.30583333,True
+Monte Sobretta ,3296.0,46.3975,10.43694444,False
+Strahlkogel ,3295.0,47.10916667,11.01944444,False
+Gross Schärhorn ,3294.0,46.82722222,8.82916667,True
+Muttler ,3293.0,46.90055556,10.37861111,False
+Grand Glaiza / Pta Merciantaira ,3293.0,44.84916667,6.8825,True
+Hockenhorn ,3293.0,46.42833333,7.74416667,True
+Keeskogel ,3291.0,47.13638889,12.31194444,False
+Schlieferspitze ,3290.0,47.1225,12.24333333,False
+M. Aig.tte / L'Asti ,3287.0,44.69138889,7.02666667,True
+Petzeck ,3283.0,46.94805556,12.80472222,False
+Pta di Pietra Rossa ,3283.0,46.32472222,10.4375,False
+Ritzlihorn ,3282.0,46.63222222,8.25888889,False
+Roter Knopf ,3281.0,46.97861111,12.73944444,False
+Piz Fliana ,3281.0,46.82722222,10.10861111,False
+Pta Rognosa di Sestriere ,3280.0,44.93472222,6.93111111,True
+Pizzo Dosdè ,3280.0,46.41,10.22583333,False
+Pizzo Tambo / Tambohorn ,3279.0,46.49694444,9.28333333,False
+Hohe Weiße ,3279.0,46.74555556,11.03722222,False
+Habicht ,3277.0,47.04361111,11.28972222,False
+Gsallkopf ,3277.0,47.03777778,10.805,False
+Basòdino ,3272.0,46.41138889,8.46861111,True
+Helsenhorn ,3272.0,46.30472222,8.19166667,True
+Pte d'Archeboc ,3272.0,45.58361111,6.98027778,True
+Östliche Feuerstein ,3268.0,46.97166667,11.24444444,False
+Clariden ,3267.0,46.84194444,8.87138889,False
+Piz Üertsch ,3267.0,46.59638889,9.83638889,False
+Antelao ,3264.0,46.4525,12.26055556,False
+Scima da Saoseo ,3264.0,46.38555556,10.15805556,False
+Piz Languard ,3262.0,46.48833333,9.95638889,False
+Piz Forbesch ,3262.0,46.52027778,9.55916667,False
+Dents du Midi: Haute Cime ,3257.0,46.16111111,6.92333333,True
+Hasenöhrl ,3257.0,46.54444444,10.85861111,False
+Gross Düssi / Piz Git ,3256.0,46.79166667,8.8275,True
+Hocharn ,3254.0,47.07611111,12.93722222,False
+Piz Tschütta / Stammerspitz ,3254.0,46.90361111,10.34305556,False
+Sasseneire ,3254.0,46.13861111,7.52527778,True
+Ankogel ,3252.0,47.05111111,13.24916667,False
+Cavistrau / Brigelser Hörner ,3252.0,46.78444444,8.97388889,True
+Rauhkofel ,3251.0,47.07611111,12.09194444,False
+Großer Hornkopf ,3251.0,46.96722222,12.77888889,False
+Wildhorn ,3248.0,46.35583333,7.36222222,True
+Péne Blanche ,3248.0,45.61888889,7.42694444,True
+Ringelspitz ,3247.0,46.89833333,9.34305556,True
+Berrio Blanc ,3247.0,45.75305556,6.89777778,True
+Piz Ot ,3246.0,46.54333333,9.81027778,False
+Wasenhorn / Pta Terrarossa ,3246.0,46.26638889,8.08555556,True
+Pta Painale ,3246.0,46.25666667,9.97388889,False
+Platthorn ,3246.0,46.16638889,7.86111111,False
+Tofana di Mezzo ,3244.0,46.55111111,12.06555556,False
+Hohe Fürleg ,3244.0,47.14166667,12.36277778,False
+Piz Bacun ,3244.0,46.34222222,9.68222222,False
+Wildstrubel ,3243.0,46.40027778,7.52861111,True
+Tête de Soulaure / Pic Félix Neff ,3243.0,44.7625,6.415,True
+Hochschober ,3242.0,46.9425,12.69833333,False
+Titlis ,3238.0,46.77194444,8.43777778,False
+Grand Golliat ,3238.0,45.85916667,7.10166667,True
+Becca du Merlo ,3237.0,45.84388889,7.47055556,True
+Hoher Seeblaskogel ,3235.0,47.09555556,11.07472222,False
+Pic des Houerts ,3235.0,44.58777778,6.76722222,True
+Ofenhorn / Pta d'Arbola ,3235.0,46.38666667,8.31861111,True
+Großer Muntanitz ,3232.0,47.07361111,12.58916667,False
+Le Péouvou ,3232.0,44.63027778,6.88361111,False
+Corno di Dosdè ,3232.0,46.40777778,10.16972222,False
+Hoher Riffler ,3231.0,47.08111111,11.70444444,False
+Augstenberg / Piz Blaisch Lunga ,3230.0,46.86444444,10.20388889,False
+Piz Vadret ,3229.0,46.68694444,9.96277778,False
+Grand Galibier ,3228.0,45.06388889,6.43416667,True
+Tofana di Rozes ,3225.0,46.53694444,12.05111111,False
+Hintere Stangenspitze ,3225.0,47.05722222,11.97611111,False
+Monte Gavia ,3223.0,46.35416667,10.4725,False
+Rocca Bernauda / Roche Bernaude ,3222.0,45.10138889,6.6275,True
+Monte Cristallo ,3221.0,46.57527778,12.20055556,False
+Monte Civetta ,3220.0,46.38,12.05333333,False
+Tour Sallière ,3220.0,46.12694444,6.92472222,True
+Vorderes Plattenhorn: Ostgipfel ,3220.0,46.81,10.03305556,False
+Vogelberg ,3218.0,46.47833333,9.06527778,False
+Monte del Forno ,3214.0,46.33833333,9.72472222,False
+Bec de l'Âne ,3213.0,45.61555556,6.98388889,True
+Le Métailler ,3213.0,46.10388889,7.36027778,False
+Piz Medel ,3211.0,46.61833333,8.91111111,False
+Scherbadung / Pizzo Cervandone ,3211.0,46.32416667,8.22305556,True
+Diablerets ,3210.0,46.30388889,7.18888889,True
+Gran Vernel ,3210.0,46.4425,11.83222222,False
+Piz Timun / Pizzo d'Emet ,3209.0,46.46694444,9.40944444,False
+Piz Cambrialas ,3208.0,46.78944444,8.85194444,True
+Pic du Thabor ,3207.0,45.11861111,6.56222222,False
+Hocheiser ,3206.0,47.15638889,12.67333333,False
+Glödis ,3206.0,46.96111111,12.72611111,False
+Pte Haute de Mary ,3206.0,44.57555556,6.89472222,True
+Pta Sorapiss ,3205.0,46.50694444,12.21166667,False
+Piz Sesvenna ,3204.0,46.70583333,10.40277778,False
+Kitzsteinhorn ,3203.0,47.18805556,12.68777778,False
+Schwarzhorn ,3201.0,46.21666667,7.75666667,True
+Mastaunspitze ,3200.0,46.69361111,10.8025,False
+Piz Vadret ,3199.0,46.50888889,9.95083333,False
+Gross Spannort ,3198.0,46.78666667,8.52444444,False
+Dreiländerspitze ,3197.0,46.85083333,10.14472222,False
+Ptes de Pierre Brune ,3196.0,45.37805556,6.85694444,True
+Mont Tondu ,3196.0,45.76388889,6.75555556,True
+Bortelhorn / Pta del Rebbio (3193.6 m),3193.6,46.29472222,8.12527778,True
+Rocca Blancia ,3193.0,44.49916667,6.86472222,True
+Cima Vezzana ,3192.0,46.28972222,11.83027778,False
+Pizzo Rotondo ,3192.0,46.5175,8.46611111,True
+Hübschhorn I ,3192.0,46.23694444,8.05527778,False
+Scopi ,3190.0,46.57166667,8.83,True
+Löffelspitze ,3190.0,47.0175,12.16444444,False
+Spechhorn / Pizzo d'Antigine ,3189.0,46.01222222,8.00111111,False
+Gleirscher Fernerkogel ,3189.0,47.11416667,11.06361111,False
+Piz Surlej ,3188.0,46.45333333,9.84305556,False
+Gross Windgällen ,3187.0,46.80722222,8.73222222,False
+Becca Tey ,3186.0,45.58611111,7.09472222,True
+Mont Glacier ,3185.0,45.63138889,7.53972222,True
+Langkofel / Saslonch ,3181.0,46.525,11.73527778,False
+Piz Murtaröl ,3180.0,46.57027778,10.2875,False
+Piz Tasna ,3179.0,46.85916667,10.25222222,False
+Piz Pisoc ,3173.0,46.74444444,10.27944444,False
+Corn da Tinizong / Tinzenhorn ,3173.0,46.61166667,9.67111111,False
+Pte de Paumont / Cima del Vallone ,3171.0,45.13944444,6.72833333,False
+Großer Fensterlekofel ,3171.0,46.89222222,12.04305556,False
+Pic du Clapier du Peyron ,3169.0,44.93722222,6.07694444,True
+Hoher Riffler ,3168.0,47.11611111,10.37083333,False
+Monte Pelmo ,3168.0,46.41944444,12.135,False
+Piz Tavrü ,3168.0,46.67916667,10.29611111,False
+Piz Vial ,3168.0,46.63194444,8.96916667,True
+Piz Plavna Dadaint ,3167.0,46.70861111,10.22361111,False
+Piz Albris ,3166.0,46.46416667,9.96333333,False
+Piz Lagrev ,3165.0,46.44583333,9.72277778,False
+Piz Quattervals ,3165.0,46.62722222,10.095,False
+Tête de Sautron /Monte Sautron ,3165.0,44.48666667,6.8775,False
+Rosa dei Banchi ,3164.0,45.57722222,7.5325,True
+Vieux Chaillol ,3163.0,44.73611111,6.19055556,False
+Pizzo Stella ,3163.0,46.38166667,9.42138889,False
+Pta Clairy ,3162.0,45.24416667,6.87305556,False
+Piz Mitgel ,3159.0,46.61416667,9.64666667,False
+Hausstock ,3158.0,46.87444444,9.06555556,False
+Monte Vallecetta ,3156.0,46.41194444,10.40027778,False
+Tête de Vautisse ,3156.0,44.70138889,6.48583333,True
+Pic Ouest de Combeynot ,3155.0,45.01222222,6.41111111,True
+Piz Prüna ,3153.0,46.48722222,9.98722222,False
+Piz Boè ,3152.0,46.50888889,11.82805556,False
+Piz Popena ,3152.0,46.57638889,12.2075,False
+Cima Brenta ,3151.0,46.17944444,10.89972222,False
+Piz Terri ,3149.0,46.6,9.03416667,True
+Becs de Bosson ,3149.0,46.16777778,7.51805556,True
+Kuchenspitze ,3148.0,47.04861111,10.23,False
+Zillerplattenspitze ,3148.0,47.10416667,12.12972222,False
+Pfroslkopf ,3148.0,46.97777778,10.68916667,False
+Croda Rossa / Hohe Gaisl ,3146.0,46.63472222,12.14361111,False
+Flüela Schwarzhorn ,3146.0,46.73583333,9.94166667,False
+Mont Raffrey ,3146.0,45.64777778,7.51083333,True
+Piz Mundin ,3146.0,46.92527778,10.43083333,False
+Dreischusterspitze ,3145.0,46.66888889,12.31722222,False
+Napfspitze ,3144.0,47.06,12.03972222,False
+Piz Tea Fondada / Monte Cornaccia ,3144.0,46.54944444,10.30805556,False
+Cime du Gélas / Monte Gelàs ,3143.0,44.12305556,7.38472222,True
+Jochköpfl ,3143.0,46.9275,11.10777778,False
+Monte Cassa del Ferro ,3140.0,46.57861111,10.20166667,False
+Cima Tosa ,3140.0,46.15527778,10.87055556,False
+Cime Redasco ,3139.0,46.36944444,10.30777778,False
+Gross Ruchen ,3138.0,46.81027778,8.77472222,False
+Durreck ,3135.0,46.96111111,12.02888889,False
+Wilde Kreuzspitze ,3135.0,46.9125,11.59333333,False
+Großer Friedrichskopf ,3134.0,46.95777778,12.82861111,False
+Hinter Schloss ,3133.0,46.8025,8.52694444,False
+Pizzo Filone ,3133.0,46.4575,10.16333333,False
+Oldenhorn ,3132.0,46.32916667,7.22166667,True
+Mont Chaberton ,3131.0,44.96472222,6.75166667,True
+Piz Duan ,3131.0,46.37527778,9.58333333,False
+Pte Léchaud ,3128.0,45.73361111,6.81416667,True
+Grohmannspitze ,3126.0,46.51055556,11.73361111,False
+Piz Schumbraida ,3125.0,46.54277778,10.33833333,False
+Fanellhorn ,3124.0,46.54777778,9.13055556,False
+Piz Nuna ,3123.0,46.72333333,10.15444444,False
+Schareck ,3123.0,47.04138889,13.0175,False
+Groß Seehorn ,3122.0,46.88777778,10.0325,False
+Piz Aul ,3121.0,46.62277778,9.125,False
+Piz da l'Acqua ,3118.0,46.61111111,10.13888889,False
+Grand Pinier ,3117.0,44.72361111,6.40166667,True
+Schermerspitze ,3116.0,46.88777778,11.08444444,False
+Grand Queyras ,3114.0,44.71555556,6.95194444,True
+Luibiskogel ,3110.0,47.04972222,10.90416667,False
+Monte Servin ,3108.0,45.26472222,7.19972222,False
+Krönten ,3108.0,46.78222222,8.56944444,False
+Gletscherhorn ,3107.0,46.3875,9.56055556,False
+Pizz Gallagiun / Galleggione ,3107.0,46.36694444,9.48777778,False
+Ochsner ,3107.0,47.04388889,11.81555556,False
+Tête de Moïse ,3104.0,44.44055556,6.935,False
+Piz la Stretta / Monte Breva ,3104.0,46.47666667,10.04472222,False
+Große Ohrenspitze ,3101.0,46.90694444,12.1775,False
+Piz Segnas ,3099.0,46.90777778,9.23972222,True
+Mont Ouille ,3090.0,45.73166667,6.86638889,True
+Lasörling ,3098.0,46.97583333,12.35527778,False
+Pte des Cerces ,3098.0,45.06555556,6.48833333,True
+Pic des Souffles ,3098.0,44.865,6.13333333,False
+Monte Matto ,3097.0,44.225,7.25638889,True
+Pflerscher Tribulaun ,3097.0,46.98527778,11.33916667,False
+Blockkogel ,3097.0,47.08527778,10.88055556,False
+Piz Giuv / Schattig Wichel ,3096.0,46.70194444,8.6925,True
+Mont Buet ,3096.0,46.02472222,6.85277778,True
+Zwölferkofel / Croda dei Toni ,3094.0,46.61916667,12.35972222,False
+Elferkofel / Cima Undici ,3092.0,46.63638889,12.37833333,False
+Racherin ,3092.0,47.08111111,12.79444444,False
+452a. Crête de Chambave ,3090.0,45.80555556,7.03861111,True
+Tête de la Courbe ,3089.0,44.49777778,6.82333333,True
+Vesulspitze ,3089.0,47.00166667,10.34916667,False
+Monte Forcellina ,3087.0,46.46638889,10.19861111,False
+Hohe Villerspitze ,3087.0,47.10666667,11.16555556,False
+Flüela Wisshorn ,3085.0,46.76222222,9.96666667,False
+Cima da Lägh / Cima di Lago ,3083.0,46.37638889,9.46111111,False
+Zwieselbacher Rosskogel ,3081.0,47.16333333,11.04805556,False
+Fundusfeiler ,3079.0,47.11222222,10.87027778,False
+Chüealphorn ,3078.0,46.68527778,9.90527778,False
+Mont Néry / Neryschthuare ,3076.0,45.71583333,7.82,True
+Großer Hafner ,3076.0,47.07,13.40083333,False
+Pic de Parières ,3076.0,44.77944444,6.24083333,True
+Piz Starlex ,3075.0,46.66277778,10.3925,False
+Piz Sena ,3075.0,46.35305556,10.11,False
+Bristen ,3073.0,46.73694444,8.68111111,False
+Wildkarspitze ,3073.0,47.1725,12.13916667,False
+Pizzo Campo Tencia ,3072.0,46.42972222,8.72611111,False
+Chüebodenhorn ,3070.0,46.50805556,8.45305556,True
+Tête de la Cassille ,3069.0,45.04388889,6.49944444,True
+La Meyna ,3067.0,44.48111111,6.85861111,False
+Geltenhorn ,3065.0,46.34638889,7.33444444,True
+Cunturines / Conturines ,3064.0,46.57583333,11.97777778,False
+Hoher Prijakt ,3064.0,46.91555556,12.71277778,False
+Pte des Rochers Charniers ,3063.0,44.98777778,6.73555556,True
+Hoch Ducan ,3063.0,46.68944444,9.85138889,False
+Mont Fallère ,3061.0,45.77555556,7.19416667,True
+Pizzo Gallina ,3061.0,46.49472222,8.39194444,True
+Seeköpfe ,3061.0,47.04444444,10.2675,False
+Piz Grisch ,3060.0,46.53111111,9.47277778,False
+Rosenspitze ,3049.0,46.98833333,12.25444444,False
+Grand Queyron ,3060.0,44.84277778,7.00166667,True
+Grabspitze ,3059.0,46.93861111,11.61444444,False
+Monte Vago ,3059.0,46.44083333,10.07888889,False
+Sasso Vernale ,3058.0,46.41888889,11.84055556,False
+Bruschghorn ,3056.0,46.63111111,9.30666667,False
+Patteriol ,3056.0,47.04416667,10.1875,False
+Aig. des Corneillets ,3055.0,45.3225,6.66138889,True
+Innere Wetterspitze ,3053.0,46.99638889,11.24638889,False
+Piz Forun ,3052.0,46.65527778,9.865,False
+Grand Muveran ,3051.0,46.23722222,7.12611111,False
+Mont Pelat ,3051.0,44.265,6.70583333,True
+Pizzo Coca ,3050.0,46.07166667,10.01138889,False
+Piz Minor ,3049.0,46.45111111,10.02833333,False
+Gross Lohner ,3049.0,46.46194444,7.6,False
+Le Rochail (Pte de Malhaubert) ,3049.0,44.97527778,6.0325,True
+Aig. du Fruit ,3048.0,45.35555556,6.63138889,True
+Grand Argentier / Pta Nera ,3046.0,45.12222222,6.65861111,True
+Grand Bérard ,3046.0,44.44944444,6.65972222,True
+Piz Murtera ,3044.0,46.77527778,10.04027778,False
+Gross Wendenstock ,3042.0,46.76166667,8.38027778,False
+Monte Albergian ,3041.0,45.0075,6.99277778,True
+Piz Gannaretsch ,3040.0,46.61194444,8.78666667,False
+Alperschällihorn ,3039.0,46.58666667,9.30666667,False
+Pta Scais ,3039.0,46.06861111,9.98444444,False
+Bric Ghinivert ,3037.0,44.95138889,6.99111111,True
+Parseierspitze ,3036.0,47.17444444,10.47833333,False
+Hexenkopf ,3035.0,47.02111111,10.46944444,False
+Piz Umbrail ,3033.0,46.55083333,10.41444444,False
+Tête de Siguret ,3032.0,44.44166667,6.78833333,False
+Pizzo Ligoncio ,3032.0,46.23888889,9.54777778,False
+Becca di Vlou ,3032.0,45.69166667,7.79222222,True
+Piz S-chalembert ,3031.0,46.80083333,10.41333333,False
+Mont Ténibre / M. Tenibres ,3031.0,44.28388889,6.97222222,False
+Piz Cotschen ,3031.0,46.81305556,10.17694444,False
+Piz Por ,3028.0,46.50944444,9.38416667,False
+Bündner Vorab ,3028.0,46.87388889,9.15666667,False
+Corno di Ban ,3028.0,46.41777778,8.36111111,False
+Zehner / Sas dales Diesc ,3026.0,46.62222222,11.96055556,False
+Monte Politri ,3026.0,44.99111111,7.01861111,True
+Furchetta / Furcheta  ,3025.0,46.61222222,11.77333333,False
+Sas Rigais  ,3025.0,46.60916667,11.76666667,False
+Piz Corbet ,3025.0,46.37972222,9.28027778,False
+Corno Bussola / M de Boussolaz ,3024.0,45.79555556,7.73611111,True
+Wendenhorn ,3023.0,46.75388889,8.44361111,False
+Wurmaulspitze ,3022.0,46.91388889,11.63777778,False
+Pte de la Vallaisonnay ,3020.0,45.45805556,6.81777778,True
+Pic du Mas de la Grave ,3020.0,45.12083333,6.24611111,True
+Cimet ,3020.0,44.29,6.705,True
+Viso Mozzo ,3019.0,44.67472222,7.11,True
+Piz Blas ,3019.0,46.57722222,8.72805556,False
+Gamspleisspitze ,3015.0,46.93166667,10.24194444,False
+Hochreichkopf ,3010.0,47.17027778,10.96972222,False
+Cima dell'Uomo ,3010.0,46.40611111,11.80833333,False
+Monte Giove ,3009.0,46.36138889,8.38805556,False
+Acherkogel ,3008.0,47.18916667,10.95666667,False
+Monte Avic ,3007.0,45.67694444,7.55472222,True
+Älplihorn ,3006.0,46.71083333,9.82583333,False
+Ritterkopf ,3006.0,47.1025,12.94944444,False
+Furgler ,3004.0,47.04027778,10.51222222,False
+Kesselkogel / Catinaccio d'Antermoia ,3002.0,46.47444444,11.64361111,False
+Pizzas d'Anarosa / Grauhörner ,3002.0,46.59888889,9.31583333,False
+Gigalitz ,3001.0,47.05777778,11.89111111,False
+Große Zinne / Cima Grande di Lavaredo ,2999.0,46.61888889,12.30277778,False
+Pizzo Centrale ,2999.0,46.57805556,8.615,True
+Cima Falkner ,2999.0,46.19333333,10.90472222,False
+Piz Beverin ,2998.0,46.6525,9.35777778,False
+Pic d'Artsinol ,2998.0,46.115,7.42694444,True
+Bric Bouchet /Bric Bucie ,2997.0,44.82194444,7.02388889,True
+Hoher Dachstein ,2995.0,47.47527778,13.60555556,False
+Roignais ,2995.0,45.64305556,6.68888889,True
+Rote Säule ,2994.0,47.14666667,12.44388889,False
+Le Mourre Froid ,2993.0,44.63833333,6.40027778,True
+Grand Parpaillon ,2990.0,44.49388889,6.65194444,True
+Mittler Fanis / Fanis di Mezzo ,2989.0,46.55138889,12.01416667,False
+Felber Tauernkogel ,2988.0,47.15777778,12.48388889,False
+Piz de la Lumbreida ,2983.0,46.48111111,9.22527778,False
+Cima Bagni ,2983.0,46.61527778,12.41027778,False
+Pala di San Martino ,2982.0,46.25361111,11.85083333,False
+Rosengartenspitze / Cima Catinaccio ,2981.0,46.45472222,11.62083333,False
+Aroser Rothorn ,2980.0,46.73777778,9.61388889,False
+Ròthòre / Corno Rosso ,2979.0,45.76694444,7.88027778,True
+La Tsavre ,2978.0,45.91555556,7.12944444,False
+Grand Pic de Belledonne ,2977.0,45.17083333,5.99166667,True
+Pic de Colle Blanche ,2975.0,44.75333333,6.1725,False
+Monte Redival ,2973.0,46.30861111,10.61416667,False
+Tsa at a l'Etsena / Chateleysine ,2971.0,45.80138889,7.39972222,True
+Cima Ovest / Westliche Zinne ,2973.0,46.61861111,12.29722222,False
+Piz Curvér ,2972.0,46.60333333,9.49722222,False
+Wildgrat ,2971.0,47.14055556,10.82666667,False
+Schilthorn ,2970.0,46.5575,7.83472222,True
+Haut de Cry ,2969.0,46.24027778,7.195,True
+Grieshorn ,2969.0,46.45138889,8.39305556,False
+Dent de Morcles ,2969.0,46.19916667,7.07555556,True
+Piz Daint ,2968.0,46.61861111,10.29083333,False
+Neuner / Sas dles Nü ,2968.0,46.63027778,11.98111111,False
+Cima del Duca ,2968.0,46.28777778,9.79611111,False
+Serottini ,2967.0,46.29083333,10.34777778,False
+Schober ,2967.0,47.03444444,13.46833333,False
+Haunold ,2966.0,46.68861111,12.2775,False
+Schesaplana ,2965.0,47.05361111,9.7075,False
+Aig. du Belvédère ,2965.0,45.98777778,6.87361111,True
+Reißeck ,2965.0,46.94722222,13.36444444,False
+Monte Tagliaferro ,2964.0,45.8725,7.97083333,True
+Piz Turettas ,2963.0,46.58694444,10.33472222,False
+Pizzo Lucendro ,2963.0,46.53888889,8.51944444,False
+Zugspitze ,2962.0,47.42111111,10.98527778,False
+Weiße Spitze ,2962.0,46.87194444,12.35777778,False
+Rienzenstock ,2962.0,46.68305556,8.635,True
+Marchhorn / Pta del Termine ,2962.0,46.44861111,8.4625,False
+Tête de l'Estrop ,2961.0,44.28666667,6.50583333,True
+Cima Brenta Alta ,2961.0,46.16027778,10.89638889,False
+Piz Lagalb ,2959.0,46.43166667,10.02361111,False
+Cima Giner ,2957.0,46.23722222,10.7325,False
+Piz Miez ,2956.0,46.65472222,8.91666667,False
+Tête de L'Enchastraye / Enciastraia ,2954.0,44.3675,6.88833333,False
+Torent / Torrone Alto ,2952.0,46.34361111,9.07111111,False
+Brunnistock ,2952.0,46.84777778,8.55,False
+Crasta Mora ,2952.0,46.57138889,9.86805556,False
+Bättlihorn ,2951.0,46.3325,8.09388889,True
+Corni di Nefelgiú ,2951.0,46.39555556,8.37944444,True
+Hochgrabe ,2951.0,46.84888889,12.42166667,False
+Crête de Lacha ,2950.0,45.09722222,6.45944444,True
+Asta Soprana ,2950.0,44.20333333,7.31333333,True
+Piz Tomül / Wissensteinhorn ,2946.0,46.62333333,9.22833333,False
+Piz Cavel ,2946.0,46.65583333,9.01972222,False
+Einshorn ,2944.0,46.51611111,9.23027778,False
+Gölbner ,2943.0,46.82416667,12.505,False
+Hochkönig ,2941.0,47.42027778,13.0625,False
+Cime de la Condamine ,2940.0,44.8925,6.51972222,True
+Gross Schinhorn / Pta di Valdeserta ,2939.0,46.36111111,8.26083333,True
+Pte de la Louïe Blanche ,2939.0,45.66111111,6.91472222,True
+Pizzo del Ramulazz S ,2939.0,46.39666667,9.09277778,False
+Monte Unghiasse ,2939.0,45.41611111,7.295,True
+Pic de Chabrières  ,2938.0,44.57055556,6.62361111,True
+Mont / Testa Malinvern ,2938.0,44.19888889,7.18944444,False
+Cime di Plator ,2937.0,46.515,10.27055556,False
+Pietra Grande ,2937.0,46.23138889,10.89583333,False
+Monte Gruf ,2936.0,46.28611111,9.50583333,False
+Mont du Grand Capelet ,2935.0,44.07833333,7.4275,False
+Cimon del Froppa ,2932.0,46.50722222,12.34055556,False
+Monte Pettini ,2932.0,46.53611111,10.2275,False
+Bärenhorn ,2929.0,46.57555556,9.23194444,False
+Tête du Pelvas/Monte Palavas ,2929.0,44.79,6.99972222,True
+Rosställispitz ,2929.0,46.78916667,9.99361111,False
+Schwarzhorn ,2928.0,46.68611111,8.07555556,False
+Rocher Blanc ,2928.0,45.24166667,6.10722222,True
+Badus / Six Madun ,2928.0,46.6225,8.66361111,False
+Tête des Lauzières ,2928.0,44.87416667,6.52833333,True
+Vollandspitze ,2928.0,47.01861111,10.17666667,False
+Eggishorn ,2927.0,46.43138889,8.09416667,True
+Cima Bastioni Sud ,2926.0,46.48527778,12.26777778,False
+Pizzo del Diavolo della Malgina ,2926.0,46.08472222,10.04666667,False
+Edlenkopf ,2923.0,47.13638889,12.92638889,False
+Mährenhorn ,2923.0,46.69166667,8.31083333,False
+Birkenkofel ,2922.0,46.68083333,12.25666667,False
+Mont Revic ,2922.0,45.68916667,7.56444444,True
+Hochgasser ,2922.0,47.15055556,12.52194444,False
+Aig. du Grand Fond ,2920.0,45.66638889,6.67083333,True
+Monte Ciorneva ,2918.0,45.26833333,7.26027778,False
+Mulleter Seichenkopf ,2918.0,46.91527778,12.83138889,False
+Corno di Flavona ,2918.0,46.24555556,10.89694444,False
+Cima Bel Pra ,2917.0,46.48444444,12.24111111,False
+Dent Favre ,2917.0,46.21027778,7.10388889,True
+Pizzo del Diavolo di Tenda ,2916.0,46.04527778,9.90805556,False
+Pte Côte de l'Âne ,2916.0,44.24444444,6.80472222,True
+Maresenspitz ,2916.0,47.00416667,13.23027778,False
+L'Aupillon ,2916.0,44.44888889,6.57861111,True
+Glärnisch ,2915.0,46.995,8.99527778,False
+Pflunspitze ,2912.0,47.07944444,10.13277778,False
+Cristallina ,2912.0,46.46472222,8.53694444,True
+Beco Alto del Piz ,2912.0,44.29888889,6.98083333,False
+Monte Torena ,2911.0,46.08833333,10.10305556,False
+Pic du Béal Traversier ,2910.0,44.75694444,6.68944444,True
+Aig. de Cédéra ,2909.0,44.73861111,6.28472222,False
+Grande Séolane ,2909.0,44.33777778,6.54638889,True
+Puy Gris ,2908.0,45.29583333,6.14611111,True
+Pizzo Diei ,2906.0,46.26472222,8.23805556,False
+Les Grandes Aigs ,2905.0,45.70555556,6.785,True
+Signal du Lauvitel E ,2904.0,44.93888889,6.0475,True
+Pic de Peyre Eyraute ,2903.0,44.82277778,6.63055556,True
+Piz Combul ,2901.0,46.22972222,10.04388889,False
+Grand Chavalard ,2899.0,46.17861111,7.11305556,True
+Becca di Nona ,2898.0,45.83972222,7.41611111,True
+Le Pouzenc ,2898.0,44.45916667,6.51694444,True
+Monte Frisozzo ,2897.0,46.02444444,10.44916667,False
+Holzgauer Wetterspitze ,2895.0,47.20638889,10.36944444,False
+Reinhart ,2891.0,47.04222222,12.17972222,False
+Regenstein ,2891.0,46.86055556,12.49055556,False
+Monte Orsiera ,2890.0,45.06388889,7.10722222,False
+Schwarzhorn / Piz Gren ,2890.0,46.6775,9.02277778,False
+Monte Re di Castello ,2889.0,46.02166667,10.48333333,False
+Vorderseespitze ,2889.0,47.18472222,10.36694444,False
+Napfspitze ,2888.0,46.93694444,11.73944444,False
+Schildflue ,2887.0,46.88055556,9.95638889,False
+Wissigstock ,2887.0,46.84555556,8.50666667,False
+Lizumer Reckner ,2886.0,47.14388889,11.63083333,False
+Guggernüll ,2886.0,46.52388889,9.27138889,False
+Le Chevalier ,2886.0,44.33055556,6.75916667,False
+Pizzo Recastello ,2886.0,46.05694444,10.07555556,False
+Rietzer Grießkogel ,2884.0,47.24583333,11.05944444,False
+Monteaviolo ,2881.0,46.18527778,10.39861111,False
+Pte de la Terrasse ,2881.0,45.67083333,6.72472222,True
+Piz Fess ,2880.0,46.7275,9.28861111,False
+Cima della Sasse ,2878.0,46.35694444,12.06444444,False
+Moiazza Sud ,2878.0,46.33833333,12.05805556,False
+Pte de Cloutzau ,2878.0,45.00722222,6.7475,False
+Peitlerkofel / Sas de Pütia ,2875.0,46.65888889,11.82,False
+Eisentälispitze ,2875.0,46.91333333,9.9625,False
+Schwalbenkofel ,2873.0,46.65222222,12.27027778,False
+Monte Carbonè ,2873.0,44.16027778,7.43055556,True
+Monte Agnèr ,2872.0,46.27638889,11.95277778,False
+Mont Bégo ,2872.0,44.07388889,7.45083333,False
+Tête des Vieux  ,2871.0,45.75888889,6.935,False
+Grand Aréa ,2869.0,44.98,6.57333333,True
+Kolbenspitze ,2868.0,46.77277778,11.14777778,False
+Pta Cornour ,2867.0,44.85055556,7.09305556,False
+Tête de Gaulent ,2867.0,44.71888889,6.52555556,True
+Nufenenstock ,2866.0,46.46694444,8.38833333,False
+Rocher de Plassa ,2865.0,45.37305556,6.68916667,True
+Triglav ,2864.0,46.37805556,13.83694444,False
+Pala di Meduce ,2864.0,46.50194444,12.2975,False
+Poncione di Braga ,2864.0,46.43416667,8.54277778,False
+Wandfluhhorn / Pizzo Biela ,2863.0,46.34472222,8.46416667,False
+Hochgolling ,2862.0,47.26611111,13.76111111,False
+Cima de Barna ,2862.0,46.42055556,9.26361111,False
+Le Taillefer ,2857.0,45.03972222,5.92444444,True
+Gstellihorn ,2855.0,46.66222222,8.17472222,False
+Piz di Sassiglion ,2855.0,46.32277778,10.1125,False
+Petite Séolane ,2854.0,44.3575,6.53,True
+Cima Ciantiplagna ,2849.0,45.07222222,7.01333333,False
+Croda Granda ,2849.0,46.24861111,11.92861111,False
+Cima d'Asta ,2847.0,46.17666667,11.60527778,False
+Pta Nera ,2847.0,46.51638889,12.19166667,False
+Cima del Desenigo ,2845.0,46.20166667,9.56166667,False
+Pizol ,2844.0,46.95916667,9.38666667,False
+Punta Charrà / Sommet du Charra ,2844.0,45.02138889,6.71027778,False
+Weissfluh ,2843.0,46.835,9.79527778,False
+Pic de Beaudouis ,2843.0,44.83638889,6.69444444,True
+Schneekarkopf ,2843.0,47.14111111,12.03555556,False
+Cornone di Blumone ,2843.0,45.95472222,10.45583333,True
+Latemar (Diamantiditurm) ,2842.0,46.38111111,11.57527778,False
+Cima di Gana Bianca ,2842.0,46.47138889,8.99222222,False
+Kirchdachspitze ,2840.0,47.06722222,11.34194444,False
+Dürrenstein ,2839.0,46.6725,12.18527778,False
+Cima Cadin di San Lucano ,2839.0,46.5775,12.28805556,False
+Grand Cheval de Bois ,2838.0,44.2925,6.63388889,False
+Kärlskopf ,2836.0,46.88861111,12.23611111,False
+Tête du Clotonnet ,2835.0,44.84277778,6.10111111,False
+Gamskarlspitz ,2833.0,47.03694444,13.1625,False
+Cheval Noir ,2832.0,45.42194444,6.41388889,True
+Rocca la Meja ,2831.0,44.39833333,7.06888889,False
+Drei Türme / Drusentürme ,2830.0,47.02472222,9.81,False
+Aig. de Venosc ,2830.0,44.96805556,6.08722222,True
+Grand Pic de la Lauzière ,2829.0,45.45916667,6.36666667,True
+Pirchkogel ,2828.0,47.23194444,10.99916667,False
+Große Schlenkerspitze ,2827.0,47.24888889,10.61527778,False
+Graunock ,2827.0,46.88611111,11.78888889,False
+Cime de Bolofré ,2827.0,44.22305556,6.83527778,False
+Madrisahorn ,2826.0,46.93111111,9.87222222,False
+Kalkwand ,2826.0,47.15388889,11.66166667,False
+Grand Perron des Encombres ,2824.0,45.29777778,6.45027778,True
+Tête de l'Hivernet ,2824.0,44.62,6.45305556,True
+Hoher Herd ,2824.0,47.19944444,12.45,False
+Hochmaderer ,2823.0,46.92861111,10.02861111,False
+Le Bellachat ,2822.0,45.37972222,6.39694444,True
+Riedbock  ,2822.0,46.92861111,13.35666667,False
+Monfandì ,2820.0,45.52194444,7.61944444,True
+Sulzfluh ,2818.0,47.0125,9.83972222,False
+Mont Mounier ,2817.0,44.15472222,6.9725,False
+Dosso Resaccio ,2814.0,46.50111111,10.22,False
+Sass Maòr ,2814.0,46.2325,11.84805556,False
+Vallüla ,2813.0,46.9375,10.1125,False
+Cima delle Lose ,2813.0,44.37222222,6.925,False
+Frate della Meia ,2812.0,45.75888889,7.92416667,True
+Seekofel / Sas dla Porta ,2810.0,46.675,12.0725,False
+Valluga ,2809.0,47.1575,10.21305556,False
+Monte Campellio ,2809.0,46.05138889,10.47722222,False
+Peiderspitze  ,2808.0,47.21972222,11.12166667,False
+Seejoch  ,2808.0,47.22444444,11.10305556,False
+Pizzo Castello ,2808.0,46.41555556,8.56527778,False
+Pic du Frêne ,2807.0,45.3525,6.19833333,True
+Haldensteiner Calanda ,2805.0,46.9,9.4675,False
+Cima de Gagela ,2805.0,46.38416667,9.17472222,False
+Tête à l'Âne ,2804.0,45.98722222,6.77972222,True
+Corona di Redorta ,2804.0,46.37555556,8.73222222,False
+Schlicker Seespitze ,2804.0,47.14555556,11.27333333,False
+Bös Fulen ,2802.0,46.96722222,8.94583333,False
+Cima di Ball ,2802.0,46.24305556,11.84444444,False
+Corno Mud ,2802.0,45.88444444,7.96388889,True
+Rollspitze ,2800.0,46.94638889,11.50777778,False
+Rosenjoch ,2796.0,47.18,11.54333333,False
+Col Bechei / Pareispitze ,2794.0,46.60777778,12.04444444,False
+Kärpf ,2794.0,46.91666667,9.09333333,False
+Drättehorn ,2794.0,46.58222222,7.82388889,True
+Pizzo Quadro ,2793.0,46.29861111,8.41805556,False
+Grand Armet ,2792.0,44.98194444,5.93444444,True
+Pta Ciamberline ,2792.0,44.16555556,7.35805556,True
+Grande Tête de l'Obiou ,2790.0,44.77472222,5.83972222,True
+Pizzo Marumo ,2790.0,46.59833333,8.95944444,False
+Muntejela de Senes ,2787.0,46.67166667,12.01833333,False
+Le Luisin ,2786.0,46.12083333,6.97,True
+Polinik ,2784.0,46.895,13.15805556,False
+Schrotkopf ,2784.0,47.20888889,12.54055556,False
+Grande Autane ,2782.0,44.64916667,6.28777778,False
+Hirzer ,2781.0,46.73722222,11.27666667,False
+Tiejer Flue ,2781.0,46.78083333,9.73444444,False
+Hohe Warte / Coglians ,2780.0,46.60694444,12.88305556,False
+Monte dei Corni ,2779.0,45.57083333,7.63583333,False
+Monte Cassorso ,2776.0,44.41777778,7.01805556,False
+Grun de Saint-Maurice ,2775.0,44.81611111,6.05722222,False
+Imster Muttekopf ,2774.0,47.26722222,10.65166667,False
+Pizzo del Sole ,2773.0,46.525,8.76777778,False
+Pta Lunella ,2772.0,45.19722222,7.21638889,False
+Große Sandspitze ,2770.0,46.76638889,12.81194444,False
+Madererspitze ,2769.0,47.025,10.06972222,False
+Fallesinspitze ,2769.0,47.18138889,10.30027778,False
+Hochsteinflache ,2769.0,47.15888889,11.99777778,False
+Hochplattig ,2768.0,47.35305556,10.98861111,False
+Il Madone  ,2768.0,46.49194444,8.56694444,False
+Dristner ,2767.0,47.11333333,11.83944444,False
+Schwarzkopf ,2765.0,47.16694444,12.86083333,False
+Schächentaler Windgällen ,2764.0,46.88805556,8.79166667,False
+Schwarzberg / Piz Nair ,2764.0,46.60944444,8.67777778,False
+Albristhorn ,2763.0,46.49805556,7.48777778,True
+Rotenkogel ,2762.0,46.98,12.59888889,False
+Rastkogel ,2762.0,47.20416667,11.75111111,False
+Pizzo Massari ,2760.0,46.47583333,8.68333333,False
+Dent de Barme ,2759.0,46.13194444,6.84194444,True
+Grand Ferrand ,2758.0,44.7225,5.81611111,True
+Reeti / Rötihorn ,2757.0,46.665,8.01166667,False
+Ehrenspitze ,2756.0,46.76388889,11.07777778,False
+Roche de l'Abisse/Rocca dell'Abisso ,2755.0,44.14361111,7.505,True
+Cima di Cece ,2754.0,46.26083333,11.68388889,False
+Monte Telenek ,2754.0,46.0925,10.17916667,False
+Jôf dal Montâs ,2753.0,46.43583333,13.43361111,False
+Untere Wildgrubenspitze ,2753.0,47.165,10.12638889,False
+Östliche Eisentalerspitze ,2753.0,47.07972222,10.1,False
+Pic de Valsenestre ,2752.0,44.88666667,6.0675,False
+Pte Percée ,2750.0,45.95555556,6.55611111,True
+Birkkarspitze ,2749.0,47.41111111,11.43777778,False
+Alplerspitz / Mardatsch ,2748.0,46.76166667,11.30111111,False
+Sommet de La Frema ,2747.0,44.15194444,6.69861111,False
+Hochwildstelle ,2747.0,47.335,13.83083333,False
+Corno del Lago ,2747.0,45.67083333,7.78305556,True
+Hochwart ,2746.0,46.79083333,11.31888889,False
+Cima Bocche ,2745.0,46.35416667,11.75222222,False
+Jakobsspitze ,2745.0,46.76305556,11.49166667,False
+Sadnig ,2745.0,46.94111111,12.98916667,False
+Hochwanner ,2744.0,47.39611111,11.05583333,False
+Roteck ,2742.0,47.23,13.85055556,False
+Ärmighore ,2742.0,46.54166667,7.71361111,False
+Madom Gröss ,2741.0,46.36666667,8.83111111,False
+Cima Carnera ,2741.0,45.855,7.97027778,True
+Škrlatica ,2740.0,46.43277778,13.82111111,False
+Kasereck ,2740.0,47.2375,13.77166667,False
+Schenadüi ,2738.0,46.5525,8.74861111,False
+Spitzhorli ,2737.0,46.26444444,7.98055556,False
+Monte Zucchero ,2735.0,46.35416667,8.71416667,False
+Kaltwasserkarspitze ,2733.0,47.40305556,11.45055556,False
+Dremelspitze ,2733.0,47.235,10.59583333,False
+Pic des Cabottes ,2732.0,45.24194444,6.06388889,True
+Clot de la Cime ,2732.0,44.81666667,6.72194444,True
+Monte Borga ,2731.0,46.09305556,10.20833333,False
+Dzerbion /Monte Zerbion ,2720.0,45.78833333,7.66388889,True
+Le Grand Coin ,2729.0,45.34611111,6.40222222,True
+Kesselspitze ,2728.0,47.10055556,11.36472222,False
+Bergwerkskopf  ,2728.0,47.225,10.60916667,False
+Sas de Mezdi / La Mesola ,2727.0,46.47194444,11.8775,False
+Pizzo di Claro ,2727.0,46.29583333,9.05555556,False
+Pizzo di Prata ,2727.0,46.2775,9.45555556,False
+Großer Bettelwurf ,2726.0,47.34416667,11.52,False
+Hirzer ,2725.0,47.21777778,11.66305556,False
+Schmalzkopf ,2724.0,46.93138889,10.53583333,False
+Weiße Wand ,2722.0,46.94583333,11.81361111,False
+Hochwand ,2719.0,47.35861111,11.01583333,False
+Spitzkofel ,2717.0,46.77222222,12.74333333,False
+Serles ,2717.0,47.12388889,11.38111111,False
+Ortstock ,2716.0,46.92527778,8.94805556,False
+Valisera ,2716.0,46.96083333,9.95583333,False
+Cima Ambrizzola ,2715.0,46.47916667,12.09805556,False
+Colàc ,2715.0,46.44138889,11.7825,False
+Watzmann ,2713.0,47.555,12.92305556,False
+Pizzo Straciugo ,2713.0,46.13222222,8.12083333,False
+Croda da Campo ,2712.0,46.58944444,12.43416667,False
+Weißeck ,2711.0,47.1625,13.39416667,False
+Mont Saint-Sauveur ,2711.0,44.16472222,7.13555556,False
+Mont Gond ,2710.0,46.28555556,7.26361111,True
+Pic de Bure ,2709.0,44.62666667,5.935,False
+Hochkreuz ,2709.0,46.815,13.07416667,False
+Gsür ,2708.0,46.51083333,7.51972222,False
+Coston di Slavaci ,2708.0,46.26222222,11.71694444,False
+Cima dei Preti ,2706.0,46.3425,12.42083333,False
+Penser Weißhorn ,2705.0,46.80194444,11.39555556,False
+Pizzo Montalto ,2705.0,46.0975,8.13305556,False
+Rote Wand ,2704.0,47.18638889,9.985,False
+Monte Fraiteve ,2702.0,44.97722222,6.86138889,False
+Waldhorn ,2702.0,47.29611111,13.8175,False
+Rotsandnollen ,2700.0,46.80055556,8.34388889,False
+Cima Iuribrutto ,2697.0,46.35916667,11.76527778,False
+Großer Lafatscher ,2696.0,47.34555556,11.45277778,False
+Monte Peralba ,2694.0,46.62944444,12.71944444,False
+Piz de Groven ,2694.0,46.31833333,9.15916667,False
+Grand Coyer ,2693.0,44.10055556,6.69027778,False
+Tête du Colonney ,2692.0,45.97166667,6.69083333,True
+Ilmspitze ,2692.0,47.05722222,11.33027778,False
+Große Kinigat / Monte Cavallino ,2689.0,46.67527778,12.52444444,False
+Piz Pian Grand ,2689.0,46.4175,9.15555556,False
+Aigs de la Pennaz ,2688.0,45.745,6.69944444,True
+Hochfeind ,2687.0,47.18722222,13.495,False
+Schwabenalpenkopf ,2687.0,46.64527778,12.28666667,False
+Grand Mont ,2686.0,45.63194444,6.53722222,True
+Cima del Serraglio ,2685.0,46.59277778,10.24222222,False
+Deichselspitze ,2684.0,47.27027778,13.82222222,False
+Chapeau de Gendarme ,2682.0,44.33833333,6.66583333,False
+Leutascher Dreitorspitze ,2682.0,47.40055556,11.12444444,False
+Hochstadel ,2681.0,46.76,12.85722222,False
+Mosermandl ,2680.0,47.20611111,13.39611111,False
+Mangart ,2679.0,46.43944444,13.65472222,False
+Spullerschafberg ,2679.0,47.17388889,10.07583333,False
+Pta Tempesta ,2679.0,44.42194444,7.13833333,False
+Cima di Santa Maria ,2678.0,46.21277778,10.95083333,False
+Gaflunakopf ,2676.0,47.06388889,10.13472222,False
+Piz della Forcola ,2675.0,46.31638889,9.29333333,False
+Mont Pépoiri ,2674.0,44.11083333,7.20277778,False
+Mont Rougnous ,2673.0,44.18416667,6.87388889,False
+Elendberg ,2672.0,47.28388889,13.74694444,False
+Ballunspitze ,2671.0,46.95527778,10.135,False
+Stübele / Stubele ,2671.0,46.46777778,10.93666667,False
+Sas Ciampac / Ciampatsch ,2671.0,46.56305556,11.83527778,False
+Le Grand Miceau ,2669.0,45.37111111,6.21222222,True
+Monte Duranno  ,2668.0,46.32888889,12.40277778,False
+Südliche Sonnenspitze ,2668.0,47.38666667,11.47777778,False
+Jôf Fuart / Wischberg / Viš ,2666.0,46.43055556,13.49138889,False
+Les Avoudrues ,2666.0,46.10111111,6.81305556,True
+Monte Bruffione ,2665.0,45.94222222,10.49138889,True
+Monte Cernera ,2664.0,46.46888889,12.05833333,False
+Toblacher Pfannhorn ,2663.0,46.78388889,12.28416667,False
+Hohe Munde ,2662.0,47.34777778,11.07194444,False
+Grünstein ,2661.0,47.34888889,10.92138889,False
+Pte Rousse des Chambres ,2660.0,46.11277778,6.82027778,True
+Pizzo Giezza ,2658.0,46.17916667,8.19666667,False
+Piz Toissa ,2657.0,46.61861111,9.525,False
+Großer Krottenkopf ,2656.0,47.31166667,10.35583333,False
+Ilmenspitze /Cima degli Olmi ,2656.0,46.48194444,10.96388889,False
+Selbhorn ,2655.0,47.44694444,12.96361111,False
+Sommet du Guiau ,2654.0,45.02,6.67361111,False
+Faulkogel ,2654.0,47.21611111,13.3725,False
+Schönfeldspitze ,2653.0,47.45805556,12.9375,False
+Tullen ,2653.0,46.65361111,11.775,False
+Männliflue ,2652.0,46.55138889,7.54638889,False
+Hohes Licht ,2651.0,47.28027778,10.27611111,False
+Pta Marguareis ,2650.0,44.17388889,7.68444444,True
+Le Chenaillet ,2650.0,44.90222222,6.74055556,False
+Braunarlspitze ,2649.0,47.22944444,10.06444444,False
+Averau ,2649.0,46.50083333,12.03694444,False
+Jalovec ,2645.0,46.42166667,13.67972222,False
+Crête des Crousas ,2645.0,44.72305556,6.66055556,True
+Zimba ,2643.0,47.09138889,9.78888889,False
+Heiterwand ,2639.0,47.31444444,10.73444444,False
+Hocheck ,2638.0,47.23611111,13.72416667,False
+Kleiner Solstein ,2637.0,47.3025,11.32444444,False
+Birnhorn ,2634.0,47.47472222,12.73388889,False
+Crêt du Rey ,2633.0,45.60138889,6.59944444,True
+Urbeleskarspitze ,2632.0,47.33666667,10.46861111,False
+Großstein ,2632.0,47.23777778,10.49444444,False
+Rüfispitze ,2632.0,47.19111111,10.18222222,False
+Monte Mongioie ,2630.0,44.175,7.78555556,False
+Munt Buffalora ,2630.0,46.62694444,10.25,False
+Ultner Hochwart ,2627.0,46.51166667,10.99972222,False
+Blutspitze / Steinkarspitze ,2626.0,47.24972222,13.68583333,False
+Monte Pradella ,2626.0,45.99222222,9.85055556,False
+Cima d'Auta Orientale ,2624.0,46.40055556,11.88611111,False
+Valschavielberge ,2624.0,47.00944444,10.12666667,False
+Le Rissiou ,2622.0,45.18361111,6.06805556,True
+Greifenberg ,2618.0,47.28916667,13.78972222,False
+Monte Stelle delle Sute ,2616.0,46.21083333,11.53333333,False
+Grande Balmaz ,2616.0,45.89333333,6.49666667,True
+Piz Cavradi ,2614.0,46.6325,8.69555556,False
+Pizzo dell'Alpe Gelato ,2613.0,46.24972222,8.44416667,False
+Le Gros Têt ,2613.0,45.07527778,6.23972222,False
+Cima Bianca ,2612.0,46.38777778,8.8125,False
+Monte le Stelière ,2612.0,44.26583333,7.10722222,False
+Foostock / Ruchen ,2611.0,46.95666667,9.24472222,False
+Monte Legnone ,2609.0,46.09472222,9.41472222,False
+Sommet d'Assan ,2609.0,44.68555556,6.73611111,False
+Mittlere Jägerkarspitze ,2608.0,47.35361111,11.37583333,False
+Hochkalter ,2607.0,47.56944444,12.86666667,False
+Cima del Rouss ,2604.0,44.32111111,7.0,False
+Campanile Ciastelin ,2602.0,46.51083333,12.37722222,False
+Becco di Mezzodì ,2602.0,46.46666667,12.11444444,False
+Schafseitenspitze ,2602.0,47.10277778,11.55444444,False
+Razor ,2601.0,46.41194444,13.79194444,False
+Monte Cabianca ,2601.0,46.01,9.86694444,False
+Monte Mars ,2600.0,45.63333333,7.91527778,True
+Silberpfennig ,2600.0,47.08916667,13.04166667,False
+Großer Knallstein ,2599.0,47.32,13.97694444,False
+Vorder Grauspitz ,2599.0,47.05277778,9.58111111,False
+Biberkopf ,2599.0,47.27055556,10.23277778,False
+Le Catogne ,2598.0,46.05416667,7.11083333,True
+Zellinkopf ,2597.0,46.89416667,12.95138889,False
+Großer Hundstod ,2594.0,47.5125,12.88666667,False
+Roc du Bécoin ,2594.0,45.49277778,6.66388889,True
+Gametzalpenkopf ,2594.0,46.68916667,12.10888889,False
+Pizzo Paglia ,2593.0,46.23166667,9.21916667,False
+Monte Forno / Gorio ,2593.0,46.29527778,8.32361111,False
+Hochvogel ,2592.0,47.37972222,10.43694444,False
+Zwölferspitz ,2592.0,46.66166667,12.72833333,False
+Eggenkofel ,2591.0,46.73861111,12.67805556,False
+Rupprechtseck ,2591.0,47.23944444,14.00138889,False
+Kanin ,2587.0,46.36,13.43833333,False
+Monte Terza Grande ,2586.0,46.52694444,12.62138889,False
+Monte Cridola ,2581.0,46.42638889,12.48666667,False
+Hochspitz / M. Vancomun ,2581.0,46.65722222,12.66861111,False
+Ruitelspitze ,2580.0,47.25555556,10.44611111,False
+Mont Triboulet ,2578.0,44.20611111,6.86583333,False
+Türchlwand ,2577.0,47.15083333,13.0325,False
+Plose (Große Gabler) ,2576.0,46.68972222,11.76305556,False
+Stätzerhorn ,2575.0,46.75583333,9.51222222,False
+Cima delle Buse ,2574.0,46.18611111,11.49805556,False
+Pfannenstock ,2573.0,46.96166667,8.91138889,False
+Westlicher Johanneskopf ,2573.0,47.21027778,10.0225,False
+Torrione dei Longerin ,2571.0,46.62916667,12.56138889,False
+Setsas ,2571.0,46.51944444,11.9575,False
+Kanjavec ,2569.0,46.36027778,13.80972222,False
+Tête du Collier ,2567.0,44.71722222,5.96416667,False
+Maurerkopf ,2567.0,46.71277778,12.03388889,False
+Schiara ,2565.0,46.23,12.18222222,False
+Hinter Planitzer ,2562.0,47.21777778,12.63694444,False
+Grand Galbert ,2561.0,45.09055556,5.95972222,True
+Grintovec ,2558.0,46.35694444,14.53611111,False
+Kreuzjoch ,2558.0,47.25138889,11.98277778,False
+Monte Bo ,2556.0,45.71416667,7.99888889,True
+Wolayer Seekopf / Monte Capolago ,2554.0,46.60611111,12.86083333,False
+Pizzo Tre Signori ,2554.0,46.01194444,9.52833333,False
+Modeon del Buinz ,2554.0,46.41666667,13.47111111,False
+Namloser Wetterspitze ,2553.0,47.32305556,10.64166667,False
+Kirchlispitzen ,2552.0,47.03888889,9.76944444,False
+Tàmer Piccolo ,2550.0,46.31055556,12.12194444,False
+Concarena (Cima della Bacchetta) ,2549.0,46.01083333,10.28,False
+Monte Brentoni ,2548.0,46.51277778,12.56583333,False
+Le Tarent ,2548.0,46.38222222,7.1475,True
+Monfalcon di Montanaia ,2548.0,46.40444444,12.48611111,False
+Sass de Mura ,2547.0,46.16361111,11.92527778,False
+Rosso di Ribia ,2547.0,46.26111111,8.52972222,False
+Prisojnik ,2547.0,46.42527778,13.77,False
+Hochnissl ,2547.0,47.36722222,11.61805556,False
+Les Aig.ttes ,2547.0,45.18388889,6.125,True
+Crest / Monte Cresto ,2546.0,45.68083333,7.91,True
+L'Aig. Rouge ,2545.0,45.04611111,6.64444444,False
+Predigstuhl ,2543.0,47.26194444,13.91138889,False
+Monte Talvena ,2542.0,46.26611111,12.15583333,False
+Giferspitz ,2542.0,46.45111111,7.35333333,False
+Mohnenfluh ,2542.0,47.23222222,10.10222222,False
+Pöngertlekopf & Pfaffeneck  ,2539.0,47.17416667,10.03444444,False
+Östliche Karwendelspitze ,2537.0,47.445,11.42194444,False
+Pizzo Cavregasco ,2535.0,46.23944444,9.27638889,False
+Glogghüs ,2534.0,46.76055556,8.2625,False
+Hochwang ,2534.0,46.87416667,9.63305556,False
+Pte de Comborsier ,2534.0,45.61027778,6.51555556,True
+Großer Widderstein ,2533.0,47.28472222,10.12916667,False
+Cima Quarazza ,2530.0,46.12972222,11.57,False
+Cima Coltorondo ,2530.0,46.25583333,11.63805556,False
+Gurpitscheck ,2526.0,47.21083333,13.61472222,False
+Gamskofel ,2526.0,46.63083333,12.90083333,False
+Mont Joly ,2525.0,45.82611111,6.69305556,True
+Magerrain ,2524.0,47.03305556,9.22,False
+Hocheisspitze ,2523.0,47.54694444,12.84333333,False
+Hoher Göll ,2522.0,47.59416667,13.06777778,False
+Presolana ,2521.0,45.95666667,10.05527778,True
+Monte delle Scale ,2521.0,46.5025,10.32666667,False
+Tschuggen ,2521.0,46.60027778,7.94972222,False
+Hochjoch ,2520.0,47.06611111,9.98805556,False
+Dreispitz ,2520.0,46.59277778,7.75972222,False
+Steinwand / Creta Verde ,2520.0,46.64277778,12.79222222,False
+Cima di Bri ,2520.0,46.30527778,8.88416667,False
+Monte Seleron ,2519.0,46.1,9.72888889,False
+Großer Priel ,2515.0,47.71694444,14.06333333,False
+Chaiserstock ,2515.0,46.92833333,8.72861111,False
+Cima Busa Alta ,2513.0,46.24972222,11.60944444,False
+Glanderspitze ,2512.0,47.14833333,10.66166667,False
+Pizzo Arera ,2512.0,45.93472222,9.81583333,True
+Pizzo Alto ,2512.0,46.0775,9.45666667,False
+Großes Ochsenhorn ,2511.0,47.53833333,12.66083333,False
+Villanderer Berg ,2509.0,46.65861111,11.41888889,False
+Mitterhorn ,2506.0,47.54944444,12.62861111,False
+Dormillouse ,2505.0,44.40972222,6.38694444,False
+Breithorn ,2504.0,47.45694444,12.90277778,False
+Cima di Pape / Cima di Sanson ,2503.0,46.33444444,11.92805556,False
+Piz Ledu ,2503.0,46.2325,9.32166667,False
+Säntis ,2502.0,47.24944444,9.34333333,False
+Großer Pleißlingkeil ,2501.0,47.22722222,13.49138889,False
+Marchkopf ,2499.0,47.25111111,11.80611111,False
+Castello di Moschesin ,2499.0,46.29722222,12.13277778,False
+Monte Croce ,2496.0,46.16944444,11.39222222,False
+Mittlere Kreuzspitze ,2496.0,47.33611111,10.59277778,False
+Les Grands Moulins ,2495.0,45.40722222,6.19833333,True
+Wannig ,2493.0,47.33694444,10.86222222,False
+Pizzo Camino ,2491.0,45.98166667,10.1775,False
+Fulen ,2491.0,46.91861111,8.71472222,False
+Viezzena ,2490.0,46.3375,11.67555556,False
+Zanggen / Pala di Santa ,2488.0,46.34583333,11.51194444,False
+Creton di Clap Grant  ,2487.0,46.52916667,12.67055556,False
+Cima di Pinadee ,2486.0,46.51333333,8.97694444,False
+Grand Arc ,2484.0,45.56666667,6.36472222,True
+Étale (mountain) ,2483.0,45.85,6.44777778,True
+Monte Bertrand ,2483.0,44.11777778,7.67527778,False
+Rammelstein ,2483.0,46.83444444,12.05305556,False
+Hochkarspitze ,2482.0,47.4475,11.35055556,False
+Rauchberg ,2480.0,47.30416667,10.75888889,False
+Monte Pramaggiore ,2478.0,46.365,12.55333333,False
+Monte Ziolera ,2478.0,46.17194444,11.455,False
+Spillgerte ,2476.0,46.53666667,7.44666667,True
+Rettelkirchspitze ,2475.0,47.25972222,14.12777778,False
+Bivare / Monte Bìvera ,2474.0,46.44138889,12.64194444,False
+Greim ,2474.0,47.24777778,14.15166667,False
+Monte Rinaldo ,2473.0,46.59888889,12.65805556,False
+Pierre Avoi ,2473.0,46.11805556,7.20027778,False
+Špik ,2473.0,46.44861111,13.81444444,False
+Rappenspitze ,2472.0,47.23666667,10.1975,False
+Col Nudo ,2471.0,46.2275,12.40277778,False
+Loreakopf ,2471.0,47.35416667,10.77166667,False
+Cime de l'Aspre ,2471.0,44.17555556,6.80972222,False
+Lungauer Kalkspitze ,2471.0,47.27222222,13.62527778,False
+Ochsenkopf  ,2470.0,47.27527778,12.07888889,False
+Salzachgeier  ,2470.0,47.29361111,12.10361111,False
+Sasso di Bosconero ,2468.0,46.33638889,12.26861111,False
+Cima Scanaiol ,2467.0,46.215,11.76583333,False
+Gamskarkogel ,2467.0,47.16111111,13.15861111,False
+Hauts-Forts ,2466.0,46.16861111,6.7775,True
+Pizzo la Scheggia ,2466.0,46.18416667,8.41527778,False
+Creta Forata ,2462.0,46.5425,12.73583333,False
+Silberspitze ,2461.0,47.18416667,10.57277778,False
+Mont Mirantin ,2460.0,45.68416667,6.49944444,True
+Pte de la Grande Journée ,2460.0,45.6675,6.50111111,True
+Rauchkofel ,2460.0,46.61944444,12.88333333,False
+Cima dei Lasteri ,2459.0,46.17694444,10.94833333,False
+Große Bischofsmütze ,2458.0,47.49388889,13.51111111,False
+Gummfluh ,2458.0,46.44055556,7.195,True
+Sonnjoch ,2457.0,47.41222222,11.605,False
+Hohniesen ,2454.0,46.57722222,7.58333333,False
+Rumer Spitze ,2454.0,47.32027778,11.42583333,False
+Rocher Rond ,2453.0,44.6975,5.82944444,False
+Gamsjoch ,2452.0,47.41833333,11.54888889,False
+Monte Bussaia ,2451.0,44.21805556,7.46805556,True
+Pomagagnon ,2450.0,46.57388889,12.14027778,False
+Cima Cadi ,2449.0,46.22361111,10.29444444,False
+Großer Bösenstein ,2448.0,47.44333333,14.40444444,False
+Spitzmauer ,2446.0,47.69527778,14.06222222,False
+Monte Spondone ,2445.0,45.98055556,9.79472222,True
+Kröndlhorn ,2444.0,47.29888889,12.16472222,False
+Monte Siera ,2443.0,46.54916667,12.71083333,False
+Eisenhut ,2441.0,46.95194444,13.92888889,False
+Mürtschenstock ,2441.0,47.07,9.14416667,False
+Großer Rosennock ,2440.0,46.8775,13.7125,False
+Schwarzhorn ,2439.0,46.33472222,11.45472222,False
+Pte Blanche ,2438.0,45.99944444,6.45972222,True
+Gufelstock ,2436.0,47.025,9.14666667,False
+Kraxenkogel ,2436.0,47.25388889,13.35722222,False
+Altmann ,2435.0,47.23944444,9.37166667,False
+Laugenspitze ,2434.0,46.53472222,11.08611111,False
+Seehorn ,2434.0,46.1825,8.11555556,False
+Deneck ,2433.0,47.29111111,14.05,False
+Cornettes de Bise ,2432.0,46.3325,6.78472222,True
+Mont de Grange ,2432.0,46.2625,6.78083333,True
+Raz de Bec ,2431.0,44.66805556,5.98805556,False
+L'Ouillon ,2431.0,45.24,6.215,True
+Monte Azzarini ,2431.0,46.05972222,9.6425,False
+Raucheck ,2430.0,47.49916667,13.22666667,False
+Laliderer Falk ,2427.0,47.435,11.51916667,False
+Monte Ferrante ,2427.0,45.97472222,10.02861111,False
+Sforniòi di Mezzo ,2425.0,46.34861111,12.26722222,False
+Großer Galtenberg ,2424.0,47.33666667,11.97638889,False
+Col della Croce ,2423.0,46.16527778,11.63861111,False
+Oberwölzer Schoberspitze ,2423.0,47.28916667,14.16111111,False
+L'Argentine ,2422.0,46.27333333,7.13083333,True
+Monte Cimon ,2422.0,46.55138889,12.76305556,False
+Cima di Capezzone ,2421.0,45.945,8.20888889,False
+Geierhaupt ,2417.0,47.37472222,14.63638889,False
+Monte Alto di Pelsa ,2417.0,46.35583333,11.99972222,False
+Ehrwalder Sonnenspitze ,2417.0,47.3675,10.92194444,False
+Pizzo Erra ,2417.0,46.44111111,8.89083333,False
+Karhorn ,2416.0,47.24805556,10.15111111,False
+Hochreichart ,2416.0,47.36333333,14.68194444,False
+Hoh Brisen ,2413.0,46.8975,8.46583333,False
+Crodon di Tiarfin ,2413.0,46.46583333,12.59166667,False
+Schafberg ,2413.0,47.16916667,9.95138889,False
+Sassolungo di Cibiana ,2413.0,46.35888889,12.28277778,False
+Bleikogel ,2411.0,47.51416667,13.29833333,False
+Grignone ,2409.0,45.95333333,9.3875,True
+Cima di Pramper  ,2409.0,46.29666667,12.16694444,False
+Mont Charvin ,2409.0,45.8025,6.42,True
+Kilnprein ,2408.0,46.98527778,13.84277778,False
+Monte Pezza ,2408.0,46.40583333,11.92055556,False
+Sasso Bianco ,2407.0,46.4125,11.95944444,False
+Zirmebenjoch ,2407.0,47.29388889,10.53833333,False
+Monte San Lucano ,2406.0,46.31083333,11.96,False
+Erlspitze ,2405.0,47.32,11.28555556,False
+Cresta di Enghe ,2405.0,46.52083333,12.63444444,False
+Saile ,2404.0,47.19194444,11.32527778,False
+Bric Costa Rossa ,2403.0,44.25083333,7.6,False
+Zitterklapfen ,2403.0,47.26805556,9.97111111,False
+Lopa ,2402.0,46.37027778,13.49416667,False
+Fundelkopf ,2401.0,47.11,9.67638889,False
+Monte Susino ,2397.0,45.99055556,10.18666667,False
+Seckauer Zinken ,2397.0,47.33916667,14.73611111,False
+Hochkünzelspitze ,2397.0,47.27194444,10.03027778,False
+Cima d'Oltro ,2397.0,46.22055556,11.90694444,False
+Zirbitzkogel ,2396.0,47.06361111,14.56722222,False
+Veliko Špičje ,2396.0,46.34361111,13.76666667,False
+Cima di Sette Selle / Sasso Rotto ,2396.0,46.12833333,11.39833333,False
+Planjava ,2394.0,46.35666667,14.61,False
+Croda di Mezzodi ,2394.0,46.53277778,12.57777778,False
+Montagne de Boules ,2391.0,44.17388889,6.50055556,False
+Kampspitze ,2390.0,47.29388889,13.64277778,False
+Vanil Noir ,2389.0,46.52861111,7.14833333,True
+Le Tabor ,2389.0,44.97722222,5.85583333,False
+Großer Hochkasten ,2389.0,47.67361111,14.0475,False
+Warscheneck ,2388.0,47.6525,14.24138889,False
+Elferkopf ,2387.0,47.30222222,10.17777778,False
+Gamskögel ,2386.0,47.36583333,14.54833333,False
+Gamsberg ,2385.0,47.13555556,9.37611111,False
+Roc de Garnesier ,2383.0,44.66055556,5.7925,False
+Rudiger ,2382.0,47.32916667,10.70166667,False
+Monte Cimone ,2379.0,46.42361111,13.38527778,False
+Monte Ponteranica ,2378.0,46.02916667,9.59555556,False
+Gartnerwand ,2377.0,47.385,10.82111111,False
+Knittelkarspitze ,2376.0,47.37555556,10.65111111,False
+Vilan ,2376.0,47.01277778,9.60305556,False
+Pizzo di Campel ,2376.0,46.33194444,9.26166667,False
+Hochweberspitze ,2375.0,47.30888889,14.20055556,False
+Reither Spitze ,2374.0,47.32305556,11.23611111,False
+La Croix de Cassini ,2373.0,45.07333333,6.13416667,True
+Plenge ,2373.0,46.6525,12.90027778,False
+Reißkofel ,2371.0,46.68583333,13.14722222,False
+Tschirgant ,2370.0,47.24166667,10.79638889,False
+Hohe Pressing ,2370.0,46.93777778,13.69222222,False
+Hochtor ,2369.0,47.56166667,14.63277778,False
+Monte Pegherolo ,2369.0,46.02472222,9.71361111,False
+Gehrenspitze ,2367.0,47.38666667,11.135,False
+Großer Rettenstein ,2366.0,47.33277778,12.29694444,False
+Croda de R'Ancona ,2366.0,46.61416667,12.11777778,False
+Geißstein ,2363.0,47.3375,12.49555556,False
+Pusterwalder Hohenwart ,2363.0,47.32888889,14.23638889,False
+Niesen ,2362.0,46.64611111,7.6525,False
+Wistätthorn ,2362.0,46.45416667,7.38638889,True
+Cima Brica ,2362.0,46.38027778,12.53361111,False
+Großes Teufelshorn ,2361.0,47.48916667,13.03611111,False
+Poncione Piancascia ,2360.0,46.29861111,8.73361111,False
+Vigna Soliva ,2356.0,46.00694444,9.98694444,False
+Großer Rosszahn ,2356.0,47.38722222,10.46888889,False
+Grimming ,2351.0,47.52055556,14.01694444,False
+La Tournette ,2351.0,45.82722222,6.28638889,True
+Brienzer Rothorn ,2350.0,46.78722222,8.04694444,True
+Wittenberghorn ,2350.0,46.41611111,7.21,True
+Seekarspitze ,2350.0,47.27277778,13.54388889,False
+Kahlersberg ,2350.0,47.53138889,13.03222222,False
+Cima di Canogia ,2350.0,46.20805556,8.41361111,False
+Bavški Grintavec ,2347.0,46.36888889,13.67083333,False
+Pletzen ,2345.0,47.33305556,14.61722222,False
+Cimon del Teverone ,2345.0,46.20916667,12.40277778,False
+Ellmauer Halt ,2344.0,47.56222222,12.30305556,False
+Kellerjoch (Kreuzjoch) ,2344.0,47.31888889,11.77083333,False
+Steinfeldspitze ,2344.0,47.26611111,13.45194444,False
+Monte Chétif ,2343.0,45.79972222,6.94888889,True
+Briceljk ,2343.0,46.39472222,13.63194444,False
+Grand Veymont ,2341.0,44.87,5.52666667,True
+Thaneller ,2341.0,47.42638889,10.72472222,False
+Crève Tête ,2341.0,45.45111111,6.46777778,True
+Wasserbergfirst ,2341.0,46.93944444,8.78916667,False
+Elsighore ,2341.0,46.53472222,7.63972222,False
+Daniel ,2340.0,47.43277778,10.88027778,False
+Pied Moutet ,2339.0,45.00722222,6.09611111,True
+Aserlespitze ,2337.0,47.34055556,10.7575,False
+Großer Grießstein ,2337.0,47.39083333,14.54,False
+Cima Dodici ,2336.0,45.9975,11.46805556,False
+Hochmölbing ,2336.0,47.63416667,14.17805556,False
+Monte Pavione ,2335.0,46.10472222,11.82111111,False
+Pizzo del Moro ,2335.0,45.93027778,8.12472222,False
+Monte Mucrone ,2335.0,45.62027778,7.94472222,True
+Monte Terza Piccola ,2334.0,46.56,12.62472222,False
+Rinsennock ,2334.0,46.90888889,13.85138889,False
+Gailtaler Polinik ,2332.0,46.62722222,12.98222222,False
+Maurerberg ,2332.0,46.70416667,11.82138889,False
+Tour d'Aï ,2331.0,46.37222222,7.00194444,True
+Klomnock ,2331.0,46.88083333,13.78805556,False
+Ackerlspitze ,2329.0,47.55916667,12.3475,False
+Bernkogel ,2325.0,47.24861111,13.04333333,False
+Monte Piana ,2324.0,46.61527778,12.2425,False
+Cavallazza ,2324.0,46.27888889,11.77638889,False
+Cornaget ,2323.0,46.31194444,12.58444444,False
+Montagne du Cheval Blanc ,2323.0,44.12722222,6.42416667,False
+Pte Noire de Pormenaz ,2323.0,45.95888889,6.80138889,True
+Cima del Fop ,2322.0,45.93305556,9.86388889,True
+Pizzo Cramalina ,2322.0,46.25527778,8.62388889,False
+Seehorn ,2321.0,47.51666667,12.85305556,False
+Creta di Mimoias ,2320.0,46.51055556,12.62472222,False
+Golzentipp ,2317.0,46.73444444,12.60388889,False
+Weißhorn  ,2317.0,46.35361111,11.44472222,False
+Marmontana ,2316.0,46.17194444,9.17027778,False
+Großhansl ,2315.0,47.31861111,14.26583333,False
+Nabois Grande ,2313.0,46.43916667,13.48833333,False
+Monte Turlon ,2312.0,46.32194444,12.50527778,False
+Cima dei Vieres ,2310.0,46.30972222,12.48472222,False
+Großer Beil ,2309.0,47.34138889,12.02722222,False
+Hinterrugg ,2306.0,47.15361111,9.30472222,False
+Caserine Alte ,2306.0,46.31472222,12.63166667,False
+Schaufelspitze ,2306.0,47.42305556,11.60777778,False
+Monte Civrari ,2302.0,45.19194444,7.32722222,False
+Monte Togano (m),2301.0,46.08972222,8.39416667,False
+Cima di Menna ,2300.0,45.92972222,9.76,True
+Hochiss ,2299.0,47.45833333,11.765,False
+Bruderkogel ,2299.0,47.38777778,14.42222222,False
+Steinkogel ,2299.0,47.29861111,12.23638889,False
+Mutteristock ,2294.0,47.04833333,8.94305556,False
+Lastìa de Framónt ,2294.0,46.31416667,12.03527778,False
+Höllwand ,2287.0,47.2825,13.16388889,False
+Lumkofel ,2287.0,46.72111111,12.84222222,False
+Stadelhorn ,2286.0,47.59277778,12.79583333,False
+Montagne de Coste Longue ,2286.0,44.13388889,6.48527778,False
+Ochsenkopf ,2286.0,47.11472222,9.62472222,False
+Grande Moucherolle ,2284.0,45.00555556,5.56583333,True
+Rautispitz ,2283.0,47.07111111,9.02833333,False
+Druesberg ,2282.0,47.00416667,8.83361111,False
+Trogkofel / Creta di Aip ,2280.0,46.57055556,13.21694444,False
+Großer Daumen ,2280.0,47.44138889,10.37555556,False
+Brisi ,2279.0,47.15333333,9.27666667,False
+Rauer Knöll ,2278.0,47.38694444,11.62333333,False
+Hochschwab ,2277.0,47.61833333,15.14222222,False
+Jauken (Torkofel) ,2276.0,46.70194444,13.07666667,False
+Kronplatz (Spitzhörnle) ,2275.0,46.73888889,11.95805556,False
+Leilachspitze ,2274.0,47.43861111,10.54611111,False
+Tosc ,2273.0,46.35666667,13.86833333,False
+Rotgschirr ,2270.0,47.70166667,13.99638889,False
+Monte Chiadin ,2269.0,46.59722222,12.73833333,False
+Monte Vacalizza ,2266.0,46.305,12.47666667,False
+Hochschottwies ,2262.0,47.51416667,13.12472222,False
+Cima Carega ,2259.0,45.72416667,11.13,False
+Höfats ,2259.0,47.36694444,10.34972222,False
+Croix de Rougny ,2259.0,44.85916667,5.99944444,False
+Soiernspitze ,2257.0,47.48166667,11.3575,False
+Monte Cadria ,2254.0,45.93861111,10.69805556,False
+Dent de Savigny ,2252.0,46.54972222,7.22666667,True
+Hirschkopf ,2252.0,47.2325,12.9425,False
+Admonter Reichenstein ,2251.0,47.54916667,14.54416667,False
+Cimon del Cavallo ,2251.0,46.13333333,12.49638889,False
+Pta Setteventi ,2250.0,45.86027778,10.39277778,False
+Morgenberghorn ,2249.0,46.62222222,7.79361111,False
+Hochkogel ,2249.0,47.32833333,12.61694444,False
+Rötelstein ,2247.0,47.45722222,13.55527778,False
+Gaishorn ,2247.0,47.47,10.47694444,False
+Sparafeld ,2247.0,47.54944444,14.53027778,False
+Pizzo di Gino ,2245.0,46.12361111,9.145,False
+Großer Pyhrgas ,2244.0,47.6525,14.39805556,False
+Roc d'Enfer ,2244.0,46.18972222,6.61194444,True
+Krn ,2244.0,46.26611111,13.65833333,False
+Piz di Mezzodì ,2240.0,46.21888889,12.03611111,False
+Rosskofel /M Cavallo di Pontebba ,2239.0,46.55055556,13.24027778,False
+Köllenspitze ,2238.0,47.49888889,10.63027778,False
+Hochstuhl / Veliki Stol ,2237.0,46.43361111,14.17472222,False
+Monte Larone ,2237.0,46.21916667,8.36277778,False
+Latschur ,2236.0,46.73833333,13.39666667,False
+Croise Baulet ,2236.0,45.89888889,6.55277778,True
+Schafberg ,2235.0,46.63694444,7.31638889,True
+Pasubio (Cima Palon) ,2232.0,45.79222222,11.17638889,False
+Pte d'Almet ,2232.0,45.98138889,6.52194444,True
+Geierkogel ,2231.0,47.39972222,14.49972222,False
+Hoher Ifen ,2230.0,47.35444444,10.1,False
+Monte Messer ,2230.0,46.17527778,12.455,False
+Monte Lavanech ,2229.0,45.95138889,10.54333333,False
+Monte Borga ,2228.0,46.29361111,12.34944444,False
+Gumpeneck ,2226.0,47.39722222,14.01472222,False
+Großer Buchstein ,2224.0,47.60888889,14.60416667,False
+Kalški Greben ,2224.0,46.33138889,14.53805556,False
+Rappenspitze ,2223.0,47.40222222,11.64583333,False
+Sosto ,2221.0,46.54833333,8.95194444,False
+Dent d'Oche ,2221.0,46.35333333,6.73111111,True
+Hochrettelstein ,2220.0,47.42472222,14.23277778,False
+Hochkarfelderkopf ,2219.0,47.51916667,13.35555556,False
+Cima Valdritta ,2218.0,45.72638889,10.84388889,False
+Pte d'Arcalod ,2217.0,45.68166667,6.22833333,True
+Lugauer ,2217.0,47.55361111,14.72277778,False
+Kleiner Rettenstein ,2216.0,47.33638889,12.34166667,False
+Les Jumelles ,2215.0,46.35194444,6.81222222,True
+Steinbergstein ,2215.0,47.34138889,12.19027778,False
+Gößeck ,2214.0,47.44805556,14.89972222,False
+Schwarzwand ,2214.0,47.0075,13.69305556,False
+Aineck ,2210.0,47.05555556,13.63833333,False
+Würflinghöhe ,2210.0,47.0075,13.95166667,False
+Monte La Palazza ,2210.0,46.31055556,12.35583333,False
+Rombon ,2208.0,46.36722222,13.55388889,False
+Mont Charvin ,2207.0,45.2175,6.285,True
+Hoher Trieb ,2199.0,46.59694444,13.06166667,False
+Pte de la Sambuy ,2198.0,45.69166667,6.26555556,True
+Galinakopf ,2198.0,47.15166667,9.62083333,False
+Cima di Vanerle ,2198.0,46.05138889,10.28138889,False
+Pécloz ,2197.0,45.63194444,6.23055556,True
+Hohgant ,2197.0,46.78805556,7.90166667,True
+Scheiblingstein ,2197.0,47.65333333,14.42388889,False
+Große Arnspitze ,2196.0,47.3975,11.22277778,False
+Chrüz ,2196.0,46.955,9.775,False
+Hochschwung ,2196.0,47.40722222,14.33944444,False
+Zuc dal Bôr / Zuc del Bor ,2195.0,46.44944444,13.25861111,False
+Gartnerkofel ,2195.0,46.57138889,13.30416667,False
+Hochwipfel ,2195.0,46.59444444,13.17666667,False
+Guffert ,2194.0,47.54611111,11.78916667,False
+Cima della Laurasca ,2193.0,46.05805556,8.47611111,False
+Hochzinödl ,2191.0,47.56583333,14.66638889,False
+Stockhorn ,2190.0,46.69388889,7.5375,True
+Hinterer Geißstein ,2190.0,47.30666667,13.53861111,False
+Blayeul ,2189.0,44.24722222,6.31222222,False
+Gros Van ,2189.0,46.39638889,7.06916667,True
+Gridone ,2188.0,46.12361111,8.64805556,False
+Ochsen ,2188.0,46.69888889,7.41861111,True
+Ameringkogel ,2187.0,47.07333333,14.80805556,False
+Monte Sernio ,2187.0,46.475,13.1375,False
+Pizzocco ,2187.0,46.14,12.00944444,False
+Kreuzspitze ,2185.0,47.52666667,10.91833333,False
+Monte Misa ,2184.0,45.90111111,10.44416667,False
+Monte Rite ,2183.0,46.38444444,12.25805556,False
+Pizzo Stagno ,2183.0,46.07722222,8.45916667,False
+Trélod ,2181.0,45.69277778,6.19638889,True
+Monte Bondone (Cornetto) ,2180.0,45.98805556,11.03138889,False
+Wertatscha / Vrtača ,2180.0,46.43972222,14.2125,False
+Lüschgrat ,2178.0,46.70166667,9.34472222,False
+Grignetta ,2177.0,45.92166667,9.39027778,True
+Pte d'entre Deux Pertuis ,2176.0,46.23416667,6.73111111,True
+Signal de l'Homme ,2176.0,45.06694444,6.08555556,False
+Bulacia / Puflatsch ,2174.0,46.56388889,11.615,False
+Hexenturm ,2172.0,47.64583333,14.48111111,False
+Goldachnock ,2171.0,47.03472222,14.0575,False
+Monte Crot ,2169.0,46.42722222,12.09972222,False
+Monte Chiarescons ,2168.0,46.34777778,12.62638889,False
+Dobratsch ,2166.0,46.60333333,13.67111111,False
+Col Rosa ,2166.0,46.58611111,12.0975,False
+Eisenerzer Reichenstein ,2165.0,47.5025,14.93444444,False
+Gehrenspitze ,2163.0,47.50027778,10.65527778,False
+Geierköpfe ,2161.0,47.51972222,10.875,False
+Monte Massone ,2161.0,45.94694444,8.33805556,False
+Pic de Gleize ,2161.0,44.63444444,6.04388889,False
+Zuccone Campelli ,2159.0,45.95333333,9.51694444,False
+Monte Zeda ,2156.0,46.04555556,8.53527778,False
+Dosso della Torta ,2156.0,45.96666667,10.76388889,False
+Frudiger ,2153.0,46.96888889,10.57944444,False
+Monte Padrio ,2153.0,46.18666667,10.2275,False
+Hochmatt ,2152.0,46.57583333,7.22,True
+Becco di Filadonna ,2150.0,45.96361111,11.19305556,False
+Cresta Le Coraie ,2149.0,46.20972222,12.0775,False
+Pizzo Camino ,2148.0,45.9775,8.23444444,False
+Wöllaner Nock ,2145.0,46.77666667,13.82972222,False
+Mittagskogel / Kepa ,2143.0,46.50666667,13.95277778,False
+Monte Zermula ,2143.0,46.56138889,13.15138889,False
+Goldeck ,2142.0,46.75861111,13.45944444,False
+Großer Speikkogel ,2140.0,46.7875,14.97166667,False
+Gstoder ,2140.0,47.1425,13.9925,False
+Hochobir / Ojstrc ,2139.0,46.50583333,14.48777778,False
+Kammspitz ,2139.0,47.47611111,13.885,False
+Strimskogel ,2139.0,47.31194444,13.47083333,False
+Koschutnikturm /Košutnikov turn ,2136.0,46.44611111,14.41055556,False
+Dôme de Barrot ,2136.0,44.03694444,6.91722222,False
+Cime de Marta / Cima Marta ,2135.0,44.01833333,7.65694444,False
+Monte Colli ,2135.0,46.03194444,10.20138889,False
+Glatthorn ,2134.0,47.26527778,9.87972222,False
+Monte Serva ,2133.0,46.20027778,12.23277778,False
+Storžič ,2132.0,46.35,14.40527778,False
+Monte Birrone ,2131.0,44.5425,7.25222222,False
+Pilatus (Tomlishorn) ,2128.0,46.97388889,8.24111111,False
+Elm ,2128.0,47.67361111,13.96305556,False
+Kordeschkopf / Kordeževa glava ,2126.0,46.5,14.78055556,False
+Jerebica ,2126.0,46.39805556,13.565,False
+Paganella (Cima Roda) ,2124.0,46.14333333,11.0375,False
+Kuhgrat ,2123.0,47.16666667,9.56083333,False
+Montagne du Carton ,2123.0,44.18138889,6.46083333,False
+Ebenstein ,2123.0,47.60583333,15.02833333,False
+Zeiritzkampel ,2120.0,47.49138889,14.72611111,False
+Monte Tinisa ,2120.0,46.41361111,12.71861111,False
+Spitzegel ,2119.0,46.655,13.41055556,False
+Wildseeloder ,2119.0,47.43194444,12.53194444,False
+Hundstein ,2117.0,47.33805556,12.91138889,False
+Roen ,2116.0,46.36055556,11.19194444,False
+Almkogel ,2116.0,47.61944444,14.09305556,False
+Gsuchmauer ,2116.0,47.54888889,14.6675,False
+Les Monges ,2115.0,44.26305556,6.19472222,False
+Montagne de Cordœil ,2114.0,44.06833333,6.53,False
+Pte de Chalune ,2113.0,46.18027778,6.58333333,True
+Sommet de Clot Ginoux ,2112.0,44.29638889,6.21277778,False
+Le Chamossaire ,2112.0,46.32666667,7.06138889,True
+Mirnock ,2110.0,46.75888889,13.71555556,False
+Trentski Pelc ,2109.0,46.38583333,13.70944444,False
+Millstätter Alpe (P ,2108.0,46.85722222,13.57833333,False
+Tête de Comagne ,2106.0,45.745,7.72194444,True
+Mondscheinspitze ,2106.0,47.46666667,11.61361111,False
+Les Cluots ,2106.0,44.04694444,7.00472222,False
+Schluchberg ,2106.0,46.86666667,8.33388889,False
+Hochkogel ,2105.0,47.53888889,14.81527778,False
+Schopfenspitz / Gros Brun ,2104.0,46.6225,7.25055556,True
+Schönberg ,2104.0,47.13027778,9.59305556,False
+Mont Chalancha ,2102.0,44.035,7.21277778,False
+Schafreuter ,2102.0,47.50916667,11.4875,False
+Pizzo Proman ,2099.0,46.02416667,8.39472222,False
+Zwölferkogel ,2099.0,47.70944444,13.9525,False
+Simmering ,2096.0,47.27805556,10.86694444,False
+Himmeleck ,2096.0,47.42666667,14.60305556,False
+Damülser Mittagsspitze ,2095.0,47.31027778,9.88388889,False
+Schönberg / Wildenkogel ,2093.0,47.7125,13.79361111,False
+Mont Chauffé ,2093.0,46.30916667,6.76055556,True
+Schrattenfluh (Hengst) ,2092.0,46.83416667,7.95777778,True
+Schatzbichl ,2090.0,46.72416667,12.91194444,False
+Il Palone ,2090.0,46.02694444,11.05861111,False
+Pte d'Angolon ,2090.0,46.13805556,6.73083333,True
+Diedamskopf ,2090.0,47.34638889,10.02555556,False
+Itonskopf ,2089.0,47.11611111,9.93333333,False
+Jôf di Miezegnot ,2087.0,46.47666667,13.45333333,False
+Pic Grillon ,2087.0,44.75138889,5.91777778,False
+Krottenkopf ,2086.0,47.545,11.19333333,False
+Montagne Durbonas ,2086.0,44.61111111,5.75944444,False
+Mont de l'Arpille ,2085.0,46.07722222,7.00666667,True
+Seebergspitze ,2085.0,47.46611111,11.67972222,False
+Mont Aig. ,2085.0,44.84194444,5.5525,False
+Monte Zelo ,2083.0,46.26333333,12.0925,False
+Zadnjiški Ozebnik ,2083.0,46.36944444,13.78222222,False
+Krofička ,2083.0,46.37444444,14.64583333,False
+Chamechaude ,2082.0,45.28805556,5.79,True
+Hochplatte ,2082.0,47.55222222,10.8425,False
+Trenchtling (Hochturm) ,2081.0,47.53444444,15.00805556,False
+Breithorn ,2081.0,47.21138889,9.91416667,False
+Monte Altissimo di Nago ,2079.0,45.81027778,10.88888889,False
+Ladinger Spitz ,2079.0,46.85333333,14.65083333,False
+Rinderberg ,2079.0,46.50527778,7.35694444,False
+Turnen ,2079.0,46.62777778,7.4925,True
+Vorderunnütz ,2078.0,47.51472222,11.73888889,False
+Klosterwappen ,2076.0,47.76722222,15.805,False
+Cima del Cacciatore / Kamniti Lovec ,2071.0,46.46472222,13.52805556,False
+Stadelstein ,2070.0,47.48972222,14.85694444,False
+Monte Coppolo ,2069.0,46.08277778,11.71083333,False
+Hirscheck ,2068.0,47.6275,14.12305556,False
+Monte Resettum ,2067.0,46.23972222,12.57722222,False
+Col Gentile ,2067.0,46.46611111,12.80555556,False
+Padauner Kogel ,2066.0,47.04277778,11.5075,False
+Dosso Alto ,2065.0,45.81333333,10.41694444,False
+Creta Grauzaria ,2065.0,46.4675,13.1625,False
+Großer Woising ,2064.0,47.71611111,13.90388889,False
+Chateau Lebrun ,2064.0,44.80222222,6.53,False
+Burgfeldstand ,2063.0,46.72222222,7.79472222,True
+Dent de Cons ,2062.0,45.72972222,6.35166667,True
+Raduha ,2062.0,46.40972222,14.73833333,False
+Dent de Crolles ,2062.0,45.30833333,5.85694444,True
+Monte Dosaip ,2062.0,46.28388889,12.63694444,False
+Monte Agaro ,2062.0,46.09361111,11.65777778,False
+Pic Melette ,2062.0,44.62694444,6.01472222,False
+Begunjščica ,2060.0,46.42138889,14.22916667,False
+Monte Stivo ,2059.0,45.92055556,10.96361111,False
+Monte Toff ,2058.0,46.10666667,10.78833333,False
+Oisternig / Ojstrnik ,2052.0,46.56555556,13.5,False
+Mont Jocou ,2051.0,44.72416667,5.6475,False
+Sigriswiler Rothorn ,2051.0,46.73055556,7.77055556,True
+Mont Lachat de Chatillon ,2050.0,45.95972222,6.47666667,True
+Roc Cornafion ,2049.0,45.06333333,5.6025,True
+Stoderzinken ,2048.0,47.45944444,13.82888889,False
+Säuling ,2047.0,47.535,10.75583333,False
+Hundsrügg ,2047.0,46.55666667,7.30527778,True
+Mont Colombier ,2045.0,45.64416667,6.11972222,True
+Spielberghorn ,2044.0,47.43222222,12.63277778,False
+Monte Barone ,2044.0,45.735,8.155,False
+Kanisfluh (Holenke) ,2044.0,47.33166667,9.92694444,False
+Güpfi ,2043.0,46.79611111,8.19527778,False
+Rochers de Naye ,2042.0,46.43194444,6.97611111,True
+Pte de Bellevue ,2042.0,46.2575,6.8875,True
+Le Glandasse (Pié Ferré) ,2041.0,44.73722222,5.47138889,True
+Fürstein ,2040.0,46.89555556,8.06972222,True
+Saldeiner Spitze ,2036.0,47.39888889,10.53222222,False
+Leobner ,2036.0,47.49416667,14.65,False
+Tamischbachturm ,2035.0,47.61472222,14.69916667,False
+Monte Curie ,2035.0,46.59555556,12.61361111,False
+Griesmauerkogel ,2034.0,47.55111111,14.98361111,False
+Tête Grosse ,2032.0,44.33138889,6.27388889,False
+Gamsfeld ,2027.0,47.62305556,13.48111111,False
+Grand Som ,2026.0,45.37111111,5.81305556,True
+Fleischbank ,2026.0,47.47888889,11.51944444,False
+Pte d'Aveneyre ,2026.0,46.41722222,7.00472222,True
+Raut ,2025.0,46.22222222,12.64944444,False
+Kosiak / Geißberg ,2024.0,46.45305556,14.18166667,False
+Mont Lachat ,2023.0,45.92722222,6.35111111,True
+Schreckenspitze ,2022.0,47.5,11.64944444,False
+Monte Alben ,2019.0,45.86222222,9.78194444,False
+Céüse ,2016.0,44.50888889,5.96194444,False
+Monte Verena ,2015.0,45.93111111,11.41361111,False
+Dent de Lys ,2014.0,46.50777778,7.00305556,True
+Montagne de l'Ubac ,2010.0,44.26111111,6.41388889,False
+Bäderhorn ,2009.0,46.61333333,7.3275,True
+Heukuppe ,2007.0,47.68944444,15.68777778,False
+Corna Blacca  ,2006.0,45.79138889,10.38055556,False
+Dristenkopf ,2005.0,47.42055556,11.66416667,False
+Montagne de Sous Dine ,2004.0,46.00388889,6.32861111,True
+Golz ,2004.0,46.67138889,13.36583333,False
+Pizzo Ruscada ,2004.0,46.1775,8.59277778,False
+Brandstein ,2003.0,47.60083333,14.98277778,False
+Moléson ,2002.0,46.54888889,7.01722222,True
+Vordere Kesselschneid ,2001.0,47.60666667,12.2775,False
+Poludnig / Poludnik ,1999.0,46.57194444,13.41027778,False
+Monte Venturosa ,1999.0,45.92972222,9.61583333,False
+Pte de Marcelly ,1999.0,46.12861111,6.57555556,True
+Monte Scinauz ,1999.0,46.53222222,13.36388889,False
+Puy de Rent ,1996.0,44.02138889,6.59083333,False
+Kitzbüheler Horn ,1996.0,47.47611111,12.43,False
+Crêt de la Neige (Ain),1720.0,46.270975,5.939543,True
+Le Reculet (Ain),1718.0,46.257406,5.929961,True
+Colomby de Gex (Ain),1688.0,46.322181,5.995407,True
+Mont Tendre (Vaud),1679.0,46.594868,6.309923,True
+La Dôle (Vaud),1677.0,46.425687,6.099964,True
+Pointe de Poêle Chaud (Vaud),1628.0,46.434913,6.107211,True
+Grand Crêt d'Eau dont Crêt de la Goutte (Ain),1621.0,46.150445,5.863528,True
+Mont Rond (Ain),1614.0,46.347966,6.006241,True
+Le Chasseron (Vaud),1607.0,46.851771,6.538256,True
+Chasseral (Berne),1606.0,47.133002,7.059312,True
+Puy de Sancy,1885.0,45.528238,2.814012,False
+Puy de Dôme,1465.0,45.771949,2.964029,False
+Plomb du Cantal,1855.0,45.059213,2.761055,False
+Mont Lozère,1699.0,44.426622,3.738706,False
+Mont Mezenc,1753.0,44.913545,4.190565,True
+Mont Gerbier de Jonc,1551.0,44.844203,4.220418,True
+Mont Aigoual,1565.0,44.121331,3.582028,True
+Aneto ,3404.0,42.5513,0.8148,False
+Posets ,3375.0,42.8376,0.2637,False
+Perdiguero ,3221.0,42.8533,0.1667,False
+Monte Perdido ,3355.0,42.9079,0.086,False
+Pico de Estats ,3143.0,42.5733,0.6359,False
+Montardo,3122.0,42.5986,0.1614,False
+Monte Aragonés,3094.0,42.8069,0.0103,False
+Tendeñera,3102.0,42.6173,0.2506,False
+Puig mal,2913.0,42.4067,1.73,False
+Balaïtous,3144.0,42.9015,0.676,False
+Grande Ballon ,1324.0,47.901145,7.098388,True
+Storkenkopf ,1235.0,47.903294,7.079361,True
+Le Hohneck ,1362.0,48.037516,7.01569,True
+Klintzkopf ,1160.0,47.949466,7.055969,True
+Rothenbachkopf ,1183.0,48.000582,6.981054,True
+Lauchenkopf ,1157.0,47.956161,7.039341,True
+Gazon du Faing ,1445.0,48.10876,7.07689,True
+Rainkopf ,1186.0,48.009827,6.98251,True
+Petit Ballon ,1258.0,47.980645,7.125905,True
+Haute Bers (Le Gresson,1020.0,47.84622,6.912358,True
