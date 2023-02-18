@@ -384,7 +384,7 @@ def summit_is_visible_multi_locations_offline(grid_locations, location_summit, o
         with open(file, 'r') as f:
             view_possible_list.extend(f.readlines())
     
-    view_possible_list = np.array(view_possible_list, dtype=bool)
+    view_possible_list = np.array(view_possible_list)
     grid_locations_processed["view_possible"] = view_possible_list
     
     return grid_locations_processed

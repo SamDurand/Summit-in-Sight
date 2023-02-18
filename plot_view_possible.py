@@ -2,7 +2,7 @@ import pandas as pd
 from plotly.express import scatter_mapbox
 
 # Import a file
-grid_locations = pd.read_csv("data/results/Grid_W_Europe_res=2.5km.csv")
+grid_locations = pd.read_csv("data/results/Grid_NW_Alps_res=0.5km.csv")
 
 
 # Keep only locations when view_possible = True
