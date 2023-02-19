@@ -16,4 +16,17 @@ grid_locations = generate_locations_grid(top_left_corner, bottom_right_corner, r
 grid_locations_processed = summit_is_visible_multi_locations_offline(grid_locations, location_summit, offset_view, offset_summit)
 
 # Save data to csv file
-grid_locations_processed.to_csv("data_multi_locations_offline.csv")
+grid_locations_processed.to_csv("data_multi_locations_offline.csv", index=False)
+
+# Correct errors and reformat view_possible data
+view_possible_corrected = []
+for i, view in enumerate(grid_locations_processed["view_possible"]):
+    if view == "error\r\n":
+        view_possible_corrected.append(summit_is_visible_multi_locations_offline(location_point=[grid_locations_processed["latitude"][i], grid_locations_processed["longitude"][i]], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit))
+    else:
+        view_possible_corrected.append(view.replace("\r", "").replace("\n", ""))
+
+grid_locations_processed["view_possible"] = view_possible_corrected
+
+# Save data to csv file
+grid_locations_processed.to_csv("data_multi_locations_offline.csv", index=False)
