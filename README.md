@@ -76,7 +76,6 @@ Some additional examples below:
    
 ![return](data/pictures/katmandu_everest.png)
 
-
-![test](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/results/summits_results.html?token=GHSAT0AAAAAAB6GVP5XK6IY4V3UOYXA4ZZMY7Y4DOQ)
+[test](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/results/summits_results.html?token=GHSAT0AAAAAAB6GVP5XK6IY4V3UOYXA4ZZMY7Y4DOQ)
 
 *Profile image was generated using AI: [DALL E](https://openai.com/dall-e-2/)*
