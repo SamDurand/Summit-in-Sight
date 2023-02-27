@@ -1,4 +1,4 @@
-from summit_lib import generate_locations_grid, summit_is_visible_multi_locations_offline
+from summit_lib import generate_locations_grid, summit_is_visible_multi_locations_offline, summit_is_visible_fast_offline
 
 top_left_corner, bottom_right_corner = [48, 2], [43, 5] # Grid covering west Europe 
 
@@ -21,8 +21,8 @@ grid_locations_processed.to_csv("data_multi_locations_offline.csv", index=False)
 # Correct errors and reformat view_possible data
 view_possible_corrected = []
 for i, view in enumerate(grid_locations_processed["view_possible"]):
-    if view == "error\r\n":
-        view_possible_corrected.append(summit_is_visible_multi_locations_offline(location_point=[grid_locations_processed["latitude"][i], grid_locations_processed["longitude"][i]], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit))
+    if view == "error" or view == "error\n":
+        view_possible_corrected.append(summit_is_visible_fast_offline(location_point=[grid_locations_processed["latitude"][i], grid_locations_processed["longitude"][i]], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit))
     else:
         view_possible_corrected.append(view.replace("\r", "").replace("\n", ""))
 
