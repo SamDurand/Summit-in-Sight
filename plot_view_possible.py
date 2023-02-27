@@ -9,9 +9,9 @@ grid_locations = pd.read_csv("data/results/summits_results.csv")
 grid_locations = grid_locations[grid_locations['view_possible'] == True]
 
 # PLot locations
-fig = scatter_mapbox(grid_locations, lat="latitude", lon="longitude", zoom=5, mapbox_style="stamen-terrain", color_discrete_sequence=["mediumspringgreen"])
-fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-fig.update_traces(cluster=dict(enabled=True))
-# fig.show()
+fig = scatter_mapbox(grid_locations, lat="latitude", lon="longitude", zoom=5, mapbox_style="stamen-terrain", color_discrete_sequence=["mediumspringgreen"], text="elevation", hover_name="name")
 
-fig.write_html("data/results/summits_results.html")
+fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+fig.show()
+
+# fig.write_html("data/results/summits_results.html")
