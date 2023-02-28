@@ -8,8 +8,7 @@ Python package to determine the visibility of a summit from specified locations.
 Global results:
 [test](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/results/summits_results.html?token=GHSAT0AAAAAAB6GVP5XK6IY4V3UOYXA4ZZMY7Y4DOQ)
 Only from summits:
-[From summits: Mont_Blanc](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/results/summits_results.html?token=GHSAT0AAAAAAB6GVP5XK6IY4V3UOYXA4ZZMY7Y4DOQ)
-
+[From summits: Mont_Blanc](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/maps/from_summits_MontBlanc.html)
 
 ## Installation
 
