@@ -5,10 +5,11 @@
 Python package to determine the visibility of a summit from specified locations. It allows to generate a map with the locations from which a summit is in sight.
 
 ## See the results: Where is Mont-Blanc (4810 m) visible?
-Global results:
-[test](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/results/summits_results.html?token=GHSAT0AAAAAAB6GVP5XK6IY4V3UOYXA4ZZMY7Y4DOQ)
-Only from summits:
-[From summits: Mont_Blanc](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/maps/from_summits_MontBlanc.html)
+[Global results](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/maps/from_summits_MontBlanc.html)
+
+[Only from summits](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/maps/from_summits_MontBlanc.html)
+
+[![Alt text for broken image link](data/pictures/geneva_montblanc.png)](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/maps/from_summits_MontBlanc.html)
 
 ## Installation
 
