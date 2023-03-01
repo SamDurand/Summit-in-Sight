@@ -1,6 +1,6 @@
 from summit_lib import generate_locations_grid, summit_is_visible_multi_locations_offline, summit_is_visible_fast_offline
 
-top_left_corner, bottom_right_corner = [48, 5], [47, 8] # Grid covering west Europe 
+top_left_corner, bottom_right_corner = [49, 8], [48, 11] # Grid covering west Europe 
 
 location_summit = [45.832542 , 6.864717] # The summit to spot: Mont_Blanc, 4810m, France
 
