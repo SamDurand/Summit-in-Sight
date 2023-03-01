@@ -94,7 +94,7 @@ To generate the grid, you must first define the limits of your bounding box, def
 
 You can also specify an offset for your location (`offset_view`) and for the summit (`offset_summit`).
 
-The results are saved in a csv file containing the coordinates of each location and `view_possible`, the boolean value (True or False) indicating whether the summit is visible from that location.
+The results are saved in a csv file containing the coordinates of each location and `view_possible`, the boolean value (True or False) indicating whether the summit is visible from that location. During computing, view_possible list will be written in temporary txt file (exemple: ;...;;.). Once the code is finished, you can delete them.
 
 You can then use the `plot_view_possible` to plot your coordinates on a map.
 
