@@ -1,8 +1,7 @@
 ![image](data/pictures/logo_summit.png)
 
-# Summit-in-Sight
-
-Python package to determine the visibility of a summit from specified locations. It allows to generate a map with the locations from which a summit is in sight.
+# **Summit-in-Sight**
+Python package to determine the visibility of a summit from specified locations, allowing you to generate a map with the locations from which a summit is in sight! 
 
 ## See the results: Where can we see the summit of Mont Blanc from?
 **Global results:** (click on image)
