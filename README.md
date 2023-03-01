@@ -1,8 +1,16 @@
 ![image](data/pictures/logo_summit.png)
 
-# Summit-in-Sight
+# **Summit-in-Sight**
+Python package to determine the visibility of a summit from specified locations, allowing you to generate a map with the locations from which a summit is in sight! 
 
-Python package to determine the visibility of a summit from specified locations. It allows to generate a map with the locations from which a summit is in sight.
+## See the results: Where can we see the summit of Mont Blanc from?
+**Global results:** (click on image)
+
+[![Only from summits](data/pictures/from_summits_MontBlanc_map.png)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SamDurand/Summit-in-Sight/main/data/maps/from_summits_MontBlanc.html)
+
+**Only from summits:** (click on image)
+
+[![Only from summits](data/pictures/from_summits_MontBlanc_map.png)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SamDurand/Summit-in-Sight/main/data/maps/from_summits_MontBlanc.html)
 
 ## Installation
 
@@ -20,7 +28,7 @@ pip install -r requirements.txt
 
 ## Basic usage
 
-### Determine if a summit is in sight from a location
+### 1) Determine if a summit is in sight from a location
 
 **A full example is provided in `plot_view_possible.py`.**
 
@@ -76,6 +84,19 @@ Some additional examples below:
    
 ![return](data/pictures/katmandu_everest.png)
 
-[test](https://raw.githack.com/SamDurand/Summit-in-Sight/main/data/results/summits_results.html?token=GHSAT0AAAAAAB6GVP5XK6IY4V3UOYXA4ZZMY7Y4DOQ)
+### 2) Generate a map of possible views of a summit
+
+**A full example is provided in `multi_locations_offline.py`.**
+
+The `generate_locations_grid` function is used to generate the grid of locations, and `summit_is_visible_multi_locations_offline` is used to determine the visibility of a summit from each position.
+
+To generate the grid, you must first define the limits of your bounding box, defined by its `top_left_corner` position, `bottom_right_corner` position and resolution (`res`) in kilometers.
+
+You can also specify an offset for your location (`offset_view`) and for the summit (`offset_summit`).
+
+The results are saved in a csv file containing the coordinates of each location and `view_possible`, the boolean value (True or False) indicating whether the summit is visible from that location. During computing, view_possible list will be written in temporary txt file (exemple: ;...;;.). Once the code is finished, you can delete them.
+
+You can then use the `plot_view_possible` to plot your coordinates on a map.
+
 
 *Profile image was generated using AI: [DALL E](https://openai.com/dall-e-2/)*
