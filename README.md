@@ -6,7 +6,7 @@ Python package to determine the visibility of a summit from specified locations,
 ## See the results: Where can we see the summit of Mont Blanc from?
 **Global results:** (click on image)
 
-[![Only from summits](data/pictures/from_summits_MontBlanc_map.png)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SamDurand/Summit-in-Sight/main/data/maps/from_summits_MontBlanc.html)
+[![view_possible_Mont_Blanc](data/pictures/from_summits_MontBlanc_map.png)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SamDurand/Summit-in-Sight/main/data/maps/view_possible_Mont_Blanc.html)
 
 **Only from summits:** (click on image)
 
