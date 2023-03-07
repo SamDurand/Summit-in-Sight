@@ -23,5 +23,5 @@ For summits
 
 
 fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-# fig.show()
-fig.write_html("data/maps/view_possible_Mont_Blanc.html")
+fig.show()
+# fig.write_html("data/maps/view_possible_Mont_Blanc.html")
