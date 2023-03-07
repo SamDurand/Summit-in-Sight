@@ -1,6 +1,6 @@
 from summit_lib import generate_locations_grid, summit_is_visible_multi_locations_offline, summit_is_visible_fast_offline
 
-top_left_corner, bottom_right_corner = [48, 8], [43, 11] # Grid covering the area you want to test
+top_left_corner, bottom_right_corner = [49, 2], [48, 8] # Grid covering the area you want to test
 
 location_summit = [45.832542 , 6.864717] # The summit to spot: Mont_Blanc, 4810m, France
 
