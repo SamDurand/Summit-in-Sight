@@ -366,7 +366,9 @@ def summit_is_visible_multi_locations_offline(grid_locations, location_summit, o
                     file_names.append(f.name)
                     f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
                 f.close()
-                time.sleep(1)
+                time.sleep(5)
+            elif count % 25000 == 0:
+                time.sleep(10)
             else:
                 with open("data_temp_{}.txt".format(count - count % 50000), "a") as f:
                     f.write(str(summit_is_visible_fast_offline(location_point=locations[i], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit)) + "\n")
