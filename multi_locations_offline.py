@@ -24,7 +24,7 @@ for i, view in enumerate(grid_locations_processed["view_possible"]):
     if view == "error\r\n" or view == "error" or view == "error\n":
         view_possible_corrected.append(summit_is_visible_fast_offline(location_point=[grid_locations_processed["latitude"][i], grid_locations_processed["longitude"][i]], location_summit=location_summit, offset_view=offset_view, offset_summit=offset_summit))
     else:
-        view_possible_corrected.append(view.replace("\r", "").replace("\n", ""))
+        view_possible_corrected.append(view)
 
 grid_locations_processed["view_possible"] = view_possible_corrected
 
