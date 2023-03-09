@@ -4,6 +4,7 @@ from plotly.express import scatter_mapbox
 # Import a file
 grid_locations = pd.read_csv("data/results/global_results.csv")
 
+
 """
 For locations
 """
